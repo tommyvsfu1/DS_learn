@@ -1,19 +1,18 @@
 // DO NOT DELETE THE HEADER NODE, let DESTRUCTOR do that, or you may DELETE TWICE !!!!!
 
-
-#include <iostream>
+#include<iostream>
 using namespace std;
 
 class Chain;
 
-class ChainNode{
+class ChainNode {
 private:
 	int data;
 	ChainNode *link;
 public:
 	friend class Chain;
 	ChainNode() {
-		data = 0; 
+		data = 0;
 		link = NULL;
 	}
 	~ChainNode() { delete link; }
@@ -27,7 +26,7 @@ class Chain {
 private:
 	ChainNode* first;
 public:
-	Chain() { first = new ChainNode; first->link = NULL;  }
+	Chain() { first = new ChainNode; first->link = NULL; }
 	//~Chain() { cout << "destructor of Chain"; delete first; }
 	int length();
 	void Delete(int x) {
@@ -40,7 +39,7 @@ public:
 			if (pointer == first) { first = new ChainNode; delete pointer; }
 			else { delete pointer; }
 		}
-		
+
 	}
 	void Insert(int x) {
 		ChainNode* pointer = first;
@@ -63,28 +62,23 @@ public:
 };
 
 void Chain::DelteAll() {
-	ChainNode* t = this->first;
-	for (; t->link != NULL;) {
-		cout << "kk";
-		ChainNode* temp = new ChainNode;
-		cout << "t" << t << endl;
-		temp = t;
-		cout << "temp" << temp << endl;
-		t = t->link;
-		cout << "t" << t << endl;
-		
-		cout << "yan\n";  
+	ChainNode* t = this->first->link;
+	if (t == NULL) { cout << "DO NOT DELETE HEADER NODE"; }
+	else {
+		for (; t->link != NULL;) {
+			ChainNode* temp = new ChainNode;
+			temp = t;
+			t = t->link;
+			delete temp;
+		}
 	}
 	delete t;
-	cout << "fdsfsfsfd";
-	//else { cout << "You CAN'T DELETE THE HEADER NODE"; }
-
 }
 
 int Chain::length() {
 	int count = 1;
 	for (ChainNode* pointer = first->link; pointer != NULL; count++) { pointer = pointer->link; };
-	cout <<  count;
+	cout << count;
 	return count;
 }
 
