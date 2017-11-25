@@ -1,2 +1,2 @@
-# Dats Structure
+# Data Structure
 
