@@ -9,6 +9,7 @@
 #include <iostream>
 #include <string>
 #include <queue>
+#include <stack>
 
 class BinaryTree;
 class TreeNode {
@@ -20,6 +21,12 @@ public:
     
     TreeNode(): leftchild(0),rightchild(0),parent(0),str(""){};
     TreeNode(std::string s):leftchild(0),rightchild(0),parent(0),str(s){};
+    TreeNode(const TreeNode& t) {
+        this->leftchild = t.leftchild;
+        this->rightchild = t.rightchild;
+        this->parent = t.parent;
+        this->str = t.str;
+    }
     friend class BinaryTree;
 };
 
@@ -34,6 +41,66 @@ public:
     void Postorder(TreeNode* current);
     void Levelorder();
 };
+
+class InorderIterator {
+private:
+    const BinaryTree& t;
+    std::stack<TreeNode* > s;
+    TreeNode* current;
+public:
+    std::string* Next();
+    InorderIterator operator++(int) {
+        while(current) {
+            this->s.push(current);
+            current = current -> leftchild;
+        }
+        if (!s.empty()) {
+            current = s.top();
+            s.pop();
+            static InorderIterator* tmp;
+
+            current = current->rightchild;
+            return *tmp;
+        }
+    
+        return *this;
+    }
+    
+    InorderIterator(const BinaryTree& tree): t(tree), current(tree.root){};
+    //InorderIterator() {}
+    InorderIterator(const InorderIterator& p): t(p.t), current(p.current), s(p.s){}
+    void Get() {std::cout << this->current->str;}
+    
+};
+
+/*
+TreeNode* InorderIterator::operator++(){
+    while(current) {
+        this->s.push(current);
+        current = current -> leftchild;
+    }
+    if (!s.empty()) {
+        current = s.top();
+        s.pop();
+        return current;
+    }
+    return 0;
+}
+*/
+std::string* InorderIterator::Next() {
+    while(current) {
+        s.push(current);
+        current = current -> leftchild;
+    }
+    if (! s.empty()) {
+        current = s.top();
+        s.pop();
+        std::string& tmp = current->str;
+        current = current->rightchild;
+        return &tmp;
+    }
+    else return 0;
+}
 
 void BinaryTree::Preorder(TreeNode* current) {
     if (current) {
@@ -66,6 +133,7 @@ void BinaryTree::Levelorder() {
         std::cout << current->str;
         if (current->leftchild) q.push(current->leftchild);
         if (current->rightchild) q.push(current->rightchild);
+        //=======================
         if (q.empty()) return ;
         current = q.front();
         q.pop();
@@ -93,9 +161,18 @@ int main(int argc, const char * argv[]) {
     nodeF->rightchild = nodeI;
     
     BinaryTree T(nodeA);
+    InorderIterator i(T);
+    //std::cout << *(i.Next());
+    i++;
+    i.Get();
+    //i++;
+    //i.Get();
+    //std::cout << *(i.Next());
+      //  std::cout << *(i.Next());
+        //std::cout << *(i.Next());
     //T.Preorder(T.root);
     //T.Inorder(T.root);
     //T.Postorder(T.root);
-    T.Levelorder();
+    //T.Levelorder();
     return 0;
 }
