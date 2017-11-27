@@ -1,2 +1,2 @@
-# DS_learn
-just school note
+# Data Structure
+
