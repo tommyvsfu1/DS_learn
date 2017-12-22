@@ -1,0 +1,109 @@
+drop 3
+add 2147483647 L 3
+drop 3
+add 2147483647 L 3
+add 1073741823 L 2
+add 536870911 L 1
+add 268435455 L 0
+add 134217727 R 3
+add 67108863 R 2
+add 33554431 R 1
+add 16777215 R 0
+add 8388607 L 3
+add 4194303 L 2
+add 2097151 L 1
+add 1048575 L 0
+add 524287 R 3
+add 262143 R 2
+add 131071 R 1
+add 65535 R 0
+add 32767 L 3
+add 16383 L 2
+add 8191 L 1
+add 4095 L 0
+add 2047 R 3
+add 1023 R 2
+add 511 R 1
+add 255 R 0
+add 127 L 3
+add 63 L 2
+add 31 L 1
+add 15 L 0
+add 7 R 3
+add 3 R 2
+add 1 R 1
+drop 1
+drop 1
+drop 1
+drop 1
+drop 1
+drop 1
+drop 1
+drop 1
+drop 1
+drop 1
+drop 1
+deleteR 2147483647
+deleteR 1073741823
+deleteR 536870911
+deleteR 268435455
+deleteR 134217727
+add 67108863 R 3
+add 33554431 R 2
+add 16777215 R 1
+add 8388607 R 0
+drop 1
+deleteR 67108863
+drop 1
+deleteR 33554431
+drop 1
+deleteR 16777215
+drop 1
+deleteR 8388607
+drop 1
+deleteR 4194303
+drop 1
+deleteR 2097151
+drop 1
+deleteR 1048575
+drop 1
+deleteR 524287
+drop 1
+deleteR 262143
+drop 1
+deleteR 131071
+drop 1
+deleteR 65535
+drop 1
+deleteR 32767
+drop 1
+deleteR 16383
+drop 1
+deleteR 8191
+drop 1
+deleteR 4095
+drop 1
+deleteR 2047
+drop 1
+deleteR 1023
+drop 1
+deleteR 511
+drop 1
+deleteR 255
+drop 1
+deleteR 127
+drop 1
+deleteR 63
+drop 1
+deleteR 31
+drop 1
+deleteR 15
+drop 1
+deleteR 7
+drop 1
+deleteR 3
+add 1 R 1
+drop 1
+drop 1
+deleteR 1
+drop 2

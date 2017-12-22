@@ -1,0 +1,11 @@
+add 6 L 1
+add 3 L 2
+add 5 L 1
+add 8 L 0
+add 9 L 1
+add 1 L 1
+drop 3
+deleteR 7
+add 6 L 3
+deleteL 6
+drop 1

@@ -1,0 +1,4 @@
+Tree is empty.
+6 3 1
+Deletion failed.
+5 3
