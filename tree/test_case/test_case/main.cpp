@@ -226,7 +226,7 @@ void BST::Delete(long long int k,char token) {
     // three case=======================
     else {
         if (!p->leftchild && !p->rightchild) {
-            if (p == root) {p = 0; return ;}
+            if (p == root) {root = 0; return ;}
             //linked-list deletion
             if (q->key < k) q->rightchild = 0;
             else q->leftchild = 0;
@@ -296,13 +296,13 @@ void BST::Drop(long long int number) {
 
 int main(int argc, const char * argv[]) {   
     BST T;
-    std::cout << "hi";
+    //std::cout << "hi";
     fin.open(argv[1],std::ios::in);
     fout.open(argv[2],std::ios::out);
     int count = 0;
     std::string str;
     while (getline(fin,str,' ')) {
-        std::cout << count++ << std::endl;
+        //std::cout << count++ << std::endl;
         if (str == "add") {
             //std::cout << "add";
             getline(fin,str,' ');

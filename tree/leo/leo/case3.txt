@@ -1,0 +1,10101 @@
+add 289383 R 777
+add 636915 L 335
+add 885386 R 649
+add 641421 R 27
+add 368690 L 1763
+add 513926 R 1426
+add 89172 R 1211
+add 595368 L 429
+add 465782 R 862
+add 665123 L 1135
+add 513929 R 22
+add 723058 L 167
+add 961393 R 1011
+add 478042 L 1373
+add 484421 L 1784
+add 898537 R 324
+add 798315 R 413
+add 803526 L 980
+add 759956 L 862
+add 999170 R 1281
+add 702305 L 1084
+add 336327 R 505
+add 750846 L 1313
+add 925857 R 1895
+add 819582 L 814
+add 233367 R 364
+add 344043 R 1087
+add 426808 R 1178
+add 695788 R 1403
+add 502651 R 399
+add 999932 R 1676
+add 993368 L 12
+add 636226 R 94
+add 297539 L 570
+add 651434 R 1467
+add 66601 L 902
+add 573317 R 652
+add 260756 L 280
+add 724286 L 1865
+add 429689 R 619
+add 558440 L 31
+add 108117 L 1771
+add 834481 L 709
+add 698927 L 1856
+add 179497 L 586
+add 276965 R 683
+add 406219 R 1528
+add 332871 R 829
+add 409503 L 270
+add 363368 R 715
+add 226340 L 1796
+add 700723 R 245
+add 122846 L 921
+add 243555 L 1488
+add 537764 R 1841
+add 792350 L 1500
+add 757034 R 124
+add 324914 L 1856
+add 373743 L 227
+add 148365 L 1936
+add 151432 L 437
+add 899228 L 1407
+add 901474 L 858
+add 794395 L 1237
+add 908235 L 1818
+add 894428 L 1011
+add 335928 L 776
+add 322404 L 1763
+add 114613 R 606
+add 436840 R 818
+add 235128 R 1369
+add 67917 L 996
+add 43324 L 1470
+add 512183 R 1499
+add 689772 L 1644
+add 755590 L 139
+add 502954 R 1669
+add 338082 R 464
+add 110197 L 1355
+add 228804 R 611
+add 573622 R 1299
+add 887343 R 1568
+add 354340 R 1311
+add 613810 L 1801
+add 425661 R 878
+add 811305 R 736
+add 79444 R 522
+add 503465 R 1416
+add 408282 R 924
+add 167637 R 1624
+add 962600 R 1452
+add 911899 L 1550
+add 947468 L 973
+add 487131 L 930
+add 808933 R 660
+add 370163 L 1981
+add 548899 R 959
+add 713773 L 1668
+add 187190 L 926
+add 116466 R 1340
+add 327684 R 1542
+add 379107 L 1756
+deleteR 819582
+deleteL 750846
+drop 173
+add 262009 R 1210
+add 467587 R 1301
+add 667372 L 1255
+drop 600
+deleteR 373743
+deleteR 478042
+deleteR 322404
+add 993368 L 1150
+drop 659
+add 426808 R 1269
+drop 82
+add 167637 R 1972
+add 243555 L 1385
+add 667372 R 42
+add 340713 R 190
+drop 591
+drop 582
+add 499336 R 1155
+deleteL 698927
+drop 770
+add 513929 R 1255
+add 348142 L 1884
+add 223205 L 1567
+deleteL 297539
+add 901474 R 259
+add 324914 R 1506
+deleteL 187190
+add 390868 R 1189
+deleteR 512183
+deleteL 210498
+add 518808 L 248
+add 695788 L 1648
+add 947468 L 1746
+add 319529 R 46
+deleteL 549797
+drop 991
+add 3033 L 497
+deleteR 294892
+add 519125 R 1996
+drop 1189
+drop 1730
+deleteL 116466
+deleteL 759956
+add 595368 R 27
+deleteR 503465
+deleteL 885386
+deleteL 167637
+deleteR 226340
+drop 3
+deleteL 806403
+deleteR 122846
+deleteL 332871
+deleteR 887343
+add 667372 L 1692
+deleteL 502954
+drop 1630
+deleteR 798315
+add 834481 L 335
+drop 901
+drop 1972
+drop 290
+deleteL 636226
+add 585795 L 1144
+add 658390 R 1340
+deleteR 260756
+drop 233
+add 956042 R 1117
+add 911899 L 309
+add 344043 R 367
+deleteL 436840
+add 811305 R 57
+deleteL 792350
+deleteL 641421
+add 465782 R 346
+add 634994 R 552
+deleteL 893529
+add 532290 L 970
+deleteR 409503
+add 218593 L 627
+add 502651 R 355
+add 548899 R 1479
+deleteR 513926
+add 152274 L 1641
+deleteR 532290
+drop 1889
+drop 567
+add 27284 R 417
+add 372260 L 237
+deleteL 379107
+deleteL 289383
+add 947468 L 458
+deleteR 967637
+add 620483 L 478
+drop 1315
+deleteR 573622
+add 894428 R 1438
+add 834481 R 1233
+add 933681 L 358
+add 110699 L 1839
+drop 364
+deleteR 390868
+add 319847 L 1462
+add 539390 R 1791
+deleteL 340713
+add 796157 R 1491
+add 462951 L 1021
+deleteL 613810
+drop 31
+add 35325 L 1516
+deleteL 636915
+deleteR 558440
+drop 1405
+add 974580 R 1021
+add 228804 R 1379
+drop 686
+drop 1905
+add 433483 L 1759
+drop 1745
+add 469911 L 1950
+drop 1561
+deleteL 675105
+add 233367 R 711
+add 319529 L 1375
+add 947468 L 1768
+add 319529 L 882
+add 519125 L 30
+add 484421 R 593
+add 550253 L 1074
+deleteL 794395
+drop 378
+add 415775 R 919
+deleteR 429689
+drop 1018
+drop 236
+add 745691 L 1943
+add 666328 L 1291
+deleteR 695788
+add 836836 L 1055
+add 963858 R 904
+add 372661 L 1685
+deleteR 319847
+drop 852
+add 811305 R 503
+deleteL 179497
+deleteL 908235
+deleteR 796157
+add 880226 L 1677
+add 963981 L 1560
+drop 1956
+add 502651 L 342
+add 963858 L 1321
+deleteR 110699
+deleteR 537764
+drop 41
+add 319529 R 1830
+deleteR 370347
+add 152274 L 1714
+deleteR 499336
+drop 925
+add 189435 R 1204
+add 999932 R 1486
+deleteR 228804
+deleteR 713773
+add 989683 L 1848
+add 208324 R 1122
+drop 1336
+deleteR 152274
+deleteL 465782
+add 324914 L 1218
+add 621703 L 1933
+deleteL 999932
+deleteL 862806
+add 748720 R 1308
+drop 699
+deleteR 462951
+deleteL 252715
+add 825171 L 1559
+drop 11
+deleteL 700723
+deleteR 363368
+add 467587 L 1053
+add 489114 R 1989
+add 28067 L 1223
+add 332231 R 122
+add 803526 R 179
+deleteR 368690
+add 415775 L 1857
+deleteL 755590
+add 974580 R 433
+add 961393 L 1415
+deleteL 667372
+add 218593 R 551
+drop 33
+drop 1182
+deleteL 319529
+add 299708 L 1999
+add 112297 L 1776
+add 993368 L 587
+add 723382 L 266
+add 508860 R 1211
+drop 1087
+add 933681 R 583
+drop 1477
+deleteL 35325
+add 37525 R 839
+add 487131 R 1360
+add 247643 L 928
+add 826621 R 1955
+drop 226
+add 933681 L 853
+deleteL 107722
+add 487131 L 1097
+drop 1127
+drop 72
+deleteR 947468
+deleteR 989683
+add 228398 R 610
+deleteR 928577
+add 27284 L 552
+add 665123 L 99
+drop 567
+deleteR 406219
+add 392735 R 1298
+deleteL 634994
+add 55805 R 1428
+deleteL 836836
+add 19593 R 197
+drop 1673
+drop 446
+deleteR 573317
+deleteL 223205
+deleteR 299708
+add 565421 L 1334
+deleteR 811305
+deleteR 565421
+add 585795 R 1761
+add 508860 L 1716
+add 711850 R 1482
+drop 218
+drop 1174
+deleteL 79444
+deleteR 748720
+deleteR 148365
+add 658390 L 1537
+drop 829
+deleteR 3033
+drop 1857
+add 578341 R 1352
+drop 1512
+drop 1518
+add 113083 L 112
+deleteR 724286
+deleteL 104667
+drop 1490
+deleteR 354340
+deleteL 519125
+add 706141 R 538
+drop 637
+deleteR 89172
+add 338082 L 814
+add 548899 R 1886
+deleteR 346039
+deleteR 228398
+add 532621 L 1790
+drop 110
+add 702305 R 1735
+drop 296
+deleteL 113083
+deleteR 353198
+add 99355 L 1793
+drop 157
+add 982933 L 1286
+deleteR 898537
+deleteL 532621
+deleteL 956042
+add 933990 L 50
+deleteR 327684
+deleteL 961393
+deleteR 595368
+deleteR 665123
+drop 1845
+add 451238 L 976
+add 520019 L 343
+drop 1957
+add 757034 R 11
+deleteL 548899
+add 963858 R 868
+add 808933 R 1207
+drop 1217
+deleteR 692377
+add 757472 L 957
+deleteR 151432
+deleteR 366797
+add 293418 L 153
+drop 1475
+add 723058 L 1948
+drop 31
+add 269559 R 160
+add 489114 L 280
+add 718902 R 1480
+drop 1584
+deleteR 426808
+add 342723 R 557
+deleteR 10431
+add 974580 L 1690
+deleteR 629391
+deleteL 938270
+deleteR 963858
+add 802671 R 743
+deleteL 539390
+add 392735 R 386
+drop 233
+drop 1711
+deleteR 800030
+deleteR 609663
+add 167279 R 1649
+drop 352
+drop 1465
+add 487330 R 1515
+drop 1916
+add 843881 L 1634
+add 658390 R 1287
+deleteR 339643
+add 786742 R 244
+deleteL 276965
+add 552063 R 353
+add 485269 L 1404
+add 262009 R 819
+add 803526 L 853
+deleteR 55805
+deleteL 451238
+add 245562 L 1610
+add 962600 R 911
+add 769829 L 816
+add 300821 R 1605
+deleteR 646579
+deleteR 933990
+add 834447 R 45
+add 658390 L 1551
+deleteR 245562
+add 799426 R 794
+drop 507
+add 346092 L 1664
+add 901474 R 166
+drop 355
+deleteR 408437
+deleteR 99484
+drop 313
+add 419017 L 1165
+drop 1609
+deleteR 894428
+add 28067 L 295
+deleteR 974580
+add 425676 R 571
+add 658925 L 172
+add 408282 L 1566
+deleteL 255812
+add 110197 R 1333
+add 65186 L 1370
+deleteL 689772
+drop 142
+deleteR 487131
+deleteL 658390
+drop 1591
+drop 203
+deleteR 791631
+deleteL 478257
+add 335928 R 683
+drop 1226
+add 293418 L 972
+deleteL 218593
+deleteL 865725
+deleteL 484421
+deleteL 425676
+add 673339 L 1883
+add 338082 L 1542
+deleteL 963981
+add 518808 R 1330
+add 829294 L 757
+deleteR 666328
+add 533292 R 1876
+deleteR 651434
+add 510635 L 1598
+deleteL 513929
+drop 571
+add 132540 R 801
+add 346092 R 1609
+drop 441
+drop 764
+deleteL 757034
+deleteR 2606
+add 108117 L 349
+deleteR 489114
+deleteR 834447
+drop 1987
+add 520019 L 1591
+deleteL 293418
+deleteL 658925
+add 804919 L 1053
+add 388427 R 1819
+deleteR 837581
+add 423768 L 1639
+add 372260 R 1394
+add 184680 R 486
+add 58752 L 98
+add 110197 L 1179
+deleteR 425661
+drop 426
+add 804978 L 966
+drop 749
+add 122272 R 1086
+add 365159 L 1900
+add 718902 R 1003
+drop 1952
+add 48498 L 1154
+add 202906 R 3
+deleteL 344043
+deleteL 206797
+add 463633 L 560
+deleteR 757472
+add 27284 R 1097
+drop 330
+drop 1314
+deleteR 804978
+deleteL 962600
+add 982933 L 986
+deleteR 19593
+add 306616 L 1569
+add 387409 R 1515
+deleteL 332231
+drop 1777
+drop 1614
+drop 301
+add 603786 L 763
+add 256508 L 1416
+add 899228 R 1540
+deleteR 99355
+deleteL 797565
+deleteL 167279
+deleteL 112297
+drop 1854
+deleteR 485269
+drop 1843
+add 596534 L 1810
+add 342723 R 1815
+deleteL 208324
+add 110197 L 1451
+add 825361 L 1037
+drop 1862
+deleteR 27284
+deleteR 911899
+drop 621
+deleteR 269559
+drop 629
+drop 1709
+add 556942 R 1996
+add 207466 L 500
+drop 488
+drop 1333
+add 445950 L 1633
+deleteR 786742
+add 804919 L 854
+add 843881 L 323
+deleteL 110751
+add 115873 L 465
+add 768681 L 1683
+drop 978
+drop 1015
+drop 770
+drop 108
+add 673391 R 411
+add 37525 L 1836
+deleteR 473439
+deleteR 108117
+deleteL 392735
+add 53418 R 534
+add 769829 L 697
+deleteR 65186
+add 202906 L 1490
+drop 133
+add 180529 L 1690
+add 508860 L 349
+drop 423
+deleteR 37525
+add 769829 L 766
+deleteL 408282
+add 458260 R 1220
+add 619204 L 983
+deleteR 372260
+deleteL 552063
+drop 1128
+deleteL 492728
+drop 1171
+deleteL 603786
+deleteR 419017
+add 834481 L 616
+add 128223 R 292
+add 745691 L 563
+drop 1863
+drop 1896
+drop 1661
+add 422376 L 173
+deleteR 574887
+add 256508 L 481
+add 826621 R 1044
+add 952280 R 209
+drop 1748
+add 243555 R 1759
+add 831742 L 1401
+deleteL 713171
+add 262009 L 422
+deleteL 899228
+deleteR 803526
+deleteR 467587
+deleteR 772603
+deleteR 415775
+deleteR 702305
+deleteR 202906
+deleteL 66601
+drop 1359
+add 48498 L 158
+deleteL 711850
+add 622626 R 973
+add 918865 R 1421
+add 769409 L 1400
+deleteR 952280
+drop 1834
+drop 357
+add 914410 R 631
+drop 129
+add 880226 R 1458
+add 469911 L 1165
+add 331867 R 926
+add 986238 L 1705
+add 843881 L 1832
+add 643461 L 1807
+drop 498
+deleteR 918865
+deleteL 415139
+drop 1471
+deleteL 207466
+add 982933 R 533
+drop 1744
+deleteR 578341
+add 585795 R 1720
+add 255140 R 647
+add 829294 L 1694
+deleteR 706141
+deleteR 831742
+deleteR 804919
+deleteL 620483
+deleteR 933681
+deleteR 518808
+add 622626 R 94
+deleteR 180529
+add 346092 L 1784
+deleteR 122272
+deleteL 324914
+drop 603
+deleteR 533292
+add 798986 R 840
+add 97051 R 956
+add 707654 R 872
+drop 483
+drop 89
+add 262337 L 1220
+add 333694 L 14
+add 580282 L 869
+deleteL 745691
+drop 1885
+add 449299 R 754
+add 113236 R 292
+add 97051 R 23
+deleteR 184680
+add 617569 R 260
+add 550253 L 147
+add 341089 L 439
+deleteL 618017
+add 265375 L 511
+add 336327 L 1377
+deleteL 43324
+deleteR 999170
+add 993368 R 127
+deleteL 463633
+add 483316 R 839
+add 483316 R 1486
+drop 1768
+drop 967
+add 220435 L 37
+add 9719 L 212
+drop 1935
+deleteR 914410
+drop 675
+add 843881 R 1208
+deleteR 422376
+add 28067 R 447
+add 707654 R 169
+drop 564
+deleteL 338082
+add 776180 R 297
+deleteR 826621
+add 572996 R 401
+drop 1070
+deleteL 784416
+add 88582 L 1682
+add 808933 L 1123
+deleteR 247643
+add 197235 R 946
+add 628447 L 1502
+deleteL 827549
+drop 529
+deleteR 829294
+deleteL 433483
+drop 1991
+deleteL 798986
+deleteR 901474
+add 886384 L 1209
+drop 701
+deleteL 233367
+add 64835 L 450
+add 487330 R 362
+add 709878 R 1579
+deleteL 506853
+drop 635
+deleteR 502651
+add 204105 L 1736
+deleteR 572996
+add 808933 L 1710
+add 235128 L 1107
+add 440376 R 1601
+deleteR 189435
+deleteR 412082
+add 686227 R 1796
+add 550253 R 554
+drop 1408
+add 779927 L 1801
+deleteR 537967
+drop 261
+deleteR 617569
+add 585795 L 712
+deleteL 643461
+add 372661 L 628
+deleteL 723382
+drop 111
+add 470641 L 481
+add 469911 L 1854
+deleteR 300821
+add 127682 R 726
+drop 1734
+drop 1188
+add 197235 L 1724
+deleteR 622626
+add 274723 L 1834
+deleteL 262009
+drop 326
+deleteL 556942
+drop 590
+drop 1048
+drop 1827
+drop 804
+deleteR 487330
+add 274723 L 1648
+add 333694 L 1946
+drop 1068
+add 235104 R 408
+deleteR 235128
+add 715235 L 555
+add 386251 R 1410
+add 928291 R 435
+drop 1449
+deleteL 715235
+add 992200 L 1651
+add 827834 L 1560
+deleteR 458260
+add 114613 R 1955
+deleteR 769409
+add 370163 R 496
+drop 1137
+drop 1511
+drop 1847
+add 910875 R 1924
+deleteL 53418
+deleteL 779927
+add 534319 L 1555
+deleteR 113236
+add 104896 L 644
+add 423768 L 746
+add 443370 R 1645
+drop 1853
+add 446286 R 1805
+add 857344 R 421
+add 430207 R 200
+deleteL 374729
+deleteL 88582
+add 633179 L 772
+add 446286 R 1904
+deleteL 669440
+drop 1903
+add 704485 R 946
+add 655804 L 637
+deleteR 621703
+add 370448 R 69
+add 882271 R 1108
+add 342723 L 1388
+deleteL 314462
+add 387409 R 1259
+add 802345 R 861
+deleteR 449299
+deleteL 802671
+drop 912
+drop 1631
+deleteL 585795
+deleteL 967137
+deleteL 882271
+deleteR 686227
+drop 1142
+deleteL 769829
+add 628447 L 1833
+add 296358 R 623
+drop 1311
+drop 590
+deleteR 315644
+add 835412 L 893
+add 992300 R 1120
+add 53428 R 1549
+add 720737 R 241
+deleteL 709878
+add 325554 L 658
+drop 1555
+deleteR 534319
+drop 1119
+deleteR 628447
+add 785506 L 1318
+deleteR 880226
+add 58752 L 111
+drop 1329
+deleteR 335928
+add 357055 L 683
+deleteR 655804
+deleteL 53428
+drop 854
+deleteL 28067
+deleteL 357055
+deleteR 386251
+add 673339 L 1326
+add 982933 R 1107
+add 251761 R 225
+add 445950 L 210
+drop 1895
+deleteL 992300
+drop 1484
+drop 83
+drop 54
+drop 1214
+deleteL 834481
+add 535680 R 641
+add 671564 L 1638
+deleteR 300131
+deleteR 596534
+add 805545 L 1824
+deleteL 992200
+add 161002 R 906
+deleteL 671564
+drop 1175
+add 982933 R 161
+add 58752 L 1102
+add 966848 R 1766
+deleteL 854042
+add 802942 R 959
+deleteL 654461
+deleteL 673339
+drop 1207
+deleteL 699356
+add 986238 L 1454
+deleteR 802345
+add 534702 L 432
+add 128223 R 1171
+deleteR 127682
+drop 1490
+deleteL 910875
+drop 1583
+deleteR 132540
+add 507986 R 1319
+add 67917 R 1657
+add 915875 L 215
+deleteR 723058
+deleteR 58752
+add 256709 R 595
+add 692331 R 1522
+deleteR 507986
+add 234956 L 264
+deleteL 420424
+add 236448 R 1794
+drop 773
+drop 873
+drop 1268
+add 59619 L 709
+add 822254 R 1528
+deleteR 550253
+add 564350 L 31
+drop 1643
+drop 1178
+add 391568 R 508
+deleteR 768681
+add 200987 R 107
+deleteR 993368
+add 108003 R 1271
+deleteL 483316
+deleteL 204105
+drop 377
+add 262337 R 122
+deleteR 673391
+deleteL 274723
+deleteL 835412
+deleteL 296358
+deleteR 9719
+drop 1188
+deleteL 857344
+add 255140 L 1372
+deleteR 423768
+drop 1307
+add 220435 L 1949
+add 786386 R 1976
+drop 388
+add 164626 R 1958
+deleteR 510635
+deleteL 563181
+add 9428 R 174
+add 60014 R 62
+drop 657
+deleteL 333694
+add 220435 L 1160
+drop 508
+add 387964 L 55
+deleteR 967037
+add 372661 R 1683
+add 67917 R 1446
+add 187937 L 1159
+deleteR 46387
+add 325554 L 775
+add 969710 R 386
+deleteR 445950
+add 234956 L 1728
+drop 1118
+drop 1859
+drop 467
+add 740259 R 1109
+drop 1336
+add 564030 L 1702
+add 457716 R 1813
+deleteR 243555
+add 220435 R 394
+deleteR 84506
+add 798817 R 339
+deleteL 306616
+deleteR 446286
+add 586442 R 5
+add 372661 R 1302
+add 928291 R 361
+deleteL 925857
+add 506748 L 50
+deleteL 255140
+drop 1810
+drop 312
+add 964680 R 912
+deleteR 534702
+deleteL 825361
+add 833661 R 250
+add 786252 L 1871
+add 418557 R 1048
+add 9428 R 337
+deleteR 293554
+add 478661 L 1074
+add 430207 R 326
+add 325554 R 1764
+add 370448 L 902
+deleteL 9428
+add 265375 L 1946
+add 325554 R 1300
+add 351142 R 1488
+add 282619 L 412
+deleteR 321825
+deleteL 388427
+add 506748 L 382
+drop 1930
+add 261902 L 1786
+drop 338
+drop 1535
+add 631809 R 1630
+deleteR 825171
+add 470641 L 173
+add 243658 L 1764
+add 749339 R 1986
+add 493503 R 176
+add 520019 R 967
+add 564037 R 1633
+deleteR 520019
+deleteL 470641
+drop 1256
+deleteL 633400
+add 469147 L 777
+deleteL 833661
+add 310992 R 457
+drop 1903
+add 164626 L 1744
+deleteL 564030
+deleteR 493503
+deleteL 552368
+deleteL 114613
+deleteR 336327
+add 473287 L 780
+add 592586 L 613
+add 957436 R 609
+add 874974 R 1759
+drop 1028
+drop 1661
+add 6484 L 1835
+drop 125
+add 968158 L 1215
+add 957436 L 661
+add 349542 L 1500
+add 418557 R 1631
+add 677717 R 638
+deleteL 370448
+add 62934 L 1140
+deleteR 67917
+drop 1452
+drop 1883
+deleteR 48498
+drop 393
+deleteR 256709
+add 515802 L 652
+deleteL 633179
+deleteL 720737
+add 615538 R 944
+add 920488 L 545
+add 387409 L 1544
+drop 1366
+drop 656
+deleteL 786252
+deleteR 469911
+add 115873 R 403
+deleteL 816850
+add 619204 L 1021
+drop 1192
+deleteR 325554
+add 365439 L 323
+add 447757 R 726
+add 564037 L 650
+add 217690 R 1622
+deleteL 520958
+deleteL 262337
+add 718295 R 768
+add 346092 L 1375
+add 515802 L 1829
+drop 1559
+deleteR 200987
+drop 511
+add 308970 L 350
+add 564037 R 1580
+drop 781
+drop 832
+add 343899 L 763
+add 108019 L 1512
+drop 255
+add 774969 L 1762
+drop 588
+drop 197
+add 920488 R 129
+add 441138 L 296
+add 912055 L 1608
+add 779600 L 718
+deleteL 592586
+deleteL 128223
+deleteR 387409
+add 677717 L 317
+deleteR 331867
+add 147069 L 707
+add 228399 R 879
+drop 119
+add 530607 L 956
+add 677717 R 74
+add 341976 R 1219
+drop 47
+drop 1840
+add 90212 R 1128
+drop 1766
+add 326130 R 1172
+deleteR 886384
+deleteR 740418
+add 785506 L 656
+add 119944 L 852
+add 802551 R 26
+add 868784 R 530
+add 348142 R 1484
+deleteR 966848
+deleteR 348142
+add 532074 L 1002
+deleteL 147069
+add 855866 R 1501
+add 346092 L 943
+add 342723 L 1643
+add 572322 R 617
+drop 108
+drop 299
+deleteR 692331
+drop 1194
+drop 763
+deleteL 808933
+add 723354 L 240
+add 786386 L 446
+deleteR 669538
+add 370163 L 1589
+deleteR 718902
+deleteR 294814
+add 339467 L 1616
+deleteL 532074
+add 235104 R 1441
+add 89325 L 1988
+add 409831 R 251
+add 418557 L 313
+add 870791 R 1916
+add 197235 R 995
+deleteR 707654
+add 265375 L 579
+deleteL 846977
+deleteL 982933
+add 682857 L 1362
+add 718295 L 1425
+drop 636
+drop 1406
+drop 1606
+deleteL 501653
+add 351142 L 39
+deleteL 822254
+drop 1092
+drop 1131
+add 64835 R 1360
+deleteR 508860
+add 906577 R 1415
+add 785506 R 1389
+deleteR 64835
+add 73370 R 1694
+deleteR 576770
+deleteL 104896
+add 97051 L 938
+deleteL 418557
+drop 1070
+drop 178
+drop 681
+deleteL 619204
+deleteL 870791
+deleteL 115873
+deleteR 372661
+add 667502 L 825
+add 805545 R 247
+drop 1848
+add 339467 L 1018
+drop 499
+deleteR 957436
+drop 1617
+deleteL 964680
+drop 1022
+drop 1906
+add 218466 R 1751
+add 517875 L 26
+add 805545 R 1925
+deleteR 968158
+deleteR 704485
+deleteL 909576
+add 572886 R 901
+deleteR 663994
+add 466289 R 1518
+add 228399 R 332
+add 157620 L 1640
+add 866392 R 900
+deleteR 798817
+deleteL 805545
+deleteR 126950
+deleteL 161002
+deleteL 60908
+deleteL 779600
+deleteR 969710
+deleteR 478661
+add 216347 R 1366
+add 138326 R 1958
+add 788837 R 498
+drop 1970
+deleteL 120804
+add 164576 R 847
+deleteL 716255
+add 877108 L 736
+deleteL 108003
+deleteR 308970
+deleteR 740259
+add 217690 R 210
+add 785506 R 941
+deleteL 572886
+add 661689 R 1189
+deleteR 77304
+add 316653 L 347
+add 418852 L 423
+deleteR 530607
+deleteR 343899
+deleteR 915875
+add 184454 R 1519
+drop 1770
+add 817184 R 1249
+deleteL 62934
+deleteR 786386
+add 487783 L 512
+add 626607 L 1696
+deleteR 342723
+add 507752 L 924
+deleteL 365159
+drop 144
+drop 1566
+deleteR 928291
+drop 804
+add 280396 R 296
+deleteL 387964
+deleteL 776180
+drop 1200
+drop 618
+add 127367 L 322
+deleteL 515802
+add 572322 L 271
+deleteL 322500
+add 694996 R 780
+drop 1401
+add 108019 L 340
+drop 1047
+drop 1431
+add 8216 R 846
+drop 1493
+drop 1852
+deleteL 580282
+add 802551 R 1753
+drop 191
+drop 1631
+drop 673
+add 919287 R 697
+drop 222
+deleteR 349542
+deleteR 473287
+deleteR 802942
+add 82424 L 1529
+drop 76
+add 766083 L 720
+drop 310
+drop 1189
+add 713080 R 38
+add 457716 L 176
+add 197235 R 371
+deleteR 388370
+add 940457 R 491
+deleteL 59619
+add 451503 R 1753
+deleteL 761996
+deleteL 535680
+add 236448 L 1157
+add 129326 L 836
+deleteL 878520
+deleteR 409831
+deleteR 969762
+add 457716 R 1463
+add 203165 L 582
+add 422328 L 1027
+deleteR 714375
+deleteR 993259
+deleteR 184454
+add 553146 L 1995
+add 912055 L 82
+deleteL 326130
+drop 429
+add 219639 L 443
+drop 668
+deleteR 877108
+add 220435 L 38
+drop 876
+add 532420 R 1756
+add 273398 R 938
+drop 1375
+add 586442 R 228
+deleteL 713080
+deleteL 873435
+add 351142 R 1577
+add 18190 R 947
+add 734132 L 310
+add 905751 L 1493
+add 387536 L 409
+drop 990
+add 256508 R 1591
+deleteL 418852
+add 119944 R 197
+deleteL 127367
+drop 117
+deleteL 667502
+deleteL 802551
+add 604753 L 956
+deleteL 89325
+deleteR 316653
+deleteR 430207
+deleteL 466289
+deleteL 905611
+deleteL 919287
+add 373855 L 1277
+deleteR 76585
+add 572322 R 1601
+drop 307
+drop 1543
+drop 1368
+deleteL 517875
+deleteR 733503
+drop 1478
+deleteL 359469
+add 453694 R 1964
+drop 1925
+add 256508 L 1727
+add 43725 R 1964
+drop 1016
+drop 216
+add 626607 L 495
+add 874974 L 1027
+add 908520 R 831
+deleteR 373855
+drop 789
+deleteL 855866
+add 169370 L 491
+add 403532 R 466
+deleteL 387536
+add 97051 L 1154
+drop 982
+add 918751 R 1202
+add 40702 L 987
+add 908520 R 411
+drop 1469
+drop 1918
+add 457716 R 992
+add 437329 R 1370
+add 895291 L 857
+add 13537 R 799
+drop 281
+add 374771 R 428
+drop 1221
+add 774969 L 50
+add 97051 L 1192
+deleteR 13537
+drop 1144
+add 132347 R 394
+add 694003 L 788
+deleteR 243658
+drop 182
+add 441138 R 112
+deleteR 265375
+deleteR 60014
+deleteL 785506
+deleteR 351142
+add 273398 R 1514
+deleteR 827834
+deleteR 97051
+drop 1876
+add 401666 L 480
+add 682857 L 42
+drop 1404
+add 251761 L 1056
+add 866392 L 1917
+deleteL 18190
+add 986238 R 1953
+add 228399 L 1633
+drop 1309
+add 197235 R 92
+drop 1429
+deleteL 235104
+add 8216 R 157
+add 564350 R 1153
+deleteR 217690
+deleteR 6484
+add 496585 R 1424
+drop 1193
+deleteR 722172
+drop 873
+add 163038 R 806
+deleteR 694003
+deleteL 682857
+add 626409 R 1148
+deleteL 369755
+deleteL 986238
+drop 190
+deleteL 465979
+drop 1217
+add 138326 L 1455
+deleteL 234956
+drop 586
+deleteR 626409
+add 506748 L 1810
+add 923556 R 1257
+deleteL 906577
+add 851235 L 3
+add 966149 R 1450
+add 123840 R 1397
+drop 12
+drop 1816
+add 422328 R 93
+drop 728
+add 44317 L 1974
+deleteR 363101
+add 34190 L 341
+add 287828 R 201
+add 852888 L 810
+add 933022 L 1136
+deleteL 774969
+add 256508 R 55
+deleteR 933022
+add 553146 R 1672
+add 163038 L 168
+add 271361 L 1509
+deleteR 82424
+deleteR 447757
+add 266066 R 1878
+add 227241 R 825
+add 682669 L 657
+drop 1626
+add 723354 R 269
+deleteR 895291
+deleteR 723354
+deleteR 157620
+add 874974 L 1207
+drop 763
+add 482206 R 1760
+add 218466 R 1451
+add 507752 L 800
+drop 846
+drop 1027
+add 287828 L 235
+add 403532 R 120
+add 866557 L 1700
+add 147732 R 1195
+deleteR 626607
+drop 376
+deleteR 532420
+drop 61
+deleteL 482206
+add 873446 L 1638
+add 271361 R 471
+deleteR 110197
+add 107681 R 579
+add 341976 L 707
+add 280396 R 602
+add 353914 L 1703
+drop 1509
+add 605356 R 975
+drop 11
+deleteL 661689
+add 604753 R 1353
+deleteL 470380
+drop 955
+deleteR 873446
+add 265238 L 1845
+add 44317 L 1773
+add 486128 R 837
+add 635591 R 149
+deleteL 985700
+add 669532 L 723
+drop 130
+drop 1498
+drop 1817
+deleteR 245820
+deleteL 453694
+add 87183 L 95
+deleteL 40702
+add 176737 L 48
+deleteL 440376
+add 552473 L 909
+add 236448 R 204
+drop 1594
+drop 320
+add 669532 L 245
+drop 634
+add 604753 L 1115
+add 34190 L 1092
+deleteL 472612
+deleteR 605356
+drop 1132
+add 918751 R 1715
+deleteR 351186
+add 367423 L 957
+drop 222
+drop 583
+drop 223
+deleteL 921752
+add 354089 L 1871
+add 904018 L 227
+add 434455 R 1749
+drop 135
+drop 684
+deleteR 443370
+drop 475
+drop 650
+add 507752 R 639
+deleteL 220435
+add 866392 L 213
+add 777364 L 956
+add 163038 L 717
+deleteR 940457
+deleteL 256508
+deleteL 227241
+deleteR 469168
+add 346092 R 471
+drop 1779
+add 103978 L 555
+add 266066 L 868
+add 236448 R 282
+add 788837 R 1291
+deleteL 108594
+add 544207 L 1089
+deleteL 103978
+drop 1838
+drop 605
+deleteR 923556
+add 273398 R 800
+add 87183 L 246
+deleteR 44317
+add 231996 R 1153
+drop 946
+deleteL 553146
+add 20567 L 1688
+drop 110
+add 404619 R 456
+add 256958 R 1606
+drop 119
+add 979982 L 1541
+add 302073 R 1626
+add 546728 R 737
+deleteR 333576
+deleteL 197235
+drop 1410
+add 147732 R 624
+deleteL 437329
+deleteR 270347
+add 443731 L 496
+deleteR 280396
+deleteL 220510
+drop 1059
+deleteL 401666
+drop 1359
+deleteR 613465
+deleteL 874974
+deleteR 346092
+deleteL 866392
+drop 700
+add 457716 R 1518
+drop 1110
+add 313225 R 523
+deleteR 817184
+deleteR 843881
+add 120896 L 1191
+add 684294 L 1878
+add 126997 L 1153
+add 487783 R 296
+deleteL 920488
+add 741933 L 1618
+add 302073 L 586
+add 126997 L 692
+deleteL 341976
+add 119944 R 315
+add 235975 L 1834
+add 451503 L 1914
+add 635591 R 1415
+add 457716 R 182
+deleteR 289094
+deleteR 123840
+add 334813 R 11
+add 783631 R 149
+deleteR 615538
+drop 1135
+drop 1362
+add 732620 R 1012
+add 505177 R 1449
+drop 622
+drop 646
+drop 1938
+add 218466 L 124
+add 164576 L 590
+add 187937 L 391
+deleteR 863907
+add 629701 R 847
+deleteR 547287
+add 918751 R 310
+add 813760 L 1244
+drop 88
+add 163038 L 718
+add 313225 L 1812
+deleteL 333399
+drop 70
+deleteR 766083
+deleteL 13669
+deleteL 107681
+drop 1678
+deleteL 138326
+drop 1701
+add 404949 R 673
+drop 219
+add 370163 L 1120
+add 495096 R 865
+add 235975 L 1806
+deleteR 334813
+add 216347 L 114
+drop 1298
+deleteR 694996
+add 711381 R 118
+deleteR 507752
+add 912055 R 255
+add 261902 L 1402
+deleteL 266066
+add 55336 L 1236
+add 119944 R 604
+add 750073 L 1166
+add 20567 R 451
+deleteL 749339
+deleteR 236448
+add 469147 L 261
+deleteR 176737
+add 750073 L 1316
+drop 1133
+drop 415
+add 750073 L 365
+drop 1731
+deleteR 868784
+drop 866
+add 168837 R 337
+add 783631 R 1008
+drop 124
+add 404619 R 1215
+deleteL 276451
+add 469147 L 1888
+deleteR 287828
+deleteR 918751
+add 854194 R 165
+deleteR 629701
+add 341089 R 1051
+add 316701 R 768
+add 391568 L 36
+add 316701 L 1103
+add 631809 R 1215
+add 72699 R 1465
+add 169370 R 994
+add 313225 L 1145
+deleteR 854353
+drop 1996
+deleteL 505177
+add 541468 L 358
+drop 1511
+drop 1460
+add 367423 R 483
+add 544207 R 1907
+drop 1516
+deleteR 810150
+add 818916 L 1764
+add 302073 L 610
+add 732620 L 1189
+deleteL 20567
+add 691201 R 735
+deleteR 434455
+drop 959
+deleteL 711381
+add 144830 L 121
+drop 651
+deleteR 825559
+add 333506 L 331
+drop 146
+deleteR 354089
+drop 1741
+add 87183 R 1100
+deleteL 979982
+add 564350 L 1742
+add 753683 R 168
+add 218466 L 1563
+deleteR 669532
+add 451503 R 1149
+add 788837 R 1022
+drop 1316
+deleteL 441138
+deleteR 216347
+drop 1248
+add 129205 R 1155
+deleteL 108019
+deleteR 496585
+drop 57
+add 753683 L 1645
+add 228399 R 1265
+drop 1828
+deleteR 799426
+deleteR 87183
+add 457716 L 1886
+add 367423 L 630
+deleteL 256958
+drop 1186
+add 251761 L 264
+add 904018 R 1709
+drop 1638
+add 129205 R 101
+add 859226 L 51
+drop 1549
+add 218466 R 583
+drop 1272
+deleteR 861792
+add 875351 L 667
+deleteR 187937
+add 783631 L 426
+add 940404 L 1281
+deleteL 572322
+drop 629
+add 590078 L 811
+add 432104 L 1412
+drop 297
+deleteL 564037
+add 637675 R 1770
+deleteR 851235
+drop 1275
+add 333506 L 829
+add 339467 L 229
+drop 199
+drop 330
+add 289888 R 254
+add 881530 R 1031
+drop 1406
+deleteL 374771
+deleteR 813760
+add 489423 R 1659
+drop 932
+deleteL 546728
+add 90859 L 575
+deleteL 125357
+deleteR 115945
+drop 1402
+deleteL 631809
+drop 531
+add 169370 R 1591
+drop 1199
+add 365439 R 1305
+add 741933 R 984
+drop 1374
+drop 1711
+add 90859 L 1673
+add 415411 R 1757
+deleteR 852888
+deleteL 20468
+drop 702
+add 129205 R 1924
+add 409559 R 1293
+drop 19
+deleteR 732620
+add 164576 L 1441
+add 56842 R 256
+drop 1522
+deleteL 164626
+add 446832 R 918
+add 450385 L 145
+add 261902 R 1841
+drop 507
+drop 1744
+deleteL 450385
+deleteL 506748
+deleteL 218466
+add 541468 L 1474
+drop 595
+add 675953 R 977
+add 369130 L 789
+drop 571
+drop 1206
+drop 1710
+drop 418
+deleteL 403532
+deleteR 682669
+add 365439 R 740
+add 187346 L 105
+add 801055 R 168
+drop 485
+drop 499
+add 55336 R 1481
+deleteL 905751
+add 422206 R 788
+deleteL 73370
+deleteL 409559
+add 695057 R 1969
+deleteL 132347
+deleteL 469147
+add 634488 R 1811
+add 670983 L 507
+add 892613 R 1122
+drop 921
+deleteR 718295
+deleteL 385037
+deleteR 203165
+add 446832 L 1238
+deleteL 404949
+deleteR 273398
+deleteL 422206
+add 489423 L 1693
+add 231996 R 1849
+add 43725 L 892
+drop 910
+deleteL 129205
+deleteL 541468
+add 119944 R 366
+deleteL 163038
+add 511021 R 1868
+deleteL 365439
+drop 596
+deleteR 8216
+add 966149 L 1668
+deleteR 695231
+add 489423 L 867
+deleteR 966149
+add 634488 R 1027
+deleteL 777364
+add 413891 R 1703
+add 912055 L 1789
+deleteL 385371
+drop 761
+drop 1377
+deleteR 120896
+deleteL 875351
+add 339467 R 239
+drop 1337
+drop 753
+drop 1162
+deleteR 55336
+add 187346 R 69
+add 72699 R 1856
+add 495688 L 1504
+deleteR 90212
+deleteR 34190
+drop 981
+add 271361 R 650
+add 398759 R 1529
+deleteR 734132
+deleteR 497994
+drop 1640
+drop 419
+add 391568 L 1968
+deleteL 119944
+deleteR 677717
+add 262458 R 901
+add 866557 R 327
+add 699846 L 1524
+drop 20
+drop 469
+deleteL 310992
+add 476660 R 686
+add 132501 L 476
+drop 1912
+add 568830 L 663
+add 284967 L 194
+deleteL 56151
+add 967600 L 202
+deleteL 552473
+add 872531 R 178
+add 618236 R 1420
+add 854194 L 470
+add 996743 L 1740
+deleteL 881530
+deleteR 429566
+deleteR 866557
+add 168837 L 985
+add 820 L 416
+add 219639 L 1196
+add 699927 L 1481
+deleteR 788837
+add 912055 R 496
+add 810615 R 993
+drop 993
+add 126168 R 1023
+add 166488 R 1149
+add 869899 L 1435
+drop 513
+deleteR 622654
+add 422328 L 843
+deleteL 844238
+deleteL 265238
+add 818916 R 1323
+add 187346 L 493
+add 5979 R 260
+drop 1878
+deleteR 684294
+add 889327 L 140
+add 586442 L 631
+drop 1635
+deleteL 691201
+deleteL 432104
+deleteL 860959
+add 415411 R 812
+add 812949 L 872
+add 525173 R 100
+add 271246 R 1531
+add 590078 L 766
+add 313225 L 1060
+deleteL 753683
+add 115381 R 466
+add 451449 R 1326
+add 671172 L 270
+add 72699 L 1528
+add 945550 L 940
+add 618236 L 1104
+drop 1181
+drop 569
+add 699846 R 1853
+drop 364
+deleteR 495096
+deleteL 129326
+add 341089 L 1220
+add 908520 R 1898
+deleteR 398759
+drop 1949
+deleteL 637675
+add 495688 R 1172
+deleteR 726965
+add 407396 L 1885
+drop 1675
+deleteR 169370
+add 666764 L 1181
+deleteR 664542
+add 333996 L 585
+drop 658
+deleteL 72699
+add 675953 L 959
+deleteL 544207
+deleteR 443731
+deleteL 476224
+drop 1334
+deleteR 869899
+drop 711
+add 353914 L 307
+add 40072 R 234
+add 805037 L 1964
+drop 1949
+drop 653
+add 757532 L 445
+deleteL 316701
+drop 1976
+drop 1921
+deleteL 416429
+add 988668 L 620
+deleteL 675953
+deleteL 564350
+deleteR 369130
+drop 1813
+add 933150 R 861
+deleteL 635083
+deleteL 699846
+drop 1477
+drop 1416
+add 805037 L 242
+add 187346 L 1819
+add 212866 L 687
+drop 1719
+add 699927 R 763
+add 820 L 1868
+add 967600 L 446
+add 741933 R 1478
+drop 198
+drop 1783
+deleteR 634488
+deleteL 805037
+add 262458 L 242
+deleteL 908520
+add 613081 R 512
+add 422328 L 110
+deleteL 238812
+deleteL 476660
+deleteR 413891
+deleteL 126168
+drop 1777
+deleteR 168837
+deleteR 228399
+add 919447 R 1884
+add 154073 R 1353
+add 130791 R 1141
+deleteR 890982
+add 419535 R 541
+deleteL 407396
+add 341089 R 1391
+add 166488 L 275
+deleteL 619429
+deleteR 635591
+add 170893 R 285
+add 542394 R 257
+add 56842 R 489
+add 484833 R 1203
+add 750723 L 1732
+add 28943 R 1225
+drop 644
+add 144830 L 1706
+drop 1655
+deleteR 367423
+deleteR 604753
+deleteL 419535
+add 613081 R 1924
+add 393169 L 1138
+add 235975 L 1198
+deleteL 231996
+drop 44
+add 940404 L 1028
+deleteL 187346
+deleteL 166488
+add 217685 L 1057
+add 891187 L 1776
+add 43725 R 223
+drop 1162
+deleteR 525173
+deleteL 925575
+deleteR 932915
+deleteR 892613
+drop 348
+deleteR 90859
+deleteL 670983
+add 967600 R 932
+deleteL 945550
+drop 1749
+add 687681 R 1927
+add 40072 R 350
+add 251761 L 141
+add 451449 L 1315
+deleteR 115381
+add 695057 R 1390
+drop 181
+add 341089 R 1998
+add 387453 R 447
+drop 328
+drop 1918
+add 256876 R 401
+add 56842 R 882
+drop 304
+add 483036 L 212
+drop 1742
+deleteR 590078
+deleteR 993805
+drop 1738
+add 404619 L 254
+drop 678
+add 142383 L 1540
+deleteR 415411
+add 900352 R 1540
+deleteL 487783
+add 134136 L 867
+add 235975 R 654
+add 568830 L 1080
+add 156615 R 514
+deleteR 495688
+add 170893 R 491
+add 900352 R 340
+deleteL 812949
+add 994585 L 75
+add 268714 R 1773
+add 451503 L 243
+drop 1239
+add 699927 L 1965
+drop 1427
+add 212866 R 947
+add 991275 L 1772
+drop 241
+add 647847 L 703
+deleteR 699927
+add 641217 L 160
+add 251761 L 1313
+add 906078 L 246
+add 809452 R 660
+deleteR 749253
+drop 38
+deleteR 333506
+add 451449 L 229
+deleteL 889327
+add 130791 R 1053
+drop 540
+deleteL 289888
+deleteR 994585
+deleteL 618236
+deleteR 271246
+add 415147 R 1652
+add 68632 L 1767
+add 510489 R 831
+deleteL 393169
+deleteR 671172
+deleteL 810615
+drop 1544
+add 741933 R 1668
+deleteL 750723
+drop 37
+drop 1092
+add 339467 R 496
+deleteR 859226
+add 898397 L 150
+drop 1134
+deleteR 341089
+deleteL 422328
+add 154073 R 66
+deleteL 750073
+add 444898 L 1020
+deleteR 996743
+add 743829 L 1948
+deleteL 170893
+drop 458
+add 592277 R 1446
+add 934444 L 1760
+add 934444 L 1030
+add 125244 L 914
+deleteR 212866
+add 586442 L 485
+add 553239 L 1496
+add 495632 R 336
+deleteR 568830
+add 457716 R 1392
+add 974391 R 1815
+deleteL 164576
+drop 1668
+deleteR 235975
+drop 1691
+deleteL 216746
+add 185642 R 896
+add 630251 R 773
+deleteL 370163
+drop 678
+drop 75
+drop 247
+drop 772
+deleteR 444898
+add 838558 L 136
+deleteL 134136
+add 553239 L 594
+drop 913
+drop 1843
+drop 1470
+deleteL 542394
+add 284967 L 1703
+add 687167 L 36
+deleteL 28943
+drop 755
+deleteR 649746
+add 68632 R 1539
+add 429018 L 885
+add 898397 L 200
+deleteL 156615
+drop 1950
+add 695057 R 891
+add 922341 R 449
+drop 176
+drop 1538
+deleteR 451503
+add 484833 L 1869
+add 251761 L 1184
+deleteL 483036
+add 570504 L 350
+add 63073 L 1675
+add 785634 R 1656
+add 743829 L 704
+add 988668 L 785
+add 185642 L 211
+drop 1514
+deleteR 217685
+drop 387
+drop 1896
+add 510489 L 56
+add 586442 L 2
+add 302073 L 858
+add 416116 R 538
+add 591804 L 1730
+add 400702 L 482
+drop 326
+add 849265 R 1657
+add 210306 L 1406
+add 125244 L 446
+deleteL 429018
+add 959576 R 482
+deleteL 872531
+add 142383 R 343
+deleteL 278851
+deleteL 489423
+deleteR 465261
+deleteR 256876
+deleteL 21485
+add 959576 L 412
+deleteL 933150
+drop 453
+add 850244 R 400
+add 445090 R 570
+deleteR 849265
+add 132501 R 683
+drop 1997
+drop 52
+add 459200 L 488
+deleteL 353914
+deleteR 666764
+deleteR 785634
+deleteR 906078
+add 409934 L 1822
+add 980228 R 1921
+deleteL 28313
+deleteL 991275
+add 415147 L 898
+add 757532 L 1437
+deleteR 271361
+drop 788
+drop 1158
+drop 6
+deleteR 440598
+deleteL 613081
+add 701519 R 1219
+drop 50
+deleteR 850244
+deleteR 818916
+drop 895
+drop 1756
+add 592277 L 1445
+add 282619 R 1392
+drop 1531
+add 399162 L 734
+add 345703 R 644
+drop 1538
+drop 1674
+drop 1708
+add 912055 L 1259
+drop 1227
+deleteL 959576
+add 54024 L 1666
+deleteR 926143
+drop 331
+add 387453 R 1913
+deleteR 825604
+drop 1095
+drop 1192
+add 996816 R 569
+add 743829 L 603
+deleteR 486128
+deleteR 801055
+deleteR 987084
+deleteR 891187
+add 741933 R 160
+add 484833 L 98
+drop 1166
+deleteR 210306
+add 230302 R 1242
+drop 1811
+add 111994 L 1736
+add 524403 L 778
+deleteR 809452
+deleteR 592277
+add 520965 R 1568
+add 446832 R 1597
+deleteR 230302
+deleteR 647847
+drop 1374
+deleteL 391568
+drop 1468
+drop 1131
+add 695057 R 410
+drop 426
+deleteR 345703
+add 365403 L 1569
+deleteR 400702
+deleteR 457716
+add 328932 R 1801
+deleteR 854194
+drop 441
+add 446832 L 1600
+add 417405 R 1125
+add 606300 R 244
+deleteL 922341
+add 741933 L 1890
+deleteL 415147
+drop 1987
+add 510489 R 599
+deleteR 451449
+add 606300 R 845
+deleteR 687167
+drop 1123
+deleteL 328932
+drop 1093
+deleteR 399162
+add 255610 R 249
+drop 748
+add 536681 L 1352
+drop 1457
+add 251761 L 491
+drop 1916
+add 343238 L 267
+add 751559 L 1123
+add 782692 R 1972
+add 250256 L 1096
+deleteL 184120
+add 68632 L 1198
+drop 1821
+deleteL 900352
+drop 1063
+deleteL 919447
+deleteL 586442
+add 404090 L 1840
+deleteR 524403
+add 111793 L 1884
+deleteL 313225
+deleteR 484833
+add 745702 R 604
+drop 1326
+add 553239 L 809
+add 666902 L 1454
+deleteL 282619
+add 536681 L 1178
+add 409645 L 250
+deleteL 132048
+drop 1556
+add 459200 R 1770
+add 223780 R 437
+drop 530
+deleteL 111994
+add 893135 R 1562
+add 889885 L 1125
+drop 760
+add 381560 R 922
+add 725842 R 296
+drop 684
+drop 1006
+deleteR 988308
+drop 829
+add 904018 L 1994
+add 439048 L 1057
+add 368071 R 78
+add 636273 L 1852
+add 251593 R 1996
+deleteL 333996
+add 130791 R 271
+deleteL 641217
+add 954032 R 1677
+drop 124
+add 438180 R 1504
+deleteR 416116
+add 390884 L 1124
+drop 108
+deleteL 996816
+deleteR 701519
+add 865840 R 335
+deleteL 404619
+deleteL 111793
+deleteL 262458
+add 88980 L 1636
+drop 1591
+deleteL 900980
+add 865840 L 1022
+deleteL 459200
+add 236503 L 1475
+drop 1601
+add 685888 R 130
+deleteR 639169
+deleteR 871181
+add 686029 L 800
+add 980286 L 466
+drop 958
+deleteL 55323
+drop 1618
+drop 62
+deleteL 520965
+add 409645 R 762
+deleteL 142383
+add 373997 L 1225
+drop 549
+drop 1663
+add 71478 L 1939
+add 295252 L 345
+deleteR 725842
+add 685888 R 717
+add 839582 R 255
+deleteL 250256
+deleteL 251593
+add 630251 L 977
+add 380259 L 2
+add 445090 R 736
+deleteL 71478
+deleteR 438180
+deleteL 132501
+add 462314 L 936
+add 745702 R 1297
+add 577057 L 197
+add 820 R 894
+drop 165
+add 833335 L 1426
+add 404090 L 536
+add 417405 R 946
+add 448452 R 1344
+deleteL 28996
+deleteL 250610
+deleteL 974391
+drop 1234
+add 397820 L 1864
+drop 1523
+add 136219 L 548
+deleteL 553239
+add 219639 R 1904
+add 329928 R 885
+add 980228 R 472
+deleteR 14148
+add 863160 R 1101
+drop 543
+add 302073 L 339
+deleteL 343238
+add 295252 R 1260
+add 992939 R 1486
+add 912055 R 398
+add 865840 L 16
+deleteR 302073
+add 40072 R 1410
+add 741634 L 1133
+add 126997 R 1481
+add 934444 R 1188
+add 687681 L 471
+deleteR 284967
+add 757532 L 806
+add 757532 R 49
+drop 1339
+deleteL 329928
+add 188314 R 1405
+deleteL 510489
+add 443272 R 321
+add 146246 L 354
+add 687681 L 32
+add 261902 L 1737
+drop 985
+drop 530
+add 5979 L 1840
+drop 1321
+drop 293
+add 185642 L 1547
+deleteL 898397
+add 383233 R 1730
+deleteR 988668
+deleteR 185642
+add 731735 R 1366
+add 489022 R 1199
+add 232088 R 1771
+drop 1992
+add 192435 L 168
+drop 669
+deleteL 54024
+add 383233 R 1426
+deleteL 40072
+deleteR 865840
+add 307607 R 1925
+add 223780 L 28
+deleteR 194850
+deleteL 261902
+deleteR 397820
+add 185712 R 1414
+add 333222 R 1948
+deleteL 888358
+add 383233 R 1902
+deleteR 126997
+add 569792 R 1111
+drop 1571
+add 159016 R 902
+deleteL 782692
+deleteR 443272
+deleteL 757532
+add 404090 R 786
+add 206668 R 59
+add 413323 L 1163
+drop 1634
+add 582865 R 1693
+drop 1496
+deleteR 378384
+deleteL 980228
+deleteL 492731
+add 113328 L 445
+add 504476 R 30
+drop 1665
+add 409053 L 429
+deleteL 268714
+add 368071 R 1393
+add 424290 R 1147
+deleteL 417405
+deleteR 26650
+drop 1522
+deleteR 37545
+deleteR 934444
+add 445090 L 787
+drop 452
+add 448430 R 879
+add 636273 R 804
+add 110270 R 1004
+add 831636 L 699
+add 538386 L 956
+add 33786 R 1109
+add 333222 L 279
+add 992939 L 787
+drop 940
+deleteL 541128
+add 633776 R 1358
+deleteL 154073
+drop 961
+add 33786 L 1865
+deleteL 685888
+add 63073 R 27
+add 47996 R 1785
+drop 1913
+add 863160 R 1540
+deleteR 511021
+add 988174 L 1304
+deleteL 236503
+deleteR 695057
+deleteL 130791
+deleteR 439048
+deleteR 462314
+add 222704 R 835
+deleteR 185712
+deleteR 4308
+deleteR 219639
+deleteR 686029
+add 232088 R 877
+add 373997 L 1542
+deleteL 159016
+add 482840 L 994
+deleteL 967600
+drop 390
+deleteR 88980
+add 135339 L 177
+add 409053 R 1276
+add 223059 L 957
+deleteL 206668
+add 699027 R 1589
+deleteR 569792
+add 621710 L 1468
+deleteL 831636
+deleteR 820
+deleteR 381560
+add 14007 L 1608
+drop 1334
+add 727023 L 314
+add 528370 L 766
+add 528370 L 1930
+drop 1068
+drop 629
+drop 73
+drop 188
+drop 1382
+deleteR 636273
+deleteR 633776
+add 767876 L 1351
+deleteR 14007
+drop 172
+drop 457
+add 893135 R 1049
+deleteR 538386
+add 193721 L 1736
+add 172621 R 797
+add 904405 R 1968
+drop 1490
+deleteR 409053
+drop 698
+add 404090 R 809
+add 251761 L 696
+add 451192 L 1000
+drop 726
+add 172621 L 1422
+add 820974 R 537
+drop 1103
+add 3296 R 562
+deleteL 172621
+deleteR 223780
+drop 886
+add 820974 R 1240
+drop 81
+deleteR 940404
+add 424290 R 154
+deleteL 144830
+drop 1237
+deleteL 383233
+deleteL 448452
+deleteR 954032
+deleteR 842195
+add 715400 L 805
+deleteL 504476
+add 451192 R 1444
+deleteL 373997
+deleteL 451192
+deleteR 68632
+add 668206 L 1768
+add 582865 R 276
+deleteL 799130
+drop 792
+deleteL 838558
+add 617659 R 1843
+add 934046 L 859
+add 743829 L 1311
+add 114180 L 1238
+deleteR 255610
+drop 601
+add 409645 L 1260
+deleteL 820974
+deleteR 3296
+add 339467 L 12
+deleteL 980286
+drop 1686
+drop 1794
+drop 551
+add 223059 L 103
+add 383032 R 1220
+deleteL 89491
+add 289072 R 516
+add 817574 L 1076
+deleteL 495632
+deleteR 531426
+add 445090 L 942
+deleteL 110270
+deleteL 833335
+add 114180 R 774
+deleteL 404090
+add 411749 R 1327
+add 606300 L 459
+add 307084 L 1678
+deleteR 817574
+add 622445 R 1486
+add 544495 R 85
+deleteL 11867
+add 880123 L 1106
+deleteL 448430
+deleteR 889408
+deleteL 783631
+add 378865 R 1838
+drop 1107
+add 106413 R 1435
+deleteL 289072
+add 125244 L 1480
+add 125244 L 1941
+add 751559 L 194
+add 445090 L 1319
+deleteR 630251
+add 195809 L 1860
+deleteL 796939
+add 62923 R 103
+deleteL 621140
+add 428239 L 1367
+deleteR 893135
+add 383032 R 1897
+add 594465 R 922
+add 614513 L 502
+add 708625 L 174
+drop 312
+add 986157 R 818
+deleteR 904018
+deleteR 731735
+drop 1686
+add 751559 R 1846
+add 387453 L 1971
+drop 540
+add 147732 L 1838
+deleteR 528370
+deleteL 992939
+add 195809 L 1604
+add 621710 R 775
+add 708625 R 1629
+add 114180 L 1266
+deleteL 333222
+add 223059 R 1171
+deleteR 409934
+deleteR 387453
+add 57602 R 706
+add 122045 R 173
+deleteR 446832
+add 114180 R 1470
+add 136219 R 1686
+deleteL 57602
+add 232088 R 1466
+deleteR 307084
+drop 466
+deleteR 927301
+drop 1864
+drop 1609
+add 581163 L 1281
+add 248359 R 1714
+add 154863 R 403
+drop 637
+deleteR 581163
+add 445090 L 1794
+deleteR 166951
+drop 555
+add 718393 L 1823
+add 301462 L 1178
+deleteL 413323
+add 582865 R 1320
+add 532339 L 1916
+drop 782
+deleteL 56842
+drop 880
+add 741933 L 496
+deleteR 699027
+add 577057 R 1258
+add 986157 R 166
+add 33786 L 86
+deleteL 655159
+deleteL 793800
+add 536681 R 944
+deleteL 741634
+add 687681 R 1764
+add 988174 R 522
+drop 1663
+deleteR 617659
+deleteR 536681
+add 724345 R 234
+drop 994
+add 606300 R 431
+add 147732 L 1683
+drop 505
+add 482131 L 861
+deleteL 365403
+add 125244 R 1117
+add 159138 R 146
+deleteL 159138
+deleteR 793640
+drop 1591
+add 833850 L 1137
+add 199372 L 1710
+add 903141 R 417
+drop 1666
+add 333872 R 73
+add 596200 L 1606
+add 751173 R 996
+deleteL 988174
+add 173294 R 1269
+add 751559 R 129
+deleteL 872249
+drop 1429
+deleteR 544405
+drop 1369
+add 239828 R 918
+add 606300 L 1092
+add 119161 R 1683
+deleteL 98734
+deleteR 239828
+add 304817 R 1172
+add 62923 L 1134
+deleteL 833850
+add 43725 L 760
+add 336672 R 1183
+add 92489 R 1413
+add 570504 L 904
+add 223437 R 104
+deleteR 777667
+deleteL 193721
+add 98739 R 845
+deleteR 150654
+drop 437
+add 378865 R 116
+add 528136 L 257
+add 824807 L 911
+deleteL 652950
+add 904405 L 1806
+drop 1323
+add 445090 R 1016
+add 735552 L 767
+deleteL 119161
+add 708625 R 751
+add 576509 L 498
+deleteL 745702
+add 788789 R 256
+add 986157 L 1182
+add 380259 L 1278
+add 69883 L 255
+deleteL 715400
+drop 1994
+deleteR 409645
+deleteL 125244
+add 106413 R 1271
+deleteR 289233
+drop 432
+deleteL 724345
+add 68818 L 1367
+add 63073 R 1209
+add 621710 R 698
+deleteL 122045
+drop 270
+drop 619
+drop 653
+drop 1231
+deleteL 199372
+add 393701 L 340
+drop 1354
+add 383032 L 979
+deleteR 380259
+add 767876 L 154
+drop 1531
+deleteR 889885
+deleteR 154863
+deleteR 863160
+drop 468
+add 843956 L 1918
+add 640550 L 1977
+add 874455 L 903
+deleteR 295252
+add 390884 R 1633
+drop 1521
+drop 794
+add 562992 R 163
+add 383032 L 432
+drop 1845
+add 884636 R 1739
+drop 86
+add 464430 R 1752
+add 445090 R 1215
+add 594465 R 782
+drop 1341
+deleteL 51019
+add 621710 R 1736
+deleteR 411749
+deleteR 92489
+deleteR 767876
+drop 347
+add 43725 L 1070
+deleteL 562992
+drop 720
+drop 1486
+deleteL 532339
+deleteR 173294
+drop 1200
+drop 1705
+drop 1513
+deleteR 232088
+add 955972 R 1769
+add 391076 L 1817
+add 626033 L 205
+deleteL 98739
+deleteR 708625
+add 692780 L 812
+add 751173 L 1551
+deleteR 692780
+add 645818 R 1738
+add 390884 R 767
+drop 815
+deleteR 944095
+deleteL 445090
+add 707757 L 1936
+drop 1705
+drop 444
+add 544495 R 611
+deleteL 622445
+drop 1387
+deleteL 880123
+deleteL 824807
+deleteR 248359
+add 808274 L 1437
+add 596200 L 424
+add 830365 R 586
+deleteR 684099
+add 626033 R 1128
+drop 1799
+drop 1447
+add 524254 R 1794
+deleteL 981092
+add 528136 L 1247
+drop 225
+drop 1007
+drop 922
+add 175780 L 1965
+add 8292 R 1010
+drop 607
+deleteR 626033
+drop 230
+deleteL 727023
+add 528136 L 1915
+add 113328 L 1227
+deleteL 333872
+add 134822 R 821
+add 195809 L 1734
+drop 1673
+deleteR 645818
+deleteL 687681
+add 963524 L 1659
+deleteL 668206
+drop 942
+deleteR 934046
+add 264014 L 64
+add 898111 R 1044
+deleteR 372618
+deleteL 113328
+deleteR 943171
+add 904405 L 1494
+drop 1879
+drop 908
+add 937264 L 1860
+deleteL 428239
+add 950177 R 11
+add 458209 L 1784
+deleteR 955972
+drop 1606
+deleteL 368071
+drop 769
+add 44101 L 1412
+add 735552 R 36
+deleteL 606300
+add 594465 L 1767
+deleteL 302059
+deleteL 788789
+add 458209 L 498
+add 307607 L 1100
+deleteR 92351
+add 250819 L 715
+add 458209 L 867
+add 10122 L 1933
+add 858908 R 776
+deleteL 33786
+deleteL 812972
+add 249610 L 254
+deleteR 735552
+add 716576 L 1963
+deleteL 223437
+deleteL 391076
+add 156407 L 875
+deleteL 596200
+add 634882 R 868
+add 987067 L 818
+add 963524 R 174
+drop 1250
+drop 1961
+deleteR 904405
+drop 516
+drop 1816
+drop 361
+deleteL 707757
+deleteR 135339
+deleteR 718393
+deleteR 106413
+add 495924 R 124
+add 134822 R 819
+add 327084 L 719
+deleteL 843956
+add 680018 L 1567
+add 544495 R 730
+deleteR 68818
+add 741933 L 1494
+add 127369 R 1173
+add 482131 L 989
+drop 592
+drop 310
+drop 802
+deleteR 390884
+deleteL 495924
+deleteR 63073
+drop 1265
+deleteR 304817
+deleteL 136219
+add 895669 L 283
+deleteR 47775
+add 997827 L 1297
+deleteR 986157
+add 909618 R 94
+add 590865 L 1660
+add 412173 R 1957
+deleteR 482840
+add 852004 L 1568
+deleteL 830365
+drop 1431
+deleteL 378865
+add 383032 R 506
+drop 1815
+deleteL 751559
+add 175780 L 64
+deleteR 393701
+deleteL 997827
+add 741933 R 708
+drop 975
+deleteR 858908
+add 577559 R 132
+add 769567 L 898
+drop 171
+add 594465 R 510
+deleteL 482131
+add 704617 R 669
+drop 1909
+deleteR 621710
+drop 1514
+add 858256 L 1716
+add 103030 L 1021
+deleteL 594465
+add 198752 L 1278
+add 10122 L 1258
+deleteL 582865
+add 837643 R 1211
+deleteL 716576
+add 464777 L 1528
+deleteR 666902
+deleteL 680018
+add 628357 R 481
+deleteR 222704
+add 376671 L 21
+deleteR 577559
+add 715985 R 483
+drop 1988
+deleteL 250819
+add 858256 L 1375
+drop 1221
+add 464777 R 1392
+add 150508 L 1499
+drop 1833
+deleteL 195809
+deleteL 5979
+deleteL 909618
+add 743829 R 616
+deleteL 987067
+drop 123
+deleteL 715985
+deleteL 383032
+deleteR 777184
+add 715489 R 1357
+deleteR 150508
+add 192435 R 1207
+drop 111
+add 344023 L 1515
+add 772071 R 675
+drop 674
+drop 1995
+add 640550 L 412
+add 199086 L 772
+drop 1696
+add 33808 R 347
+add 713716 R 310
+drop 1906
+deleteL 336672
+deleteR 344023
+drop 449
+deleteR 339467
+add 301462 R 269
+deleteR 464430
+add 178665 L 630
+add 981973 L 1920
+add 570504 L 1276
+add 743829 R 1703
+add 66623 L 203
+add 778017 L 1733
+add 963524 R 1179
+add 681876 R 723
+add 772071 R 332
+add 532031 R 642
+deleteR 778017
+add 877014 L 1857
+add 602532 R 1719
+deleteL 858256
+deleteL 539387
+deleteL 327084
+add 610391 R 1554
+add 547534 L 1161
+add 848335 L 226
+deleteL 848335
+add 986208 L 1139
+drop 1775
+add 300996 L 1828
+drop 1395
+deleteL 489022
+deleteR 199086
+add 963524 R 418
+add 756623 R 477
+drop 23
+deleteR 743829
+add 808274 R 1821
+add 598457 R 1666
+add 715489 R 1242
+drop 1731
+add 850343 R 1770
+add 445259 R 312
+deleteL 681876
+deleteL 640550
+drop 1073
+drop 1202
+deleteL 628357
+deleteR 103030
+add 46824 R 1739
+deleteR 903141
+drop 1153
+deleteL 590865
+add 223059 R 120
+add 532031 R 1297
+deleteR 264014
+add 981973 L 1949
+add 598457 R 1267
+add 528136 R 780
+deleteR 44101
+add 912055 L 920
+deleteR 896755
+add 318288 R 1393
+add 407452 L 492
+add 361489 R 662
+add 781645 R 840
+deleteR 47996
+drop 1396
+add 175780 L 464
+deleteL 134822
+add 884636 L 1771
+add 210128 L 1871
+deleteR 627171
+deleteR 71510
+add 424424 L 270
+drop 1981
+drop 52
+add 178665 L 1280
+deleteL 610391
+deleteL 874455
+deleteL 634882
+add 445259 R 950
+add 310010 L 1287
+add 959656 R 1908
+drop 827
+deleteR 496870
+deleteL 921772
+add 577057 L 23
+deleteL 772071
+add 713716 L 500
+drop 1356
+add 376647 R 1023
+add 43725 R 1733
+deleteL 547534
+drop 1786
+add 324908 R 213
+add 756623 L 981
+deleteR 577057
+drop 1506
+deleteL 8292
+drop 1821
+add 235955 L 177
+add 532031 L 552
+add 846587 L 298
+add 958027 L 86
+deleteL 249610
+drop 1419
+drop 637
+add 920996 R 108
+deleteL 570504
+deleteR 407452
+add 66623 L 1700
+add 457702 L 362
+deleteL 175780
+add 1244 R 1508
+add 713716 R 1262
+add 733894 L 1067
+add 835785 L 1679
+add 528136 R 1013
+drop 558
+deleteL 114180
+add 157511 L 648
+add 157511 R 1175
+deleteR 157511
+add 603745 L 629
+drop 1373
+drop 41
+add 175406 L 855
+drop 72
+add 751173 R 538
+deleteL 341786
+add 445259 L 1971
+deleteL 361489
+add 49997 L 267
+add 741933 R 1544
+add 178665 L 1589
+deleteL 458209
+drop 1943
+drop 785
+deleteL 920996
+add 591804 R 983
+add 328686 R 1236
+deleteL 79957
+add 75155 R 1808
+deleteL 986208
+add 292139 R 255
+add 292139 R 1980
+add 49997 R 819
+drop 640
+add 192934 R 845
+drop 381
+add 713716 R 190
+add 970727 L 504
+add 145472 L 429
+add 310010 R 179
+add 715232 L 1502
+add 571137 L 1105
+drop 1237
+add 846587 L 308
+add 879613 R 1621
+deleteL 602532
+drop 206
+deleteR 376671
+drop 1136
+add 463993 L 1406
+add 464777 R 1388
+deleteL 376647
+deleteL 33808
+deleteL 145472
+deleteL 959656
+drop 1391
+add 424424 L 824
+add 801511 R 1551
+add 189876 R 1745
+add 787158 L 606
+drop 969
+deleteR 175406
+add 267199 L 1586
+add 850343 L 228
+add 770520 R 1844
+deleteR 10122
+deleteL 653303
+drop 943
+add 631257 R 698
+drop 182
+drop 1446
+add 963524 L 940
+add 912055 L 1056
+add 424290 L 5
+add 454226 R 1962
+add 34979 R 1090
+add 751173 R 1840
+drop 1203
+add 977441 L 1098
+add 596875 R 356
+add 635252 R 659
+add 704617 R 1670
+add 946414 R 830
+deleteR 34979
+add 787158 R 795
+deleteR 189876
+add 171637 R 1877
+drop 730
+add 598457 L 1197
+deleteL 251761
+add 803207 L 1462
+add 524254 R 1809
+add 75155 L 701
+drop 1153
+add 354754 L 622
+deleteL 147732
+drop 1189
+deleteR 850343
+add 924138 L 226
+deleteL 318288
+add 722137 L 1486
+add 528136 R 1435
+drop 1018
+deleteL 532031
+deleteL 152161
+drop 1142
+add 69883 L 1461
+add 90023 L 1151
+add 267199 R 72
+drop 978
+deleteL 90200
+deleteL 445259
+drop 1418
+add 745083 R 161
+add 261667 L 170
+add 156407 R 1447
+add 803427 R 1910
+add 745083 R 1867
+add 733894 L 677
+add 760099 L 1500
+add 300996 L 754
+add 950122 L 1154
+deleteR 895669
+deleteL 210128
+deleteL 171637
+add 350766 R 1382
+add 92923 L 90
+deleteR 769567
+drop 1083
+deleteR 267199
+add 596875 R 384
+add 257597 R 1403
+deleteR 924138
+add 452213 R 587
+drop 1928
+drop 1361
+add 771048 R 1722
+add 733894 R 1114
+add 504959 R 1414
+deleteR 884636
+deleteL 66623
+add 815548 R 1251
+deleteL 454226
+add 236214 L 389
+deleteR 781645
+deleteL 565081
+add 127369 L 747
+add 232805 L 1600
+add 871046 L 819
+add 571137 R 1660
+add 401014 R 1342
+drop 513
+drop 275
+add 676291 L 1879
+drop 37
+add 756623 R 1794
+deleteL 645538
+deleteR 937264
+deleteL 375222
+add 69883 L 1382
+deleteR 713716
+add 232805 L 251
+add 958027 L 606
+deleteR 981973
+drop 568
+drop 185
+add 871046 L 353
+deleteR 837643
+add 320483 L 1733
+drop 1608
+deleteL 232805
+add 897588 L 32
+add 301462 L 1686
+add 300996 R 175
+add 429541 R 1074
+drop 1698
+deleteR 328686
+add 424424 R 645
+add 450104 L 1236
+add 733894 R 1053
+drop 727
+add 630420 L 425
+deleteL 603745
+deleteL 402750
+drop 1178
+add 853023 R 368
+deleteR 75155
+deleteR 676291
+add 650635 R 940
+deleteR 596875
+deleteL 1244
+deleteL 601863
+deleteL 382524
+add 445998 L 1718
+add 69883 L 952
+drop 1401
+add 519149 L 382
+drop 1496
+deleteL 631439
+add 519149 R 1091
+add 415518 R 1381
+deleteR 248364
+add 424424 L 186
+deleteR 62923
+add 250008 L 1728
+add 963524 R 1442
+add 450104 R 1819
+add 745083 R 721
+add 732036 R 738
+drop 811
+add 300579 L 1716
+add 853023 R 1397
+add 236214 L 1599
+add 257597 L 70
+deleteL 722137
+add 127369 L 428
+add 516833 L 1606
+add 880017 R 1128
+deleteL 715232
+add 578354 R 1872
+add 521490 L 76
+add 808274 R 591
+add 142779 L 1664
+deleteR 323691
+deleteL 39758
+add 89128 L 1620
+add 838164 L 1782
+deleteR 320483
+deleteR 524254
+add 426538 R 293
+drop 1199
+add 596029 R 750
+deleteR 412173
+add 745083 R 64
+add 533153 R 499
+add 545117 L 1367
+add 450460 L 574
+deleteL 635252
+drop 801
+deleteL 324908
+drop 1724
+deleteR 519149
+add 945629 L 1076
+drop 1503
+deleteR 757102
+add 539794 L 92
+add 880017 L 765
+deleteL 300996
+drop 461
+drop 855
+deleteL 350766
+drop 1312
+deleteL 846587
+deleteL 261667
+add 551138 L 1593
+add 482884 L 331
+drop 1015
+deleteL 450104
+add 716771 L 668
+add 200792 L 1465
+add 898111 R 1221
+add 519030 R 1468
+deleteL 880017
+deleteL 198752
+drop 894
+deleteR 647974
+add 20550 R 468
+add 924783 R 1375
+deleteL 464777
+add 465442 R 1554
+deleteR 732036
+deleteR 716771
+deleteL 701105
+add 815548 L 1797
+add 920292 L 1430
+deleteL 808274
+add 677667 R 62
+add 967229 R 1902
+add 114752 L 999
+drop 246
+deleteL 192435
+add 450460 L 165
+add 450460 R 1417
+deleteR 571137
+drop 510
+add 23247 L 180
+add 476936 R 1754
+add 970727 R 1473
+drop 1511
+deleteL 924783
+drop 1730
+add 912055 R 1342
+add 989960 L 1487
+drop 1951
+drop 1792
+add 839582 R 435
+drop 657
+deleteR 89128
+add 73888 L 419
+deleteR 69883
+add 257597 R 389
+drop 712
+deleteR 181734
+add 611014 R 800
+add 239775 R 981
+drop 1563
+add 852004 L 969
+drop 1721
+add 354754 R 471
+add 985321 L 1781
+add 880299 R 124
+add 544495 R 1063
+add 401904 L 184
+deleteR 950122
+deleteL 871046
+deleteR 787158
+deleteL 489229
+add 898111 L 1724
+deleteL 838164
+deleteL 307607
+add 133386 R 792
+deleteL 630420
+deleteL 156407
+add 771048 R 1514
+deleteR 415518
+deleteL 639061
+add 183215 L 172
+add 414622 L 1695
+deleteR 880299
+add 659205 L 1967
+deleteL 756623
+add 370704 L 1391
+drop 606
+drop 50
+add 178665 L 1113
+deleteL 476936
+deleteL 631257
+drop 1891
+drop 1800
+deleteR 450460
+drop 1414
+drop 1266
+add 715489 R 1034
+add 924938 R 1695
+deleteR 879613
+add 920292 L 735
+add 163568 R 895
+add 906726 R 714
+deleteL 133753
+drop 1481
+drop 712
+add 836991 R 216
+add 598457 L 458
+deleteR 578354
+add 741933 R 1509
+deleteR 567303
+drop 1025
+deleteL 803207
+add 522757 L 1334
+deleteR 448843
+add 286688 R 1637
+add 339922 R 1728
+deleteR 49997
+add 315741 L 492
+add 286688 R 733
+deleteL 733894
+add 512503 L 1612
+deleteR 310010
+add 121526 L 545
+deleteR 897588
+drop 1047
+add 920292 R 1122
+deleteR 909810
+add 452213 R 798
+add 515339 L 1574
+add 650635 R 460
+add 174413 L 1608
+deleteR 877014
+drop 154
+add 516833 R 1630
+add 820799 R 223
+deleteR 333329
+add 315741 R 289
+drop 883
+add 361526 L 52
+deleteR 452213
+add 836991 R 1290
+add 424424 L 737
+deleteL 885185
+drop 1837
+deleteL 354754
+drop 1433
+drop 1614
+add 890809 R 797
+deleteR 967229
+deleteR 401904
+add 192934 R 1984
+drop 1998
+add 239775 L 875
+drop 781
+deleteR 239775
+add 286688 R 781
+add 734272 L 831
+add 965679 L 1032
+add 87092 L 508
+add 163568 L 1655
+add 852004 R 1826
+add 183215 L 1467
+add 946414 L 741
+drop 1497
+deleteR 751173
+deleteR 760099
+drop 7
+deleteR 516833
+deleteR 898111
+drop 252
+add 945128 R 1509
+add 457702 L 788
+deleteL 43725
+deleteR 565548
+add 133386 R 1156
+deleteR 596029
+add 87092 R 1124
+add 463993 L 733
+add 57225 L 1763
+drop 1842
+add 231945 R 26
+add 232221 R 1108
+drop 303
+add 114291 L 1574
+drop 162
+add 770803 L 899
+deleteL 92923
+deleteL 301462
+add 745083 R 68
+add 944465 L 1765
+add 633612 R 1375
+add 401014 L 1884
+deleteL 183215
+deleteL 835785
+drop 1975
+deleteL 539794
+drop 675
+drop 705
+add 854338 L 363
+drop 1456
+add 414622 R 1045
+drop 1387
+add 915881 L 1195
+add 142779 L 1508
+drop 1255
+deleteL 611014
+add 976024 R 357
+deleteL 613545
+add 419026 L 232
+deleteR 23247
+drop 175
+add 989960 L 338
+drop 230
+add 599163 R 115
+drop 856
+drop 1961
+add 771662 R 41
+drop 683
+deleteR 286688
+deleteR 533153
+drop 815
+deleteL 20550
+add 14435 L 1099
+add 53603 L 1500
+add 445998 L 312
+deleteL 346831
+add 395156 R 1980
+add 399018 L 1209
+add 545123 R 984
+deleteL 950177
+drop 35
+add 536298 R 1006
+drop 274
+add 303891 L 1145
+drop 1142
+add 809432 R 976
+add 148764 R 111
+drop 1682
+add 771048 R 1618
+drop 444
+drop 1676
+add 107007 L 1651
+add 306075 R 975
+drop 403
+add 498922 L 282
+deleteL 257597
+add 545647 R 919
+deleteR 401014
+add 301079 L 109
+add 127369 R 1434
+add 971733 L 1184
+deleteL 545123
+add 100013 L 1929
+drop 959
+add 723958 R 1558
+drop 1203
+drop 459
+add 990964 L 1426
+drop 1589
+deleteL 250008
+deleteR 512503
+add 915982 R 25
+drop 262
+drop 1131
+drop 22
+add 231945 L 263
+deleteR 8923
+add 435179 L 1379
+deleteR 723958
+add 351918 L 739
+deleteL 576509
+drop 630
+deleteL 820799
+deleteR 536298
+add 602483 L 1682
+deleteL 114752
+drop 1378
+deleteL 1738
+add 370704 L 1814
+deleteR 200792
+add 809432 L 1889
+deleteR 87092
+add 919567 R 1518
+add 421897 L 1161
+add 985321 R 1430
+add 319961 R 227
+drop 1873
+drop 1333
+add 244978 R 650
+add 815548 R 1614
+add 599163 R 1561
+deleteL 963524
+add 859324 R 1071
+drop 762
+drop 482
+add 100013 R 1497
+drop 134
+add 127925 L 218
+add 399018 R 75
+deleteL 148764
+deleteR 244978
+add 301079 R 349
+deleteR 457702
+deleteL 944465
+deleteR 591804
+add 235955 L 1746
+add 262489 R 851
+add 531318 R 440
+add 408031 R 1460
+deleteL 361526
+deleteL 465442
+drop 1402
+deleteL 191096
+deleteR 300579
+add 272127 R 1331
+add 545183 L 1036
+add 303891 L 1230
+drop 501
+add 72415 L 788
+drop 698
+add 459256 R 75
+drop 1056
+drop 1435
+deleteR 277578
+add 482884 L 1306
+deleteR 223059
+add 977441 R 123
+add 868312 L 1780
+add 519030 L 457
+add 81697 L 1994
+drop 914
+add 912055 R 250
+drop 825
+add 282174 L 238
+add 544518 R 322
+deleteL 958027
+add 266717 L 503
+deleteR 985321
+deleteL 847749
+deleteL 970727
+deleteL 107007
+deleteL 395156
+drop 1270
+add 919567 L 664
+add 951700 R 279
+add 406671 L 1926
+deleteL 90023
+drop 143
+add 174413 L 1643
+deleteL 121526
+add 833693 R 1190
+drop 1457
+add 236214 L 110
+add 971733 R 1705
+drop 317
+deleteL 771662
+drop 1134
+deleteL 677667
+drop 1568
+drop 1652
+add 424424 R 339
+add 659205 R 1594
+deleteL 29941
+add 178665 L 480
+add 634059 L 111
+deleteL 272127
+drop 101
+deleteL 72415
+add 408031 R 442
+add 104335 L 101
+add 188091 R 1850
+add 906726 R 62
+add 116847 L 1746
+drop 1572
+add 962404 R 625
+deleteR 399018
+add 205147 R 662
+drop 91
+add 900479 L 1902
+add 522757 L 1372
+add 684179 L 935
+add 44020 R 1178
+drop 1814
+drop 276
+add 623136 R 1051
+add 920292 R 884
+add 634059 R 799
+drop 1752
+add 900479 R 1399
+deleteR 629234
+drop 1265
+deleteR 174413
+drop 1008
+drop 1755
+deleteR 303891
+deleteR 435179
+add 619633 R 1537
+deleteL 900479
+add 563305 R 1748
+deleteL 459256
+deleteR 545117
+add 763596 L 686
+deleteR 614513
+add 872056 R 1939
+add 946360 L 1884
+add 163568 L 750
+add 205147 L 1079
+deleteL 973061
+drop 1979
+deleteR 188091
+add 990964 R 1282
+add 835613 R 144
+deleteL 519030
+add 785815 L 1616
+deleteL 924938
+deleteR 551138
+deleteL 955125
+deleteR 445998
+add 545647 L 952
+deleteR 886670
+add 945128 L 593
+add 794919 L 335
+drop 196
+deleteR 794919
+add 137384 L 1379
+add 770737 R 852
+add 236076 R 1220
+add 117873 R 864
+deleteL 741933
+add 301079 L 102
+add 495230 L 1985
+deleteL 708258
+add 859324 R 998
+drop 159
+deleteL 513487
+add 852004 L 1674
+add 414622 R 1724
+deleteL 715489
+add 678776 R 475
+add 833957 L 1346
+add 495950 L 1809
+deleteR 292139
+deleteR 915982
+deleteR 236076
+add 167240 L 266
+deleteL 511928
+add 619633 R 1539
+deleteL 868312
+deleteR 370704
+add 859324 L 1266
+deleteR 137384
+deleteR 192934
+add 498295 R 1329
+add 147163 L 1020
+add 397210 R 150
+drop 1274
+add 463993 R 1733
+deleteR 262489
+drop 1804
+add 420311 L 263
+drop 597
+deleteR 266541
+drop 554
+deleteL 311291
+add 137347 R 74
+deleteR 544518
+add 243684 R 1465
+drop 302
+deleteL 147163
+add 163249 L 1372
+add 349609 R 1450
+add 44020 R 9
+add 921437 L 47
+drop 799
+deleteL 521490
+add 178665 L 860
+deleteL 375125
+add 97107 L 1913
+add 146246 R 730
+deleteR 945128
+add 852004 L 916
+deleteR 117873
+deleteL 319961
+add 545647 R 933
+deleteL 352544
+drop 215
+add 823723 L 808
+add 379753 L 628
+deleteL 890809
+drop 1534
+deleteR 127369
+add 782831 L 821
+deleteR 734272
+add 705377 L 1441
+drop 1810
+deleteL 414622
+drop 1196
+drop 1365
+add 921849 L 120
+add 492792 R 1621
+add 258597 R 342
+deleteL 920292
+deleteL 833693
+add 155977 L 15
+add 563305 L 924
+deleteL 53603
+deleteL 188314
+add 705377 L 1354
+deleteR 815548
+deleteL 100013
+add 400926 L 1731
+drop 1894
+add 139861 L 1951
+drop 631
+deleteR 545647
+drop 1284
+add 461159 L 486
+deleteL 872056
+drop 131
+drop 1785
+drop 1819
+add 183311 R 1344
+deleteL 88972
+drop 1763
+drop 1502
+deleteL 163249
+deleteR 921849
+deleteR 46824
+add 583049 L 423
+add 563928 R 255
+add 420311 R 1682
+deleteR 138223
+add 205147 R 84
+add 422124 R 615
+deleteL 844274
+deleteL 82213
+add 687920 R 1394
+deleteL 770803
+add 232221 L 652
+add 515463 R 1627
+deleteR 155977
+drop 678
+add 752809 R 107
+drop 60
+deleteL 782831
+drop 823
+drop 1143
+drop 272
+deleteL 379753
+drop 1422
+drop 463
+drop 827
+add 989960 L 726
+add 183311 R 684
+add 704617 R 1192
+add 137092 R 341
+drop 279
+deleteL 163568
+add 873255 R 1188
+add 752809 L 377
+drop 1406
+add 339922 R 197
+add 636527 R 344
+add 951700 L 1410
+deleteL 232221
+add 961309 L 1896
+add 409607 L 1361
+add 351918 L 966
+deleteR 962404
+deleteL 745083
+drop 1251
+deleteR 266717
+deleteR 650635
+drop 1993
+add 421897 L 407
+add 704617 L 1127
+add 960249 L 1812
+drop 1596
+add 836991 L 74
+deleteL 408031
+add 37731 R 1555
+deleteL 498922
+deleteL 873255
+add 983977 L 1141
+add 983977 R 1817
+deleteL 801511
+add 339922 L 320
+add 583049 L 106
+add 684179 R 1622
+drop 469
+add 833957 L 1039
+drop 702
+deleteL 915881
+deleteR 853023
+add 614223 L 556
+deleteR 803427
+add 528136 L 921
+add 960249 R 1924
+deleteL 945629
+drop 1927
+add 429541 R 349
+add 285121 L 1306
+drop 267
+add 545183 R 181
+add 422605 L 1822
+deleteL 752809
+add 187842 L 817
+add 406671 L 524
+add 80398 R 784
+deleteR 836991
+deleteL 400926
+add 151578 R 1196
+add 461159 L 465
+add 919567 R 4
+add 758910 R 1516
+deleteL 116847
+deleteR 490235
+drop 1075
+drop 648
+deleteR 243684
+deleteR 633612
+add 133386 R 836
+drop 318
+add 847044 R 1137
+add 777965 R 1283
+deleteR 495950
+deleteL 97107
+drop 1651
+add 965679 L 278
+add 763596 L 776
+add 306075 L 725
+add 525443 L 1529
+add 151945 L 1163
+deleteR 137092
+deleteR 397210
+add 619449 L 967
+deleteR 429541
+deleteR 544495
+drop 855
+add 164213 L 212
+deleteR 285121
+add 489676 R 1603
+add 728103 R 1232
+add 362762 L 1483
+add 796227 L 322
+add 540076 R 210
+drop 612
+deleteL 151578
+drop 1450
+deleteR 847044
+deleteR 540076
+drop 935
+drop 1678
+deleteR 306075
+add 80398 R 181
+drop 701
+add 735036 L 957
+deleteR 104335
+deleteL 770520
+deleteL 134142
+deleteL 934033
+deleteR 796227
+deleteR 386741
+deleteL 777965
+deleteL 563305
+add 275912 L 1320
+add 618155 R 937
+deleteL 319534
+add 381056 L 916
+drop 635
+add 906726 L 1743
+drop 1360
+drop 406
+drop 1612
+deleteL 716705
+deleteL 802162
+add 623891 L 1426
+deleteR 598457
+add 422124 R 622
+drop 338
+add 989960 R 397
+add 785815 L 1744
+add 620395 R 1702
+add 912055 L 650
+drop 774
+deleteL 146246
+add 61591 L 580
+drop 1124
+add 659205 R 1334
+add 349609 R 1999
+add 37159 L 675
+deleteL 961309
+add 906726 L 574
+add 977441 R 1669
+add 515463 R 1616
+deleteL 620395
+drop 40
+add 960249 R 1843
+add 830839 R 179
+deleteL 426850
+deleteL 250668
+drop 243
+add 205147 R 584
+add 183311 R 1449
+drop 659
+add 426070 L 1578
+drop 824
+deleteR 362762
+deleteR 960249
+add 583049 L 1310
+drop 94
+add 69504 L 38
+drop 1889
+add 739053 R 1563
+add 814883 R 660
+add 482884 R 168
+add 372127 R 1805
+drop 555
+add 266254 L 1476
+deleteL 187842
+drop 78
+deleteR 69504
+drop 1959
+add 438156 R 1748
+drop 1035
+deleteR 525443
+deleteL 852004
+drop 1129
+add 313531 L 1685
+drop 877
+add 619909 L 428
+drop 1400
+deleteL 139861
+drop 995
+add 235955 L 1617
+deleteL 971733
+drop 876
+deleteR 908348
+add 665749 L 6
+add 207566 L 485
+add 946360 L 1842
+drop 1197
+add 658872 R 1757
+deleteR 44020
+add 461159 R 56
+deleteR 636580
+deleteL 498295
+deleteL 178665
+deleteR 231945
+deleteL 275912
+add 705377 R 1662
+deleteR 313531
+drop 1958
+deleteL 495230
+drop 120
+drop 455
+deleteL 619778
+add 699331 R 1358
+deleteR 515339
+deleteL 714465
+drop 1747
+deleteL 763596
+deleteR 653071
+deleteL 614223
+deleteL 554206
+add 788370 L 539
+deleteL 401358
+deleteL 705377
+drop 866
+add 833957 L 222
+deleteR 634059
+add 745481 R 223
+deleteL 406671
+deleteR 489676
+add 921437 R 189
+deleteR 133386
+drop 1125
+deleteL 339922
+add 648145 L 1282
+deleteR 236214
+drop 972
+deleteL 477142
+drop 652
+drop 1479
+add 898044 R 431
+deleteL 151945
+add 47741 R 1887
+deleteR 164213
+deleteR 735036
+deleteL 351918
+deleteL 859324
+deleteR 258597
+add 788370 L 604
+add 946414 R 1791
+add 429240 R 1801
+deleteL 745481
+add 989960 L 208
+deleteL 422605
+drop 1367
+deleteL 492792
+add 137347 R 1682
+add 183311 R 271
+add 291747 L 1285
+add 419026 L 434
+drop 700
+drop 1852
+add 709172 R 1370
+add 170631 R 1827
+add 458760 L 393
+deleteR 659205
+drop 1918
+add 710068 R 289
+deleteL 906726
+deleteL 623891
+add 935004 L 250
+deleteR 259954
+add 788370 R 352
+drop 1211
+deleteL 315741
+add 937684 R 295
+add 394535 R 506
+add 137347 R 992
+add 296742 L 543
+add 814883 L 1042
+drop 1603
+drop 1501
+add 438156 R 1128
+add 305187 L 1428
+add 788370 L 1301
+deleteR 237503
+drop 1630
+add 648145 R 798
+drop 1030
+add 704617 L 1592
+drop 873
+add 961895 R 1226
+add 207566 R 1113
+drop 1508
+add 265690 L 616
+add 554270 L 1503
+deleteR 47741
+add 324521 L 770
+add 305187 R 1728
+drop 1525
+add 788370 R 1676
+add 699331 R 215
+add 383071 R 501
+add 159519 L 106
+deleteR 977441
+deleteR 207566
+add 946360 R 1341
+add 266817 R 299
+drop 1223
+drop 1851
+deleteL 788370
+drop 1718
+add 530131 R 1106
+deleteR 622711
+drop 318
+deleteR 704617
+add 12372 L 384
+add 854338 L 1327
+deleteR 265690
+deleteL 381056
+deleteR 522757
+deleteR 187787
+deleteL 835613
+deleteL 372127
+deleteR 114291
+deleteL 618155
+add 619909 L 651
+drop 870
+add 424290 L 1800
+drop 7
+add 861575 R 364
+deleteL 159519
+add 422124 R 815
+deleteL 322823
+drop 1077
+add 462977 L 1204
+add 235955 L 840
+add 587495 L 787
+deleteL 319303
+add 455685 L 703
+deleteR 921437
+add 154500 R 870
+add 977108 L 1637
+add 648145 L 232
+add 175375 R 1957
+add 168155 L 1436
+add 678776 L 1048
+add 771048 L 527
+add 296742 R 1638
+add 317405 R 549
+deleteL 424290
+drop 1150
+add 14435 L 377
+deleteL 11521
+add 152058 R 1835
+add 968030 L 422
+add 515463 L 516
+add 530131 R 664
+add 790764 L 63
+add 17287 L 1851
+drop 287
+drop 523
+deleteL 482884
+add 61591 L 776
+add 339042 R 1286
+deleteL 175375
+deleteR 429240
+add 240339 R 319
+add 167240 L 129
+add 198748 R 250
+deleteR 545183
+drop 406
+deleteR 636527
+add 104178 L 738
+deleteL 528136
+add 462977 R 300
+deleteL 438156
+drop 1103
+deleteL 324521
+deleteR 373783
+add 935004 R 941
+deleteL 583049
+deleteR 73888
+deleteR 80398
+add 736019 L 1559
+drop 998
+deleteR 839582
+add 785815 R 1031
+deleteR 269613
+deleteL 543
+add 965196 R 489
+add 493679 R 1244
+add 514358 R 163
+drop 1866
+add 619909 L 1634
+deleteL 37159
+deleteR 937684
+deleteL 970178
+add 441554 L 1467
+drop 682
+add 37731 L 36
+deleteL 205147
+drop 1128
+add 305187 L 1377
+drop 1456
+add 61445 R 1479
+add 296989 R 62
+add 756556 R 1218
+add 291747 L 1629
+deleteL 394535
+add 354711 R 1294
+drop 1152
+deleteR 990372
+deleteR 282174
+deleteR 919567
+add 493343 R 1860
+deleteL 965679
+add 645441 L 738
+add 363867 L 459
+add 374994 R 854
+deleteL 961895
+add 69830 L 1837
+deleteR 315076
+drop 1173
+add 324310 R 457
+drop 1997
+add 915180 R 1871
+deleteR 343189
+deleteR 965196
+drop 567
+deleteR 152058
+add 653870 R 307
+drop 906
+drop 832
+add 648145 L 1303
+drop 1947
+drop 1210
+deleteL 305187
+add 19425 L 1471
+drop 478
+add 12372 L 422
+drop 1934
+add 493343 L 839
+drop 683
+add 266589 L 1191
+add 324310 L 110
+add 966812 L 1179
+drop 1230
+add 406639 R 604
+drop 1714
+deleteR 658872
+add 739053 R 339
+deleteL 386059
+add 643578 R 1627
+drop 960
+deleteR 266254
+deleteL 814883
+deleteR 781156
+deleteL 557065
+add 127614 R 1643
+drop 1347
+add 228073 R 1812
+deleteL 684179
+add 25949 R 1680
+add 25949 L 1454
+drop 1427
+add 419026 L 1498
+deleteR 654103
+add 701064 R 1693
+deleteL 307814
+deleteL 879283
+add 736287 R 572
+deleteR 645441
+add 966812 L 710
+add 69830 L 1593
+deleteR 17287
+deleteR 170631
+add 770081 L 1733
+drop 1844
+drop 1353
+deleteL 363867
+add 577577 R 679
+deleteL 14435
+add 790764 R 427
+deleteR 461159
+add 374994 R 321
+deleteR 771048
+add 515463 L 753
+drop 1195
+deleteL 727241
+drop 1988
+deleteL 137347
+deleteL 291747
+add 19425 L 721
+deleteR 339042
+add 871128 R 713
+add 425720 R 1014
+add 12372 L 1647
+deleteL 619633
+add 569653 R 1238
+add 739677 L 191
+deleteL 354711
+deleteL 710068
+drop 503
+deleteR 606521
+add 504275 L 183
+add 915180 L 62
+add 8296 R 1969
+add 823723 L 695
+deleteR 935004
+drop 236
+add 761862 L 337
+add 577577 L 624
+add 74682 L 1890
+deleteR 587495
+deleteR 444649
+drop 1977
+add 602483 R 1099
+deleteR 69830
+add 790764 L 1425
+add 861575 L 123
+deleteR 120088
+add 756556 R 961
+add 168155 L 1843
+add 59304 R 126
+deleteL 761862
+add 95368 R 1079
+add 372687 L 904
+drop 1615
+deleteR 699331
+deleteL 421897
+drop 1632
+deleteR 296742
+deleteR 648145
+deleteL 127925
+drop 712
+deleteR 966812
+drop 1587
+drop 1025
+add 8296 R 1470
+add 787212 L 1829
+drop 1884
+add 429150 L 1311
+deleteL 426538
+deleteR 59304
+drop 295
+deleteL 142779
+drop 1753
+add 687920 R 491
+add 42923 L 1172
+deleteL 833957
+add 546208 R 1151
+deleteR 240339
+deleteL 736287
+add 42923 L 1991
+add 854338 R 1378
+drop 255
+add 198748 L 564
+drop 634
+drop 430
+drop 924
+add 183311 L 243
+drop 1361
+drop 884
+deleteL 861575
+add 787212 R 1267
+deleteR 9905
+drop 1115
+drop 1845
+drop 77
+add 845727 R 582
+add 474048 R 269
+deleteL 301079
+drop 860
+add 645050 L 956
+drop 577
+deleteR 989960
+add 426070 L 1576
+add 728103 R 856
+add 166058 R 1554
+add 61924 L 499
+add 678776 R 1649
+deleteR 678776
+drop 972
+drop 1081
+drop 1366
+drop 370
+add 95368 R 748
+deleteL 968030
+deleteL 787212
+deleteL 458760
+add 975396 R 255
+add 462977 R 1645
+add 753875 R 73
+deleteR 830839
+deleteL 95368
+add 823723 L 1595
+add 42923 R 81
+deleteR 57225
+add 861354 R 153
+deleteR 790764
+add 493679 L 1222
+deleteR 898044
+deleteR 758910
+deleteL 37731
+deleteL 854338
+deleteR 990964
+add 350256 R 348
+add 285455 L 1240
+deleteR 349609
+add 623578 R 1054
+deleteL 198748
+add 266589 R 1417
+add 759914 L 779
+drop 477
+deleteL 419026
+drop 667
+drop 1849
+add 289308 R 1125
+deleteL 324310
+add 756556 L 1659
+drop 354
+deleteL 374994
+add 322349 L 1482
+deleteL 728103
+deleteL 352776
+add 491927 R 44
+add 963099 R 342
+deleteR 739053
+add 440200 R 1119
+deleteR 946360
+deleteL 645050
+add 585411 R 1255
+add 336752 R 492
+add 195723 R 334
+add 72160 R 103
+add 430706 L 1619
+add 142854 L 1051
+add 845727 R 274
+drop 647
+deleteR 914491
+deleteR 619909
+drop 1546
+drop 1704
+deleteL 406639
+add 804149 R 277
+add 493679 L 1570
+deleteR 912055
+deleteR 372687
+add 142854 R 1845
+drop 1053
+deleteR 785815
+deleteR 759914
+deleteL 235955
+deleteR 455685
+drop 898
+drop 396
+add 681287 R 1134
+drop 1559
+add 330298 R 1288
+drop 670
+deleteR 296989
+deleteL 623136
+deleteR 959431
+deleteR 284044
+deleteL 976024
+deleteR 424424
+add 861354 R 1571
+deleteR 701064
+drop 704
+deleteR 861354
+deleteL 759576
+add 491927 R 253
+deleteL 681287
+add 736019 R 1439
+deleteR 430706
+deleteR 462977
+add 883869 L 1233
+drop 1885
+add 391085 R 1694
+deleteL 289308
+deleteL 61445
+deleteR 915180
+add 504959 R 1621
+deleteR 514358
+add 441554 L 1678
+add 521238 R 1008
+add 168155 L 771
+add 653870 R 1606
+add 566816 R 345
+add 653870 L 636
+deleteL 317405
+drop 1570
+add 504275 R 319
+add 653870 L 1360
+deleteR 739677
+add 425720 R 1598
+drop 1148
+add 646441 R 291
+deleteL 493343
+add 810552 R 1153
+deleteR 530131
+deleteL 127614
+add 477896 R 206
+add 385448 L 917
+deleteR 871128
+deleteR 946414
+add 41614 L 538
+add 963099 R 1868
+add 626941 R 864
+add 409607 R 1385
+deleteR 665749
+add 167240 R 956
+add 381899 R 1632
+deleteL 736019
+add 832227 R 828
+add 74333 R 1307
+add 273402 L 146
+add 975396 R 189
+deleteR 477896
+drop 823
+add 684659 R 148
+deleteL 546208
+drop 373
+deleteL 770081
+deleteR 104178
+add 89143 R 1989
+add 597778 R 98
+deleteR 273402
+drop 1878
+add 869958 R 1623
+add 168155 L 1211
+add 833867 R 1324
+add 61591 R 1845
+add 597778 L 420
+deleteR 491927
+drop 13
+deleteL 168155
+add 78449 L 706
+add 96915 R 1096
+add 322349 R 39
+deleteR 577577
+drop 1984
+deleteL 142854
+add 504275 L 367
+add 383071 L 99
+add 322349 L 628
+deleteL 216221
+drop 1544
+drop 108
+add 687944 L 1701
+drop 1702
+deleteR 832227
+deleteL 12372
+drop 383
+add 531352 L 92
+add 983977 L 1563
+deleteL 619449
+add 569653 L 1422
+add 602483 L 292
+drop 1777
+add 671154 R 1944
+add 427923 R 412
+add 521532 R 870
+drop 1108
+drop 1661
+add 422124 R 1312
+deleteR 100688
+deleteR 19720
+add 223116 R 1779
+deleteR 626941
+deleteL 275997
+deleteR 661738
+add 346821 L 1864
+add 350256 R 1084
+add 882984 L 473
+drop 1528
+deleteL 25949
+drop 1521
+add 373295 R 1723
+add 290804 R 1820
+deleteR 731410
+add 766877 R 111
+add 999161 L 1636
+drop 1724
+deleteR 420311
+add 120911 L 1705
+deleteR 346821
+deleteL 81697
+add 411187 L 1354
+deleteR 425720
+deleteL 8764
+add 597778 L 31
+deleteR 521532
+add 166058 L 470
+drop 639
+add 617057 R 1606
+deleteR 266589
+add 533112 L 1941
+drop 1627
+add 493679 R 742
+deleteR 969491
+deleteL 434274
+drop 738
+add 555916 L 801
+add 796658 L 955
+deleteL 566169
+deleteR 223116
+deleteL 72160
+add 619790 L 1088
+add 429150 R 1563
+drop 400
+deleteL 42923
+add 74333 L 1155
+add 102609 L 370
+deleteR 531352
+add 411187 L 1029
+add 225008 R 1331
+add 484795 L 1843
+add 683557 L 949
+add 555916 R 130
+add 645590 R 1387
+deleteL 566816
+add 452168 R 1759
+drop 707
+drop 1205
+deleteL 452168
+deleteL 96915
+deleteR 285455
+deleteL 975396
+add 622689 R 1540
+add 166058 L 1691
+add 693327 R 719
+drop 380
+add 898711 R 648
+add 317109 L 1968
+add 5442 L 1230
+deleteL 383071
+add 18260 L 645
+add 270325 L 1293
+add 270325 R 933
+drop 267
+deleteR 882984
+deleteL 841327
+deleteL 154500
+drop 1061
+deleteL 61591
+drop 1673
+drop 51
+add 829283 L 1094
+add 463993 L 845
+deleteL 979924
+add 801552 R 1123
+add 107163 L 842
+drop 740
+add 832222 L 849
+deleteR 684659
+drop 663
+add 219416 R 571
+drop 1817
+add 412595 R 1757
+deleteR 801552
+deleteR 796658
+drop 739
+drop 1266
+drop 1500
+deleteL 829283
+add 914981 L 1228
+deleteR 569653
+drop 1418
+deleteL 709172
+add 653870 L 1885
+deleteR 74682
+add 664172 L 977
+add 957627 R 770
+deleteL 643578
+drop 972
+add 463993 R 756
+drop 376
+add 635657 R 1562
+drop 1581
+drop 614
+add 466625 R 1392
+deleteR 72035
+drop 759
+add 2259 L 272
+drop 1455
+add 591416 R 1807
+add 567988 R 90
+add 967253 R 1186
+add 907527 R 1975
+deleteR 102609
+add 333694 R 117
+add 65829 L 1093
+deleteR 623578
+deleteL 466625
+deleteL 166058
+drop 1494
+drop 1854
+add 533112 R 549
+deleteL 967253
+deleteL 476151
+add 395206 R 767
+drop 1431
+deleteR 770737
+drop 544
+deleteR 809432
+add 212613 R 1354
+drop 1456
+add 504275 R 1176
+deleteR 693327
+drop 176
+deleteL 41614
+drop 476
+drop 495
+add 946872 L 1760
+add 664172 R 203
+add 20276 R 254
+deleteR 753875
+deleteR 373295
+add 330298 R 121
+add 506285 L 757
+deleteR 554270
+add 621031 L 1747
+deleteL 597778
+add 291138 L 1627
+deleteR 2259
+add 811830 L 1160
+add 397533 L 396
+add 815348 L 1967
+deleteR 883869
+drop 1078
+drop 1065
+add 422124 L 1540
+drop 1973
+add 799749 R 1953
+add 148675 R 1558
+drop 965
+drop 942
+drop 1247
+deleteR 441554
+deleteL 167240
+deleteR 957627
+drop 1687
+add 493679 L 916
+deleteR 895198
+deleteL 350256
+add 632499 R 1337
+add 664172 R 1477
+deleteR 18260
+deleteR 200918
+add 537642 R 1851
+deleteL 395206
+add 317109 L 1936
+drop 1373
+deleteR 602483
+deleteR 422124
+add 81097 R 1701
+deleteL 101750
+add 815105 L 1403
+add 58590 L 1375
+add 266817 L 24
+add 328125 R 1249
+add 131013 L 1841
+drop 829
+deleteR 521238
+add 740647 R 990
+deleteR 567988
+add 556092 R 1484
+deleteL 621031
+deleteL 107163
+add 854286 R 1560
+add 195723 L 148
+add 80353 R 1389
+add 946872 L 1015
+add 330298 L 107
+add 946872 R 804
+deleteL 814414
+add 730655 R 1066
+drop 1070
+add 626388 L 14
+add 395019 L 843
+deleteL 270325
+add 854286 L 801
+drop 265
+drop 1302
+add 815105 L 1608
+add 219416 R 1734
+add 409253 L 961
+add 626388 L 8
+deleteR 78449
+drop 1388
+deleteL 632499
+add 650119 R 401
+add 631013 L 1146
+drop 1741
+drop 1037
+deleteR 804149
+add 390075 R 46
+deleteR 8296
+drop 707
+drop 1061
+add 195723 R 93
+drop 1640
+add 484653 R 1275
+drop 1383
+add 429150 R 1307
+deleteL 5442
+deleteR 91864
+deleteL 61924
+add 135461 L 323
+deleteR 626388
+add 550209 L 96
+deleteL 493679
+add 683557 L 91
+drop 1934
+add 192653 R 7
+deleteL 645590
+drop 1241
+add 120911 L 1710
+add 111748 L 928
+deleteR 391085
+add 330298 L 26
+deleteR 646441
+drop 445
+add 710384 L 1918
+add 206254 L 338
+add 823723 R 279
+deleteR 591416
+add 563928 L 261
+add 977108 R 869
+add 373137 L 461
+add 619790 R 1724
+deleteR 815348
+add 867910 L 1483
+drop 1349
+add 275129 R 1059
+deleteL 90588
+add 368400 L 623
+deleteR 924082
+add 360555 R 754
+add 228073 R 1559
+deleteL 333694
+add 231228 L 449
+drop 690
+deleteR 710384
+add 143753 L 1737
+add 860543 L 1975
+drop 315
+drop 309
+deleteR 275129
+drop 1702
+deleteL 228073
+deleteL 887233
+add 869958 L 1160
+add 463993 L 252
+add 485541 R 1979
+drop 690
+deleteL 578810
+add 635657 L 527
+add 556092 L 161
+add 958755 R 663
+deleteL 5895
+deleteL 427892
+deleteR 671154
+add 536895 R 1013
+drop 1728
+deleteL 810552
+add 138200 R 127
+add 183311 L 148
+add 992989 R 96
+deleteR 74882
+add 563928 R 1572
+add 631013 R 1745
+add 427923 R 1522
+add 913787 L 787
+add 330298 L 1638
+add 800701 R 1012
+add 832222 L 1085
+deleteL 504959
+add 3878 R 570
+deleteR 411187
+deleteL 195723
+drop 453
+drop 277
+drop 368
+add 791576 R 1960
+add 292845 L 1375
+deleteL 637619
+deleteR 148675
+deleteL 381899
+add 859223 L 857
+add 800701 L 903
+deleteL 832222
+deleteR 58590
+add 20655 R 1275
+deleteL 766877
+add 558880 R 439
+drop 62
+deleteL 898711
+deleteR 344553
+add 756556 L 1613
+deleteL 963099
+deleteR 440200
+add 531318 L 1995
+drop 1035
+deleteR 20655
+add 410482 L 1767
+add 992524 L 743
+add 992524 R 1129
+add 181541 R 831
+add 958755 R 280
+deleteR 515463
+add 730655 R 403
+add 111748 L 1303
+drop 1831
+deleteL 757742
+deleteL 368400
+deleteR 558880
+drop 1935
+drop 1023
+add 505428 L 1450
+deleteR 484795
+add 225008 L 1517
+add 631013 L 1246
+add 314280 R 459
+deleteR 411689
+deleteR 135461
+deleteR 409607
+add 914981 L 709
+drop 861
+add 427923 R 999
+deleteL 854286
+add 319742 R 61
+drop 1332
+deleteL 181541
+deleteR 977108
+deleteL 158198
+add 946872 L 1393
+add 255671 R 821
+deleteL 791576
+add 427923 R 318
+drop 673
+add 360777 L 1707
+deleteR 80353
+add 698131 R 96
+add 505428 L 1788
+add 85845 R 1279
+add 653870 L 1575
+add 143753 L 726
+add 488779 L 1363
+deleteR 19425
+add 887374 R 1364
+deleteR 674895
+add 867516 L 1668
+drop 86
+deleteL 291138
+add 360555 L 1873
+add 219416 L 14
+add 336752 L 1259
+add 110138 R 779
+add 550209 R 1978
+deleteR 395019
+add 720679 L 217
+deleteL 992524
+deleteR 319742
+deleteL 463993
+drop 172
+deleteR 683557
+drop 612
+drop 1622
+drop 640
+add 131013 L 207
+drop 335
+add 120911 R 858
+drop 1539
+add 465268 L 237
+add 914981 L 745
+deleteR 390402
+add 778155 R 123
+add 549128 L 278
+drop 1331
+drop 898
+deleteL 720679
+add 385448 L 1896
+add 390075 R 311
+deleteR 563928
+add 536079 R 1645
+drop 1296
+add 544444 L 1981
+add 730655 R 1017
+deleteR 622689
+deleteR 225008
+add 485541 L 415
+add 678619 L 926
+deleteL 536895
+add 585247 R 490
+drop 645
+drop 856
+add 385448 L 94
+drop 572
+deleteL 859223
+deleteR 266817
+deleteL 206254
+deleteL 531318
+add 248290 L 1380
+add 330298 L 736
+drop 1898
+deleteL 3878
+drop 14
+deleteR 500875
+deleteL 640605
+deleteR 694520
+add 96984 L 67
+add 821032 L 284
+add 343519 R 899
+deleteR 549128
+add 821032 R 939
+add 484653 R 845
+deleteR 971927
+deleteR 390075
+add 96984 R 1270
+add 12145 R 1691
+add 488779 L 1200
+add 544746 L 641
+add 771233 L 630
+deleteL 131013
+drop 1519
+add 623109 L 1041
+drop 1223
+add 958755 R 976
+add 211901 R 419
+deleteR 555916
+add 344667 L 1601
+deleteL 678619
+deleteL 556092
+drop 1185
+add 51255 R 1963
+add 523818 R 1136
+add 138200 L 1094
+drop 366
+add 687944 R 249
+deleteL 821032
+deleteR 111748
+add 385448 L 644
+drop 479
+drop 1846
+add 815105 R 615
+add 336225 L 1485
+add 635657 R 424
+drop 951
+deleteR 65829
+deleteL 292845
+add 537642 L 1460
+deleteL 579553
+add 73873 R 1640
+add 876606 L 717
+deleteL 867516
+deleteL 951700
+add 20276 R 876
+add 110902 R 967
+drop 795
+drop 1972
+add 770358 R 1229
+add 655318 R 565
+add 537642 R 246
+add 344667 L 1348
+add 379000 R 847
+deleteR 488779
+add 536079 R 1728
+add 567232 R 1499
+drop 133
+add 212613 L 380
+add 980495 R 449
+add 701856 L 823
+deleteR 799749
+deleteR 328125
+deleteR 397533
+add 778155 R 859
+deleteL 470496
+deleteR 81097
+deleteR 74333
+deleteR 12145
+add 202904 L 10
+deleteL 914981
+deleteL 482935
+add 336752 L 1979
+deleteR 299042
+add 635657 L 1704
+drop 1764
+add 544444 R 1770
+deleteR 992989
+add 110138 L 956
+add 192729 R 985
+add 59497 R 1949
+deleteR 833867
+deleteR 770358
+drop 1553
+drop 721
+deleteL 351597
+deleteL 544746
+deleteR 635657
+add 936686 L 305
+add 160401 R 1736
+drop 541
+add 89143 L 1556
+add 84993 R 1499
+add 936686 L 1420
+add 412595 L 1390
+deleteR 537642
+drop 1003
+drop 21
+add 314280 L 1345
+deleteL 59497
+deleteR 409253
+drop 1899
+add 655318 R 1820
+drop 1665
+add 997911 R 395
+deleteR 738316
+drop 177
+add 715730 R 167
+deleteL 653870
+add 171124 R 1216
+add 41985 R 254
+deleteR 20276
+add 701856 L 311
+add 619790 L 1767
+add 909541 R 1957
+add 648954 L 268
+drop 1580
+deleteL 585411
+drop 1327
+deleteL 771233
+drop 771
+add 641569 L 681
+add 863529 R 1383
+add 685404 L 520
+add 374019 L 390
+drop 624
+drop 462
+deleteR 138200
+add 602030 L 1057
+drop 803
+drop 603
+add 192653 L 950
+deleteR 863529
+drop 1030
+add 556672 L 1542
+deleteL 823723
+add 819605 L 241
+add 460395 R 1471
+add 339447 L 334
+add 556672 R 736
+add 867910 L 1983
+add 504275 L 843
+add 380193 L 1663
+drop 1412
+add 484653 R 1023
+add 248290 L 0
+deleteR 641569
+deleteL 811830
+drop 1953
+add 567232 R 999
+drop 816
+drop 1204
+deleteL 815105
+add 681894 L 265
+deleteR 343519
+deleteL 756556
+add 837396 L 1663
+drop 1381
+add 385448 R 1462
+add 96984 R 1931
+drop 807
+add 429150 R 266
+add 566638 R 1844
+drop 628
+add 804793 R 489
+drop 63
+deleteL 980495
+deleteL 740647
+add 689740 L 1001
+deleteR 913787
+deleteL 681894
+drop 1327
+drop 660
+deleteR 876606
+add 369015 L 1627
+add 317109 L 1672
+deleteL 183311
+add 219416 L 47
+add 860543 R 803
+add 330298 R 1385
+add 380431 R 1504
+deleteL 444833
+deleteL 41985
+add 181793 L 1674
+add 761906 R 380
+add 465268 L 92
+add 887374 L 297
+drop 122
+add 312970 R 1256
+drop 581
+add 219413 L 150
+add 412601 L 1181
+drop 525
+drop 168
+add 373137 L 714
+add 369015 R 436
+deleteL 23298
+add 715730 L 537
+deleteR 255671
+deleteL 427923
+drop 1835
+add 7593 R 1108
+drop 166
+add 47293 R 1849
+add 819605 L 712
+deleteL 958755
+deleteR 139345
+drop 224
+drop 1155
+add 120911 R 32
+deleteR 381838
+add 702499 R 1990
+add 860543 R 991
+add 290804 R 1567
+add 846449 R 1000
+deleteR 485541
+add 477456 L 350
+add 505428 R 1673
+add 285548 L 382
+add 483186 R 1410
+drop 1680
+add 510978 R 648
+drop 1660
+drop 1715
+deleteR 619790
+deleteL 623109
+add 350996 L 816
+drop 1461
+add 43554 L 480
+deleteL 474048
+add 544444 L 449
+drop 258
+add 412595 L 1854
+deleteL 887374
+deleteL 845727
+deleteR 566638
+deleteR 202904
+deleteL 192653
+drop 1376
+drop 485
+drop 1348
+deleteL 832673
+add 121845 R 1042
+add 651297 L 1995
+drop 676
+add 556672 R 800
+add 222395 R 872
+add 110902 R 1371
+deleteL 689740
+drop 344
+deleteR 248290
+add 181793 L 1870
+drop 1176
+add 31207 R 1108
+add 317109 L 276
+deleteR 505428
+add 970373 L 170
+drop 135
+deleteL 412595
+add 885603 R 956
+deleteR 936686
+add 360555 R 554
+add 768836 R 1476
+deleteL 314280
+deleteL 160401
+drop 368
+drop 1157
+deleteR 345654
+add 744446 R 1831
+add 3694 L 789
+add 934151 R 1597
+deleteL 585247
+add 436812 L 502
+add 957977 R 45
+add 526914 L 1817
+add 648954 L 666
+drop 1208
+add 285548 R 44
+add 601833 R 1749
+add 252932 R 833
+add 231637 L 168
+deleteR 999161
+drop 470
+add 47293 L 391
+add 333016 L 172
+drop 1194
+add 779147 R 1121
+add 572754 R 378
+add 648954 R 202
+drop 1584
+deleteR 526914
+add 681034 R 249
+deleteR 508867
+drop 1239
+add 886478 R 223
+add 812641 L 734
+add 567232 R 1333
+deleteL 369015
+deleteR 110902
+add 317021 L 1985
+drop 427
+add 393059 R 1283
+drop 1316
+add 248940 L 1761
+deleteR 374019
+add 322349 L 1753
+deleteL 456646
+add 655318 L 650
+add 274394 L 1092
+drop 567
+deleteR 285548
+deleteR 317109
+add 864452 R 1091
+deleteR 536079
+add 436812 L 1451
+deleteL 440476
+deleteL 426070
+deleteR 120911
+add 178406 R 722
+drop 1386
+add 945740 L 883
+add 284259 R 1651
+add 23740 R 1080
+deleteR 317021
+add 279216 R 1950
+drop 841
+deleteL 339447
+add 350996 L 976
+add 938779 R 1175
+drop 1519
+drop 1347
+add 778155 L 359
+add 228810 L 386
+deleteR 477456
+add 338053 L 1266
+drop 223
+add 798782 R 691
+add 556672 L 1909
+drop 70
+deleteL 31207
+add 840352 R 340
+add 262099 L 210
+add 983977 R 1504
+deleteL 533112
+drop 1990
+deleteL 946872
+add 3694 R 30
+deleteL 290804
+add 472696 L 1458
+add 84993 R 704
+deleteR 279216
+drop 1873
+deleteL 284259
+deleteL 800701
+add 565382 L 1088
+add 312970 L 1173
+deleteL 89143
+deleteR 617057
+deleteL 222395
+add 519554 R 1478
+add 143651 R 1266
+deleteL 601833
+deleteR 567232
+deleteR 685404
+deleteR 885603
+deleteL 3694
+add 671528 R 348
+deleteR 96984
+deleteR 290486
+deleteL 840352
+deleteR 231637
+deleteR 510978
+add 945740 L 660
+add 9545 R 116
+drop 1590
+deleteR 85845
+drop 1126
+add 120366 L 61
+add 305921 L 1296
+add 650119 L 1009
+add 945740 R 1243
+add 997911 R 1633
+add 622409 R 1336
+add 336752 L 1098
+drop 1377
+deleteR 705134
+deleteL 655318
+deleteL 996340
+drop 310
+deleteL 110138
+add 209420 L 1669
+drop 585
+add 55332 R 1913
+drop 1097
+add 436812 R 1551
+add 681034 R 1658
+add 43554 R 1885
+drop 693
+add 322349 R 1862
+deleteL 664172
+add 483186 L 512
+drop 1937
+drop 832
+add 803513 L 1227
+drop 712
+add 556243 L 1780
+deleteR 360777
+drop 1399
+drop 787
+deleteR 484653
+add 379000 L 1769
+deleteR 702499
+drop 175
+add 803123 R 1935
+drop 1016
+add 188233 R 1810
+deleteL 333016
+add 798782 L 307
+add 465268 L 1435
+add 143753 L 1987
+add 173702 R 1447
+deleteL 480086
+add 779147 L 436
+deleteL 483186
+add 46758 R 1694
+add 419044 L 974
+deleteL 803513
+deleteR 171124
+add 49339 L 974
+deleteL 701856
+add 21784 L 1421
+add 256629 L 1557
+drop 717
+drop 609
+add 506285 R 683
+add 952286 L 560
+add 208842 L 895
+add 814809 R 126
+add 49339 L 1448
+add 49339 L 1793
+deleteL 248940
+deleteR 208842
+deleteL 556243
+add 232027 L 429
+deleteR 219416
+drop 791
+deleteL 779147
+deleteR 730655
+deleteL 7593
+deleteL 846162
+add 43554 R 1527
+deleteR 188233
+add 491591 L 506
+add 669942 L 1764
+deleteR 669942
+add 232027 L 1206
+deleteL 698131
+drop 374
+add 689980 R 128
+drop 545
+add 648954 L 526
+add 472891 R 1541
+add 256629 L 1507
+add 768836 L 554
+add 839767 R 541
+drop 867
+add 895322 R 966
+deleteR 536646
+add 120366 R 1385
+add 31711 R 360
+deleteL 599163
+deleteR 410482
+add 387948 L 771
+deleteR 837396
+deleteL 232027
+add 385717 L 366
+add 648954 R 176
+deleteR 385448
+deleteL 252932
+add 178406 R 427
+deleteL 379000
+drop 1383
+deleteR 544444
+deleteL 51255
+add 855525 R 1002
+add 128771 R 190
+deleteL 194688
+add 843424 L 596
+deleteR 938779
+add 181793 L 1845
+add 952087 R 270
+add 185764 R 1319
+deleteL 812641
+deleteR 231228
+drop 1089
+add 76204 L 1899
+add 242700 L 1302
+drop 683
+deleteR 305921
+drop 192
+add 869958 R 1398
+drop 1014
+add 753675 L 24
+add 192729 L 989
+deleteR 380431
+drop 1230
+deleteR 228810
+add 640967 L 419
+add 35466 L 520
+drop 604
+add 274394 L 1100
+add 416753 L 1220
+drop 891
+deleteL 436812
+add 21784 L 904
+add 465195 L 1739
+add 23740 R 474
+add 874975 R 893
+deleteL 928187
+deleteL 178406
+deleteR 970373
+drop 1191
+drop 1773
+add 851666 R 360
+deleteL 715730
+deleteL 869958
+add 811733 L 1932
+deleteR 312970
+add 128771 L 1690
+deleteL 523818
+drop 1706
+add 846449 L 1593
+deleteL 385717
+deleteL 274394
+add 185898 L 1415
+deleteR 556672
+deleteL 874975
+drop 1406
+deleteR 47293
+drop 735
+add 753675 R 406
+add 991121 R 566
+deleteL 21784
+add 691092 R 1564
+add 734505 R 1769
+deleteL 472696
+drop 1367
+add 733495 L 386
+deleteR 185898
+deleteL 753675
+deleteR 173702
+deleteR 945740
+add 768836 L 1941
+add 734505 R 780
+add 540384 R 916
+add 272062 R 1646
+drop 224
+drop 1462
+deleteL 569908
+drop 971
+add 520277 L 605
+add 350996 R 813
+add 76204 L 1436
+deleteR 491591
+add 738985 R 912
+add 687920 L 940
+drop 1282
+deleteL 120366
+add 350996 R 1293
+drop 1789
+add 262099 L 616
+deleteL 212613
+add 387948 L 889
+deleteR 504275
+add 646919 R 572
+add 31711 R 1863
+deleteR 687920
+add 330298 L 238
+drop 1012
+add 931519 L 1806
+drop 1545
+add 212892 R 204
+drop 1890
+deleteR 70158
+add 31711 L 1539
+add 519554 L 1109
+deleteL 602030
+add 592972 R 1872
+add 565382 R 1446
+drop 388
+add 393059 R 26
+drop 983
+add 924874 L 1324
+add 572754 R 814
+deleteL 778155
+drop 448
+add 598256 L 1909
+deleteL 637777
+deleteL 572754
+deleteL 733495
+deleteR 429150
+add 128545 R 393
+deleteR 997911
+drop 803
+add 464950 L 1787
+add 464950 L 1731
+add 381380 R 858
+deleteL 714601
+add 687217 L 1254
+add 774827 R 1653
+add 855525 R 1573
+drop 1122
+add 541206 R 1855
+drop 756
+drop 1905
+add 298947 L 1603
+add 213813 L 316
+drop 1582
+drop 1499
+deleteL 640967
+drop 164
+add 839767 L 1152
+add 659432 R 1167
+drop 903
+drop 1148
+deleteR 952087
+add 178431 L 1038
+deleteL 143753
+drop 849
+add 412601 L 1551
+deleteR 350996
+deleteR 659432
+add 804793 L 85
+deleteR 128771
+add 317585 L 508
+deleteR 907527
+add 992848 R 1059
+add 924874 L 1666
+deleteL 35466
+deleteL 322349
+drop 1649
+drop 1798
+add 760705 L 805
+deleteR 687217
+deleteR 259471
+drop 761
+drop 1979
+deleteR 768836
+deleteR 416753
+deleteR 851666
+add 348729 R 1488
+deleteL 460395
+add 269614 L 1118
+add 43554 R 1935
+add 126267 R 659
+drop 1984
+add 472891 R 243
+drop 717
+add 853921 R 1941
+drop 1736
+add 537474 R 1769
+drop 719
+drop 1296
+drop 1350
+deleteL 952286
+add 651297 R 377
+add 443982 R 1082
+drop 1809
+drop 1633
+deleteL 811733
+drop 1574
+deleteR 853921
+drop 1485
+deleteL 687944
+drop 1316
+deleteR 395693
+add 506285 L 52
+deleteL 896679
+deleteR 671528
+deleteL 76204
+add 921769 R 1300
+deleteL 520277
+deleteL 31711
+deleteL 864452
+add 991279 R 1689
+add 996229 R 1074
+deleteL 895322
+add 112859 R 162
+deleteR 425216
+deleteL 774827
+drop 603
+add 387948 L 465
+deleteR 84993
+add 824784 L 282
+add 506285 L 1298
+add 105381 L 1750
+deleteL 23740
+drop 1576
+drop 249
+deleteR 336225
+drop 1284
+drop 358
+drop 650
+deleteL 565382
+drop 1704
+add 588579 L 370
+deleteR 689980
+drop 776
+drop 1035
+add 768694 R 964
+add 443982 L 1809
+deleteL 178431
+add 517832 R 269
+deleteR 112859
+drop 394
+deleteL 804793
+drop 1079
+deleteR 761906
+deleteL 387825
+drop 1658
+add 751620 L 1109
+add 217828 L 1489
+deleteL 128545
+add 648954 R 414
+drop 1265
+add 192729 R 1953
+add 243934 R 828
+add 126267 L 812
+drop 923
+deleteR 909541
+deleteL 924874
+deleteR 846449
+add 185764 L 1289
+drop 1407
+add 751620 L 697
+add 916856 L 17
+add 687063 L 1148
+deleteR 338053
+add 556360 L 1929
+deleteL 991121
+add 570530 R 1550
+deleteL 798782
+add 356199 R 1502
+deleteL 330298
+add 327779 R 1684
+add 255486 L 149
+add 550209 L 1144
+deleteL 992848
+add 687063 L 1492
+drop 391
+add 889323 L 818
+add 336752 L 1034
+drop 624
+deleteR 803123
+drop 1942
+add 43554 L 594
+drop 1033
+add 860543 L 976
+drop 35
+add 809429 R 1989
+add 395900 R 817
+add 663846 R 1735
+add 137698 L 19
+add 691092 R 744
+add 890444 L 507
+deleteL 622409
+add 962005 R 152
+deleteR 839767
+deleteR 213813
+deleteR 181793
+deleteL 931519
+deleteR 710535
+deleteR 540384
+deleteR 395900
+deleteR 855525
+deleteR 768694
+drop 1218
+deleteR 517832
+add 266943 R 1489
+drop 1971
+drop 1909
+add 588579 R 56
+add 635854 R 1973
+drop 1438
+add 450611 L 1132
+deleteL 734505
+add 685697 R 1265
+drop 459
+drop 928
+add 344667 R 1339
+add 46758 L 1639
+add 53309 L 1362
+deleteR 732562
+drop 474
+add 636548 R 42
+add 9545 L 498
+drop 1597
+add 143651 R 1740
+add 9545 L 1591
+drop 452
+add 993098 R 1764
+deleteL 105381
+deleteL 735571
+add 519554 R 1403
+deleteL 43554
+add 926451 R 539
+deleteR 272062
+drop 1066
+drop 543
+add 937760 R 93
+deleteR 789849
+deleteL 348729
+drop 988
+add 345706 L 208
+deleteL 256629
+drop 26
+add 348145 L 434
+deleteL 46758
+deleteL 255486
+add 551461 L 249
+add 373137 L 353
+add 570530 R 758
+add 899853 L 704
+add 801574 R 1189
+drop 992
+drop 1445
+deleteL 363072
+deleteL 60084
+drop 1205
+add 55332 R 944
+add 573021 L 1617
+drop 1280
+add 996229 R 1656
+deleteL 9545
+add 129695 R 1976
+deleteL 814809
+deleteR 209420
+drop 808
+add 419044 L 1218
+add 751620 L 1470
+add 398185 R 1587
+add 938571 R 1484
+add 996229 R 1339
+deleteL 411852
+add 946862 L 623
+deleteL 344667
+deleteL 921769
+add 502950 L 1903
+add 527505 R 1098
+drop 3
+deleteL 73873
+drop 1438
+add 916856 R 1947
+deleteR 631013
+deleteR 991279
+deleteR 946862
+deleteR 636548
+add 419044 R 1427
+add 381380 L 427
+deleteR 760705
+add 738985 R 1261
+deleteR 527505
+drop 1344
+deleteR 269614
+drop 696
+deleteR 219413
+add 60818 L 80
+deleteL 400677
+drop 901
+drop 590
+deleteL 464950
+add 663846 R 525
+deleteR 930685
+deleteL 843952
+add 347680 L 83
+deleteL 356199
+deleteR 742231
+deleteL 681034
+drop 570
+add 422453 L 213
+add 49339 R 80
+add 143651 L 1780
+deleteL 294806
+add 92454 L 584
+add 393790 R 693
+add 397992 R 1189
+deleteL 393059
+add 92454 R 1349
+add 19432 L 1068
+add 524677 L 1545
+deleteR 550209
+deleteL 387948
+deleteR 465195
+add 305852 L 181
+add 685697 R 1867
+deleteR 397992
+add 174808 R 740
+add 620976 R 1880
+drop 6
+deleteL 510778
+deleteR 211901
+drop 1153
+drop 2
+add 86716 R 1896
+drop 1257
+add 608562 R 1656
+deleteR 957977
+add 955838 R 182
+add 635854 L 1373
+add 155919 R 10
+add 380193 R 1725
+deleteL 60818
+drop 743
+drop 416
+deleteL 418805
+deleteR 547068
+drop 1520
+deleteL 570530
+add 638712 R 136
+add 217975 R 758
+add 468380 L 1430
+add 904079 R 1202
+deleteL 962005
+deleteR 381380
+add 663846 R 1843
+add 212892 L 1483
+drop 340
+deleteL 890444
+add 450611 R 650
+drop 1599
+deleteL 874704
+drop 87
+add 993098 L 328
+add 380193 R 997
+deleteL 559995
+deleteL 738985
+add 859368 R 1805
+add 129695 R 1189
+add 573021 R 1554
+add 834870 R 1606
+add 266943 R 60
+add 626562 R 478
+add 125530 L 146
+add 739432 L 419
+add 859368 R 4
+deleteR 46720
+add 889323 R 1411
+add 450611 L 1405
+drop 208
+add 456821 L 1090
+deleteL 92454
+add 517323 R 1396
+add 398185 R 1529
+add 625980 R 467
+drop 1246
+add 737178 L 1808
+add 983977 R 1223
+add 339402 L 840
+add 739432 L 310
+deleteL 155919
+drop 1357
+deleteL 121845
+deleteL 456821
+drop 719
+drop 808
+deleteL 737178
+deleteL 468380
+add 26348 R 513
+deleteL 899853
+deleteR 556360
+add 108224 L 1842
+deleteL 571620
+add 511092 R 138
+deleteL 267071
+deleteL 834870
+drop 580
+drop 1556
+drop 1885
+drop 144
+add 111871 L 1848
+drop 1388
+add 752826 R 979
+add 729925 L 28
+drop 974
+deleteR 609722
+add 541206 L 1058
+add 266943 R 600
+deleteL 573021
+drop 148
+drop 1800
+add 148362 L 1108
+deleteR 129695
+deleteL 305852
+add 545336 L 1512
+add 62513 L 1189
+drop 302
+drop 1029
+add 143651 L 998
+deleteL 398185
+drop 1154
+drop 599
+add 327779 R 951
+drop 1063
+add 137698 L 1706
+deleteR 651297
+add 790837 L 408
+deleteL 443982
+deleteR 243934
+add 317585 R 1464
+drop 932
+add 262099 R 652
+add 75388 L 56
+add 380193 R 1707
+add 19432 L 40
+drop 985
+add 197764 R 1257
+deleteL 26101
+deleteR 537474
+add 422453 L 1942
+add 819470 R 1080
+add 741536 R 1166
+deleteL 465268
+add 819470 L 276
+add 111871 R 1170
+drop 1899
+deleteL 519554
+add 347680 R 958
+drop 690
+drop 1672
+add 541206 L 1424
+add 625980 R 625
+deleteL 867910
+deleteR 62513
+add 859368 R 958
+drop 1436
+add 217828 L 1766
+deleteL 624841
+add 963244 L 1469
+add 347680 R 1268
+deleteL 338986
+deleteR 26348
+deleteL 393790
+add 640088 R 820
+add 718991 R 1345
+add 908277 R 1134
+deleteL 511092
+add 899425 R 1536
+add 26162 L 1306
+add 760497 R 1589
+add 299619 R 437
+deleteL 55332
+deleteL 860543
+deleteL 598256
+add 49325 L 1588
+add 904079 R 1950
+drop 328
+deleteL 298947
+deleteR 342396
+add 937760 R 372
+add 752628 R 1201
+deleteL 217828
+add 360555 L 868
+drop 1679
+add 4156 R 181
+add 27311 R 1170
+add 848977 R 1340
+add 87361 R 1829
+add 956142 L 1948
+add 916856 L 1018
+drop 1493
+add 489709 L 463
+add 26162 L 1096
+add 54715 L 741
+drop 725
+add 640088 R 1568
+deleteL 49339
+drop 1328
+drop 1952
+drop 1417
+add 791129 R 942
+deleteR 843424
+add 343334 L 744
+deleteL 638712
+add 956142 R 951
+drop 769
+add 744446 R 91
+add 913602 L 1129
+add 32889 R 909
+drop 1899
+deleteL 685444
+deleteR 517323
+add 983977 R 667
+drop 1071
+deleteR 86716
+deleteL 739432
+drop 1458
+deleteR 592111
+drop 639
+add 819470 R 445
+add 25873 R 1913
+add 993098 L 1172
+add 481004 R 1963
+add 336882 L 1790
+deleteR 685697
+add 740021 R 1007
+add 513668 R 1099
+drop 1673
+add 489709 L 932
+add 819470 L 1906
+add 19008 R 638
+deleteR 887614
+deleteR 513668
+add 369585 L 800
+add 687063 L 937
+add 752826 L 1110
+add 551461 L 202
+add 691092 R 1636
+add 481004 R 611
+deleteR 345706
+deleteR 422453
+add 53309 L 140
+add 299619 R 1895
+add 262099 R 1604
+drop 1790
+deleteL 49325
+drop 1851
+deleteR 655917
+deleteL 938571
+drop 1215
+add 174808 L 1987
+drop 1780
+deleteL 819470
+deleteL 650119
+drop 828
+add 511257 R 963
+deleteR 780258
+add 75388 L 1987
+add 283803 L 1837
+deleteR 32889
+deleteL 887977
+deleteL 223042
+deleteR 506285
+add 983977 R 1777
+add 744446 R 99
+deleteL 913602
+drop 1403
+add 502950 R 1735
+drop 60
+add 327038 R 1911
+drop 1935
+add 744446 L 412
+drop 746
+drop 750
+drop 263
+deleteL 740021
+add 380193 R 91
+drop 1351
+add 663846 R 1153
+add 977758 R 1150
+deleteL 545336
+add 924024 R 616
+deleteL 441624
+add 619717 L 828
+drop 129
+add 937760 L 1206
+add 616017 R 898
+deleteL 348145
+add 372853 L 1668
+deleteR 111871
+add 171761 R 232
+add 524677 R 135
+add 958581 L 993
+drop 672
+add 369585 R 1145
+add 635854 R 61
+add 752628 R 935
+deleteL 848977
+add 892347 L 1774
+add 339402 L 245
+drop 1560
+deleteR 956142
+add 336882 L 254
+deleteR 616017
+deleteL 320330
+add 977758 R 1402
+deleteR 266943
+deleteL 450611
+deleteR 899425
+drop 1657
+drop 464
+add 707178 R 493
+drop 527
+deleteL 125530
+drop 898
+deleteL 625980
+add 147056 L 962
+add 39167 L 1160
+add 336752 R 1558
+drop 1979
+drop 54
+drop 1000
+drop 122
+deleteL 373137
+add 256304 L 1371
+add 129423 L 259
+deleteL 256304
+deleteL 983977
+drop 1054
+deleteR 889323
+drop 976
+deleteL 123492
+deleteR 722097
+add 50462 R 161
+add 733019 R 1990
+drop 1601
+drop 1625
+deleteL 25873
+deleteL 583945
+deleteR 718991
+add 669387 L 1508
+add 862538 R 1006
+drop 571
+add 502950 L 673
+drop 1522
+add 994675 L 1820
+deleteL 46952
+add 380193 R 744
+add 687063 L 844
+add 242700 L 172
+add 502950 L 1805
+add 290577 L 1233
+add 695746 R 542
+deleteR 129423
+add 262099 R 588
+deleteL 500684
+deleteR 411449
+add 687063 L 1174
+deleteL 87361
+deleteL 687063
+drop 313
+deleteL 790837
+drop 917
+add 45196 L 606
+drop 408
+deleteL 260914
+deleteR 993098
+add 609115 R 299
+add 994675 R 1933
+add 425877 L 216
+add 26162 R 276
+add 892347 R 1231
+drop 1903
+drop 1679
+drop 75
+drop 9
+deleteR 481004
+deleteR 148362
+drop 738
+deleteR 541206
+add 39167 L 642
+deleteL 733019
+add 926451 R 936
+add 619717 R 342
+deleteL 741536
+deleteL 958581
+add 955838 R 840
+add 955838 L 543
+add 546534 L 1880
+deleteR 608562
+deleteR 819605
+deleteL 147056
+add 339402 R 1687
+drop 1008
+add 380193 L 645
+add 933945 L 804
+add 766819 R 866
+drop 775
+add 449569 R 1042
+deleteR 174808
+deleteL 369585
+drop 1306
+add 663846 R 97
+deleteL 555919
+deleteL 752826
+add 339402 R 1644
+add 347680 R 153
+drop 446
+deleteR 933945
+deleteR 26162
+deleteL 669231
+add 339402 L 204
+deleteL 752628
+add 28140 L 1653
+drop 55
+add 171761 L 1168
+deleteR 185764
+add 996229 R 1613
+drop 1851
+add 983130 L 1629
+add 787889 R 439
+deleteR 524677
+drop 1005
+drop 505
+deleteL 824784
+add 709735 L 433
+add 511682 L 283
+add 511257 L 1809
+deleteR 171648
+add 159141 R 1920
+add 161746 L 1982
+drop 1482
+add 199532 L 1145
+deleteL 663846
+deleteL 347680
+deleteR 242700
+add 801574 L 1636
+drop 763
+deleteL 327779
+add 898189 R 582
+add 983130 R 804
+add 635854 R 141
+drop 1666
+add 336882 R 61
+add 412601 R 1146
+add 748641 L 748
+drop 893
+add 115383 R 433
+deleteL 50462
+deleteL 592972
+add 326221 R 163
+add 685548 L 85
+drop 331
+deleteR 908728
+add 108224 R 1702
+drop 595
+deleteL 669387
+add 202972 R 1557
+deleteL 908277
+add 364631 L 1358
+deleteL 364631
+deleteR 695746
+drop 1169
+add 118992 R 465
+deleteL 360555
+add 892347 L 1945
+add 625275 L 1169
+deleteL 336882
+add 19008 L 1553
+add 546534 R 1492
+drop 775
+drop 1072
+add 126267 L 321
+drop 198
+add 955371 L 683
+deleteR 199532
+deleteL 232968
+drop 1169
+deleteR 801574
+add 979334 R 1193
+drop 766
+drop 1073
+deleteR 326221
+drop 275
+deleteR 760497
+deleteL 72480
+add 402675 R 1430
+deleteL 407661
+add 442893 L 742
+deleteR 324761
+deleteR 171761
+drop 1665
+deleteL 838862
+deleteL 39167
+deleteL 471831
+deleteR 290577
+deleteR 489709
+deleteL 380193
+deleteR 126267
+add 737514 R 401
+drop 917
+add 648954 L 1635
+add 4156 L 1118
+add 647077 R 1817
+add 419044 L 1568
+add 193793 R 824
+add 744446 R 1912
+add 412601 R 1383
+drop 1076
+deleteR 137698
+add 262813 R 1693
+deleteL 522637
+deleteR 862538
+deleteL 343334
+add 707178 R 1878
+drop 1759
+add 647732 R 1066
+deleteL 193793
+add 737514 R 1461
+add 76869 R 8
+deleteR 924024
+add 441009 R 713
+add 274581 R 1713
+drop 116
+deleteR 19432
+drop 1647
+deleteR 551461
+deleteR 511682
+deleteL 76485
+add 991119 R 483
+deleteR 916856
+drop 1470
+deleteR 449569
+drop 1348
+deleteL 626562
+deleteR 809429
+deleteL 115383
+add 224425 R 1970
+add 610556 R 1108
+drop 1699
+drop 715
+drop 1717
+drop 995
+deleteR 640088
+add 938255 R 982
+deleteR 546534
+deleteR 442893
+add 977758 L 1348
+drop 1705
+add 484696 R 661
+add 904079 L 530
+drop 386
+add 766819 R 1781
+add 358653 L 734
+add 952189 R 694
+deleteL 709735
+deleteL 143651
+deleteR 511257
+deleteR 65626
+add 283803 R 201
+deleteR 45196
+add 998733 L 944
+deleteR 744446
+deleteL 935924
+drop 156
+deleteR 372853
+add 419044 L 1310
+drop 303
+add 687199 R 1200
+drop 252
+add 659494 R 1852
+drop 462
+deleteR 27311
+deleteL 402675
+deleteR 609115
+add 898189 L 1884
+drop 1872
+add 427868 R 1302
+deleteR 217975
+deleteL 588579
+drop 383
+add 502950 R 321
+add 619717 L 62
+drop 657
+deleteL 28140
+add 210900 L 1646
+add 118992 R 1998
+deleteL 886478
+deleteL 213088
+add 801748 R 463
+add 535238 L 481
+add 566183 R 1774
+deleteR 425877
+add 843373 R 846
+deleteR 610556
+deleteL 427868
+add 620976 R 165
+add 572610 R 1688
+add 928229 R 791
+deleteR 53309
+add 224425 R 141
+add 635854 L 148
+add 488456 L 1481
+add 283803 R 1402
+add 647077 L 1161
+add 174342 L 991
+add 161746 R 1467
+deleteL 647732
+deleteL 159141
+add 664554 R 1283
+add 530811 L 813
+deleteL 371657
+drop 572
+deleteR 502950
+add 659494 L 846
+drop 1844
+deleteR 801748
+add 65571 L 759
+deleteR 412601
+add 147984 L 1881
+add 829047 R 910
+drop 1301
+deleteR 379127
+drop 371
+add 648954 L 375
+drop 1358
+add 263921 R 1113
+deleteL 339402
+drop 722
+deleteL 648954
+deleteL 299619
+add 38381 R 1652
+deleteL 768271
+deleteR 535238
+deleteR 790638
+drop 881
+deleteL 40816
+deleteR 955838
+deleteR 991119
+deleteL 707178
+drop 1758
+add 865232 L 914
+drop 1994
+add 105831 R 1751
+add 737514 R 1992
+add 65571 R 166
+deleteL 791129
+add 2317 L 39
+deleteR 211110
+add 81018 L 466
+add 317585 L 1270
+add 635854 L 712
+drop 130
+deleteL 646919
+add 736220 R 345
+deleteL 522728
+add 287847 R 1910
+drop 1398
+add 827329 R 417
+deleteL 928229
+add 137474 R 1639
+add 488456 L 360
+drop 536
+add 859368 R 943
+deleteR 926451
+drop 611
+deleteR 572610
+deleteR 192729
+deleteR 852973
+add 784365 R 1198
+deleteL 54715
+drop 371
+deleteL 174342
+deleteR 996229
+drop 358
+add 647077 R 773
+deleteR 664554
+add 448761 L 1358
+add 212892 L 533
+deleteL 827329
+drop 1416
+add 852513 L 1074
+deleteL 65571
+add 716342 R 158
+drop 994
+drop 551
+deleteL 262813
+deleteL 977758
+deleteR 509744
+add 500962 R 764
+deleteL 105831
+deleteR 619717
+deleteL 569507
+add 726479 R 1499
+add 412239 R 1702
+deleteR 108224
+add 687199 R 375
+drop 175
+add 971424 R 1479
+add 609142 R 623
+drop 1189
+deleteL 38381
+deleteL 543777
+add 118992 R 1787
+add 508162 R 849
+add 937760 L 1724
+add 288783 L 1907
+add 219289 R 1412
+deleteL 88853
+deleteL 137474
+drop 462
+deleteR 484696
+drop 1762
+add 625275 L 1451
+add 419044 L 1597
+add 653829 L 340
+add 441009 R 356
+add 955371 L 307
+add 630765 R 752
+add 928988 L 134
+drop 1583
+add 716342 L 1200
+add 784936 R 664
+deleteL 687199
+add 441009 R 398
+deleteR 955371
+deleteL 751620
+add 118992 R 250
+deleteR 983130
+drop 902
+deleteL 659494
+deleteL 283803
+add 327038 L 571
+deleteR 25703
+add 197764 L 746
+add 916861 L 1623
+deleteR 685548
+add 30366 L 1293
+drop 330
+deleteL 653829
+deleteL 852513
+add 30983 R 1275
+deleteL 488456
+add 49389 L 1041
+add 358653 L 1460
+add 967259 L 742
+deleteL 472891
+add 934151 R 331
+add 656120 R 1665
+drop 1351
+drop 51
+add 293437 L 1071
+deleteR 326235
+add 30983 R 1905
+deleteL 77406
+deleteL 952189
+deleteL 500962
+drop 252
+drop 11
+deleteL 934151
+add 600849 L 1705
+deleteL 30366
+deleteL 972133
+add 726479 R 1687
+deleteL 49389
+add 971424 L 1902
+add 726063 R 305
+deleteL 4156
+drop 1754
+deleteL 647077
+add 212892 R 808
+deleteL 197764
+drop 1372
+add 520273 R 223
+drop 1427
+add 336752 L 536
+deleteL 625275
+deleteR 916861
+deleteL 274581
+add 623961 L 1210
+deleteL 19008
+add 385829 R 1740
+drop 221
+deleteL 766819
+deleteR 327038
+deleteR 620976
+add 595551 R 1045
+drop 1389
+add 262099 L 373
+drop 526
+add 979334 L 1953
+deleteR 293437
+add 994868 L 1726
+deleteR 623961
+deleteL 865232
+add 265889 R 1468
+add 999001 L 564
+deleteL 76869
+add 843373 R 405
+add 994675 R 826
+deleteL 210900
+deleteR 737514
+deleteR 966791
+deleteL 787889
+drop 1158
+deleteL 161746
+add 726063 R 681
+deleteR 287847
+add 138961 R 81
+add 317585 L 337
+add 963244 R 1301
+add 609142 L 372
+deleteL 849746
+drop 35
+add 904079 L 290
+add 385829 R 608
+deleteL 702354
+deleteL 202972
+drop 1017
+deleteL 963244
+add 904079 L 1353
+deleteL 63242
+deleteL 726063
+add 766429 R 1941
+add 994675 R 1331
+deleteL 412239
+deleteL 262099
+add 2317 L 1863
+add 761011 R 409
+drop 1391
+drop 1362
+deleteL 971424
+deleteL 938255
+add 707705 R 854
+add 131722 R 1361
+add 441009 L 1569
+deleteL 994675
+add 413074 R 1311
+add 755873 L 1280
+deleteR 653639
+add 623614 R 1560
+add 358653 L 1106
+add 694666 R 439
+drop 1343
+add 332438 R 659
+drop 392
+add 288783 L 726
+deleteL 922336
+deleteR 994868
+add 814852 R 1798
+deleteR 385829
+add 691092 L 948
+add 979334 R 1622
+add 994002 L 171
+add 419044 L 1503
+deleteL 904079
+drop 1935
+deleteR 2077
+add 548372 L 591
+deleteL 219289
+add 834396 R 803
+deleteL 582852
+add 998733 L 1365
+deleteR 520273
+deleteR 766429
+deleteL 413074
+add 226509 L 1987
+drop 1679
+add 75388 L 895
+deleteR 791904
+deleteL 553982
+add 592579 R 172
+drop 1331
+deleteL 2317
+drop 1457
+add 75388 R 923
+add 138961 L 1493
+add 843373 R 1
+add 635854 R 291
+add 265889 R 1191
+add 937760 R 801
+deleteL 451857
+add 918805 R 1372
+deleteR 748641
+deleteL 859368
+add 909767 R 314
+add 445605 R 1092
+add 997004 L 1641
+deleteL 812550
+add 721844 L 152
+deleteR 226509
+drop 1233
+add 967259 L 1417
+add 898189 L 1657
+add 548372 L 682
+drop 686
+add 553979 R 246
+add 871327 R 984
+add 433969 R 1970
+deleteR 843373
+drop 1427
+deleteL 265889
+deleteL 288783
+deleteL 112727
+deleteR 553979
+deleteL 212892
+add 70162 R 348
+deleteL 656120
+add 707705 R 16
+add 806234 R 1238
+deleteL 592579
+deleteR 918805
+drop 1748
+add 567028 R 23
+deleteR 441009
+deleteR 814852
+deleteL 131722
+deleteR 736220
+deleteR 834396
+drop 1202
+deleteR 595551
+deleteR 892347
+add 419044 L 1725
+drop 960
+add 314339 R 1421
+drop 1149
+add 70162 L 84
+drop 627
+deleteR 448761
+drop 533
+drop 468
+add 358653 R 76
+add 676550 L 1408
+deleteR 358653
+drop 869
+drop 1743
+drop 300
+drop 1998
+drop 670
+drop 1324
+add 994002 L 1024
+add 842767 R 649
+deleteL 548372
+drop 1607
+drop 1660
+drop 485
+add 962246 R 905
+drop 1796
+add 726479 L 867
+deleteL 138961
+add 284519 R 641
+deleteR 332438
+deleteL 694666
+deleteR 609142
+add 784365 L 1880
+add 224425 L 1987
+add 539311 R 649
+deleteL 635854
+deleteL 30983
+deleteR 566183
+drop 1157
+add 317585 R 1061
+add 75388 L 280
+deleteR 676550
+deleteL 898189
+drop 1592
+deleteL 784936
+deleteR 999001
+add 183084 R 1258
+drop 742
+add 317585 R 1796
+drop 747
+add 691266 L 629
+deleteR 928988
+add 171965 R 1688
+deleteR 707705
+deleteL 871327
+add 1042 L 386
+add 1042 L 427
+drop 1206
+deleteR 979334
+add 901830 R 1863
+drop 1770
+deleteR 829047
+deleteL 430512
+drop 959
+drop 357
+deleteL 70162
+add 539311 R 1699
+deleteL 891481
+add 623614 L 1908
+deleteR 755873
+drop 1373
+add 691092 R 423
+add 554483 R 1249
+deleteR 508943
+deleteR 317585
+add 194239 L 899
+drop 462
+add 714068 R 1142
+add 716597 L 1131
+drop 69
+drop 1972
+add 234972 L 995
+add 998733 R 1587
+add 784365 R 657
+add 716597 R 63
+add 234972 R 6
+deleteL 691266
+add 250529 L 1716
+deleteR 508162
+deleteL 716342
+deleteR 145576
+add 714068 L 1745
+add 962246 R 528
+add 997004 L 1548
+deleteR 784365
+deleteR 489737
+add 194239 R 324
+deleteL 623614
+deleteL 721844
+add 332514 R 1448
+add 767519 L 242
+deleteR 998733
+add 423493 R 24
+deleteR 730712
+add 147984 L 645
+deleteR 539311
+add 62746 R 479
+add 433969 L 1924
+add 530811 L 1265
+add 194239 R 565
+drop 645
+add 81018 L 512
+deleteR 5214
+add 234972 L 1837
+deleteL 332514
+deleteL 901830
+add 712182 R 343
+deleteR 433969
+drop 1091
+add 349410 L 1560
+deleteL 62746
+deleteL 767519
+deleteR 909767
+add 183084 L 391
+deleteL 962246
+add 200020 L 1613
+drop 1332
+add 183084 L 134
+deleteL 567028
+deleteL 630765
+drop 434
+add 336752 L 1342
+drop 120
+deleteL 945227
+deleteR 171965
+add 98262 L 1802
+add 284519 L 1907
+add 263921 L 486
+add 716597 L 112
+add 423493 R 1336
+add 250529 R 166
+deleteL 994002
+add 79255 L 1747
+deleteR 691092
+deleteR 729925
+add 443703 L 1436
+deleteR 367369
+deleteR 554483
+add 188107 R 1532
+add 224425 L 169
+drop 1093
+deleteR 98262
+deleteL 296501
+add 164247 R 1602
+deleteL 200020
+deleteR 118992
+add 24673 L 327
+add 530374 R 1323
+deleteL 230608
+deleteR 344939
+add 848354 L 1412
+add 188107 R 1188
+deleteR 967259
+deleteR 336752
+deleteR 806234
+drop 708
+add 687552 L 1788
+add 147984 L 687
+deleteL 716597
+add 629186 R 145
+deleteL 997004
+deleteR 314339
+add 383376 L 1532
+add 636708 R 605
+deleteL 147984
+add 781385 L 1732
+deleteR 419044
+add 79255 L 339
+add 712182 L 1268
+add 882331 L 286
+add 730617 R 1328
+deleteL 781385
+add 637261 L 1211
+add 854443 L 621
+deleteR 224425
+drop 1470
+add 530811 L 950
+add 420241 L 124
+drop 87
+drop 1275
+deleteR 263921
+drop 585
+add 666589 L 1649
+deleteR 600271
+add 384421 R 1135
+deleteL 445605
+deleteR 383376
+add 862414 R 1106
+deleteL 183084
+deleteL 81018
+drop 1209
+deleteR 384421
+add 687552 R 1431
+deleteL 284519
+add 854443 L 223
+deleteR 597633
+deleteL 761011
+deleteR 349410
+deleteR 250529
+add 207518 R 1167
+drop 785
+add 600849 L 1181
+add 1042 R 720
+add 230394 L 1046
+add 400523 L 1939
+add 807294 R 96
+drop 694
+deleteR 687552
+deleteL 848354
+add 297712 R 743
+deleteL 423493
+deleteR 164247
+drop 1305
+add 629186 R 494
+deleteR 730617
+deleteR 202170
+add 207518 L 1206
+drop 1682
+add 24673 L 493
+add 807294 R 1560
+drop 1027
+deleteL 75388
+add 194239 L 1188
+add 350746 R 811
+add 714068 L 1485
+add 303798 L 377
+drop 989
+add 644658 R 1138
+add 600849 L 1327
+add 932648 L 895
+add 530374 R 1196
+deleteL 24673
+add 79255 R 1534
+add 207518 R 1752
+deleteR 530811
+drop 1766
+drop 893
+deleteR 778484
+add 854443 R 1595
+drop 1054
+drop 1961
+add 207518 R 1974
+drop 1945
+deleteR 207518
+drop 301
+add 20461 L 277
+deleteR 451673
+deleteR 636708
+deleteR 842767
+add 360214 R 321
+add 712182 L 1747
+add 666589 L 542
+add 637261 L 1823
+deleteR 443703
+add 849691 R 803
+add 854443 L 365
+add 320672 R 331
+deleteR 629186
+add 406237 R 1390
+add 1042 R 1668
+deleteL 849691
+add 714068 L 1079
+drop 330
+deleteR 194239
+add 188107 L 173
+add 807294 R 693
+deleteL 320672
+add 807294 L 1922
+deleteR 894030
+add 188409 L 803
+deleteL 600849
+deleteR 637261
+drop 1968
+add 127114 R 1751
+deleteR 20461
+drop 817
+add 230394 R 84
+deleteR 530374
+drop 908
+drop 1097
+add 644658 R 846
+add 234972 L 133
+add 484002 L 1374
+deleteR 726479
+deleteR 644658
+deleteL 712182
+drop 1633
+add 690129 L 1779
+add 350746 L 1304
+add 484002 L 1847
+drop 232
+drop 1006
+drop 1048
+add 806725 L 264
+deleteR 690129
+deleteR 400523
+add 981705 R 1980
+add 276325 L 863
+drop 1027
+add 627447 L 584
+add 714068 L 51
+drop 1830
+drop 758
+deleteL 406237
+add 148278 R 1934
+deleteR 148278
+deleteL 127114
+deleteL 230394
+drop 1668
+add 129135 R 1584
+add 360214 R 1197
+drop 487
+drop 1224
+drop 1005
+deleteR 79945
+add 2282 L 1244
+add 957654 R 914
+add 932648 R 1902
+deleteR 590635
+drop 1394
+add 510451 R 636
+drop 715
+add 276325 R 1170
+add 922089 L 672
+add 858288 R 1229
+deleteR 922089
+deleteL 932648
+deleteR 234972
+add 465093 L 437
+add 854443 L 554
+add 849161 L 1744
+deleteL 484002
+add 197075 L 1758
+deleteL 854443
+add 153902 R 1736
+add 153902 L 719
+deleteL 153902
+add 551890 R 943
+deleteL 719316
+deleteL 858288
+deleteR 303798
+drop 1767
+add 993899 R 1248
+add 921097 L 842
+add 129789 R 1646
+drop 580
+drop 186
+drop 1668
+drop 1179
+drop 862
+deleteR 627447
+add 672050 R 400
+add 910772 R 876
+add 197075 L 349
+add 833836 L 690
+add 516991 R 207
+deleteR 886285
+add 882331 R 721
+deleteR 882331
+add 925226 L 111
+drop 1200
+add 188107 R 1030
+deleteR 510451
+add 197075 L 506
+add 727944 R 915
+deleteL 833836
+add 142859 L 1867
+deleteR 297712
+drop 1185
+drop 523
+add 658433 L 391
+add 672050 L 309
+deleteL 954411
+deleteL 849161
+add 806725 L 802
+deleteR 666589
+drop 939
+drop 841
+drop 1679
+add 460933 L 1647
+drop 487
+add 485232 L 802
+add 237256 R 1762
+add 188107 R 1222
+add 79255 L 1181
+add 910772 R 1263
+add 706316 L 720
+deleteL 197075
+drop 499
+add 802124 R 1682
+add 364607 R 1684
+deleteL 79255
+add 419781 R 324
+add 925226 L 987
+add 460933 R 463
+deleteL 658433
+add 237256 R 1478
+add 637918 R 1710
+add 2282 R 103
+add 129789 L 487
+deleteR 862414
+add 276325 R 328
+drop 1330
+add 460933 R 1936
+deleteL 237256
+drop 1170
+drop 1393
+drop 1403
+deleteR 179327
+add 551890 L 1560
+drop 1616
+deleteR 910772
+drop 563
+add 365075 L 1203
+drop 1922
+add 129135 L 827
+deleteL 188409
+add 584135 L 555
+add 937350 L 1895
+drop 127
+deleteL 360214
+add 483169 R 179
+deleteR 584135
+deleteR 26761
+add 989449 R 1274
+deleteR 276325
+add 128865 R 1705
+drop 1730
+add 727944 R 73
+deleteR 706316
+add 428778 R 624
+deleteR 714068
+deleteR 516788
+add 957654 L 1087
+add 955102 R 1396
+deleteL 434610
+drop 1427
+drop 978
+deleteL 350746
+drop 1678
+drop 48
+deleteR 957654
+drop 423
+drop 1474
+add 603008 L 1192
+drop 1634
+add 447732 L 589
+drop 1962
+add 453914 R 1286
+add 551890 L 825
+deleteL 460933
+drop 901
+add 328956 L 1418
+add 142859 L 776
+deleteR 440178
+drop 1343
+drop 1479
+deleteL 806725
+add 727944 R 757
+add 727944 R 1867
+add 2282 R 797
+add 937760 L 406
+add 460027 R 936
+add 324715 L 1758
+deleteL 483169
+deleteR 364607
+deleteL 516991
+add 194636 R 197
+deleteR 617312
+add 727944 R 842
+add 82576 R 1134
+add 854393 L 385
+deleteR 428778
+add 692985 L 1739
+drop 32
+add 447732 L 340
+add 12792 R 1859
+deleteR 2282
+deleteR 460027
+add 692985 R 1664
+deleteR 419781
+add 2459 L 692
+drop 15
+deleteR 637918
+add 447732 L 446
+add 738734 L 1722
+deleteL 129789
+deleteL 981705
+add 925226 L 1448
+add 437044 R 373
+drop 1785
+deleteR 105860
+deleteL 437044
+add 195439 L 961
+add 476884 R 567
+add 824085 L 1027
+deleteL 737432
+add 968674 L 1370
+add 376720 R 752
+drop 1323
+deleteL 128865
+deleteL 420241
+drop 1702
+add 95589 L 1751
+add 82576 L 1411
+add 692985 R 728
+drop 1657
+add 376720 L 1051
+deleteR 365075
+deleteR 945681
+drop 592
+drop 1796
+add 210462 R 454
+drop 1417
+drop 10
+drop 948
+drop 155
+drop 887
+add 132206 R 871
+add 129135 R 898
+add 131227 L 4
+add 621133 R 264
+deleteR 465093
+deleteR 824085
+deleteR 921097
+add 142859 R 1061
+drop 473
+deleteL 195439
+deleteL 922390
+add 551890 L 1998
+deleteR 465977
+add 229685 R 1711
+add 190464 R 989
+deleteR 802124
+deleteL 925226
+add 229685 L 848
+add 968674 L 960
+add 471124 R 597
+deleteL 188107
+deleteR 82576
+add 354078 R 1917
+drop 661
+add 976156 L 1529
+deleteL 727944
+add 950852 R 960
+deleteR 447732
+deleteR 471124
+add 2459 R 831
+add 478024 R 1061
+drop 1704
+deleteR 854393
+add 67997 L 248
+add 3968 R 135
+drop 1903
+add 993899 L 115
+add 902837 R 977
+add 551236 L 853
+deleteL 950852
+deleteL 589847
+deleteR 67997
+add 194636 L 1683
+add 915278 L 1908
+drop 337
+deleteL 485232
+add 7792 L 1345
+deleteL 976156
+drop 1552
+add 967900 L 496
+drop 1559
+add 51984 R 154
+add 576956 L 1553
+add 116306 R 923
+add 218782 L 1314
+add 196202 R 1182
+drop 1015
+add 482434 L 750
+drop 58
+deleteL 979441
+add 116306 L 1021
+deleteL 621133
+add 989449 R 1322
+deleteR 7792
+drop 1828
+add 603008 L 141
+deleteR 603008
+add 12792 L 1681
+add 626883 L 1432
+add 453914 L 907
+add 968674 L 1320
+add 64611 L 1929
+deleteL 132206
+add 654882 R 969
+add 937760 R 1502
+add 9490 L 124
+deleteR 654882
+drop 1955
+add 786299 L 1919
+deleteL 116306
+add 229685 L 1258
+add 22408 L 736
+drop 598
+deleteL 418362
+deleteL 672050
+add 967900 R 432
+deleteR 700729
+deleteR 968674
+add 903916 R 1389
+add 597035 R 1775
+add 576956 L 1628
+add 478024 R 1731
+add 324715 R 68
+drop 248
+add 9490 R 1695
+add 37203 R 1365
+drop 1121
+add 551890 L 1849
+add 807294 R 1531
+add 692985 R 1647
+add 476884 R 1755
+deleteR 902837
+deleteL 196202
+add 807658 R 637
+add 314462 R 482
+add 695789 R 1460
+deleteL 58815
+add 730474 L 1638
+add 770793 R 1870
+deleteR 937350
+drop 171
+deleteR 198003
+add 775171 L 886
+add 113991 L 535
+add 29716 L 632
+deleteL 131227
+deleteR 398296
+deleteL 314462
+add 786299 L 1480
+drop 976
+deleteR 22408
+add 478024 L 506
+drop 1460
+drop 1462
+deleteL 626883
+add 3968 L 610
+deleteL 551890
+deleteR 767794
+deleteR 133688
+add 651872 L 1565
+add 581540 L 1969
+add 852748 R 1083
+deleteR 190464
+deleteR 324715
+add 775171 R 418
+add 774611 L 222
+add 482434 R 465
+add 354078 L 1517
+add 651872 R 994
+deleteR 2459
+add 453914 L 1993
+drop 1097
+deleteL 12792
+deleteR 9490
+drop 1249
+deleteR 482434
+drop 1384
+deleteR 695789
+add 111145 R 1386
+add 848755 L 1861
+add 774611 L 1248
+deleteL 354078
+deleteR 738734
+deleteR 595156
+deleteR 376720
+drop 1935
+deleteL 129135
+deleteR 3968
+add 411393 R 451
+drop 1184
+drop 1430
+add 964516 L 176
+drop 1593
+drop 1938
+add 394034 L 1853
+add 532623 L 1922
+add 692985 R 136
+add 519390 L 650
+add 498497 L 667
+add 989449 R 1306
+deleteL 576956
+add 774611 R 700
+deleteR 967900
+add 807658 L 1164
+add 478024 R 707
+add 64611 R 1002
+add 702821 L 877
+add 42754 R 1350
+drop 1994
+deleteL 770793
+add 532623 R 260
+add 706954 L 629
+drop 7
+deleteL 774611
+add 939583 L 1985
+add 767569 L 620
+deleteR 229685
+deleteR 964516
+add 893394 R 255
+deleteR 702821
+add 989449 R 700
+add 939583 R 1713
+add 922005 L 1931
+add 751062 R 43
+deleteR 852748
+add 597035 L 354
+drop 1919
+add 210462 R 1825
+deleteL 328956
+add 860416 L 210
+drop 508
+deleteL 581540
+deleteR 706954
+deleteR 922005
+add 183502 R 1654
+add 329105 L 1510
+add 142859 R 1576
+deleteR 324279
+deleteL 29716
+drop 1493
+add 939404 R 40
+deleteL 939583
+add 549333 L 1119
+add 451386 R 626
+add 751062 R 1138
+deleteL 860416
+add 460770 R 1216
+drop 704
+deleteL 937760
+add 98303 L 1026
+drop 211
+drop 26
+drop 1966
+drop 1494
+deleteL 460770
+add 820846 R 824
+deleteL 807658
+add 213241 L 1314
+deleteR 836803
+add 107062 L 378
+drop 1671
+add 329105 R 1093
+deleteR 730474
+add 98303 L 829
+deleteL 955102
+drop 1751
+add 558904 L 676
+deleteR 440889
+add 4606 R 633
+add 107062 L 917
+add 215566 L 851
+add 721635 L 1769
+add 476884 R 180
+drop 961
+add 692985 L 408
+deleteL 194636
+drop 1000
+deleteL 210462
+add 329083 L 1368
+add 433090 L 1988
+drop 1577
+deleteR 519390
+add 43488 R 1664
+drop 1311
+add 334558 R 243
+add 483333 L 1173
+add 682440 L 1851
+drop 484
+deleteL 215566
+deleteR 231105
+add 4606 L 1641
+deleteR 451386
+deleteL 828683
+deleteL 64611
+add 706085 R 1247
+add 183502 R 585
+add 751062 R 198
+add 756635 L 1785
+add 339335 L 1321
+deleteR 807294
+add 150589 R 1633
+deleteL 903916
+drop 1704
+add 369719 R 517
+add 319488 R 456
+deleteR 617285
+deleteR 37203
+add 756635 L 588
+drop 642
+deleteL 339335
+drop 1069
+add 815180 L 671
+drop 1236
+deleteL 183502
+add 597035 R 1431
+deleteL 532623
+add 892244 L 1344
+add 208983 L 68
+add 965402 R 1000
+add 259284 R 1063
+add 692985 L 713
+add 915278 L 510
+add 947591 R 1502
+drop 13
+add 70645 L 407
+add 651872 R 573
+deleteR 212017
+deleteL 51984
+drop 724
+deleteL 476884
+deleteL 558904
+drop 383
+add 756392 L 1274
+add 35739 L 1080
+add 213241 L 672
+add 152054 L 1931
+deleteL 879174
+drop 512
+add 316831 L 561
+drop 339
+deleteL 815180
+deleteR 70645
+add 882275 R 571
+deleteR 893394
+add 892244 L 608
+add 803106 R 1652
+deleteR 334558
+add 551236 L 439
+add 595781 R 55
+add 157529 L 29
+deleteL 478024
+drop 707
+add 749586 L 223
+deleteL 213241
+add 43488 R 1756
+add 542532 R 1741
+deleteL 542532
+deleteR 989449
+deleteR 157529
+add 319488 L 308
+drop 1279
+drop 1214
+deleteL 820846
+add 756392 R 1549
+deleteL 95589
+deleteR 488270
+add 152054 R 406
+drop 1436
+deleteR 208983
+deleteL 123001
+deleteL 244913
+add 543724 R 1660
+deleteL 947591
+deleteR 549333
+drop 970
+add 499090 L 1260
+add 101545 L 1537
+drop 1786
+add 636194 L 1312
+add 749586 L 1111
+drop 1700
+deleteL 107062
+add 319488 R 159
+deleteL 101545
+deleteL 498497
+add 257957 L 766
+add 235550 L 1178
+drop 832
+deleteL 682440
+add 597035 R 1006
+deleteR 329083
+deleteL 756635
+drop 143
+add 150589 R 359
+add 461135 L 1244
+add 498983 L 1163
+deleteR 939404
+deleteL 965402
+add 106505 R 1617
+add 932973 L 1365
+drop 380
+add 106505 R 766
+add 993899 L 1779
+add 706085 R 48
+add 751062 L 1429
+add 152054 R 1748
+add 453914 R 198
+add 756392 L 300
+drop 1151
+drop 292
+add 218358 R 893
+add 469325 R 72
+drop 1587
+add 692985 L 1856
+drop 1789
+add 589461 R 1943
+deleteL 319488
+deleteR 469325
+deleteL 717312
+deleteL 996927
+add 98303 R 764
+add 112276 L 391
+drop 682
+drop 1912
+deleteL 401288
+deleteR 635725
+deleteL 43488
+drop 1190
+drop 1755
+deleteR 1042
+drop 1626
+add 150589 L 413
+drop 456
+deleteR 8774
+add 524062 R 1229
+deleteR 251708
+add 543724 L 530
+add 711715 R 757
+add 259284 R 1890
+add 19430 R 828
+deleteL 499090
+add 928696 L 1012
+add 922000 R 722
+add 183892 L 868
+add 106505 L 1924
+add 671750 L 1704
+deleteR 433090
+deleteL 207157
+deleteL 767569
+add 704682 L 346
+add 775171 R 1798
+deleteL 111145
+add 528896 L 213
+add 523923 L 741
+add 376274 R 1585
+deleteL 803106
+add 651872 L 1820
+add 535379 L 1331
+add 600515 L 1094
+deleteR 915278
+add 882275 R 1043
+add 461135 R 703
+drop 1042
+drop 1056
+drop 816
+add 995691 R 283
+drop 250
+add 498983 R 1032
+deleteR 595781
+add 462678 R 1808
+deleteR 498983
+deleteL 995691
+drop 391
+deleteR 112276
+add 976927 R 1243
+add 150589 R 976
+drop 235
+add 993899 R 66
+drop 465
+add 167384 R 998
+deleteL 892244
+drop 517
+deleteR 376274
+add 609559 R 1650
+add 581822 R 427
+deleteL 35739
+add 316831 L 1010
+add 685500 R 898
+add 333161 R 1016
+deleteL 183892
+deleteL 636194
+add 640821 L 701
+deleteL 928696
+deleteR 257957
+deleteR 42754
+add 932973 R 71
+drop 1562
+add 569203 R 1609
+deleteL 651872
+add 366973 L 221
+deleteR 394034
+add 814004 R 416
+add 283955 R 1632
+add 692985 R 896
+add 37470 L 681
+deleteR 316831
+deleteL 721635
+drop 1519
+add 922000 L 260
+deleteL 922436
+add 775171 L 1980
+add 734325 R 1720
+add 19430 L 409
+deleteR 600515
+add 749942 L 954
+drop 237
+drop 1570
+add 876438 R 1430
+deleteR 667013
+add 646561 L 525
+deleteR 993899
+add 876438 L 1253
+add 896012 R 124
+add 835069 L 78
+deleteR 975340
+add 751062 L 1655
+deleteR 814004
+add 397700 R 458
+drop 1432
+add 686866 R 471
+drop 1166
+add 642596 L 1238
+deleteR 835069
+add 783733 R 360
+add 226324 R 1548
+deleteR 152054
+add 711715 L 1648
+deleteL 106505
+add 374391 L 1477
+drop 125
+deleteR 734325
+drop 1472
+drop 1709
+drop 1089
+drop 73
+add 718208 R 985
+add 646561 L 1546
+add 580088 L 1109
+deleteL 392499
+add 566546 L 605
+deleteL 566546
+deleteR 167384
+add 150589 R 1807
+drop 1562
+add 459678 L 69
+deleteL 372417
+add 756392 R 1939
+add 898424 L 194
+add 658819 L 675
+drop 1937
+add 534092 L 713
+add 783733 L 1973
+add 321514 R 228
+drop 1169
+add 508135 L 1703
+drop 1544
+deleteL 569203
+deleteL 543724
+drop 1502
+deleteL 462678
+drop 1262
+deleteR 142859
+drop 1653
+add 528896 R 308
+add 885455 L 334
+add 848755 R 333
+drop 145
+drop 1466
+add 982735 R 7
+add 903977 R 1357
+deleteR 98303
+add 943063 R 676
+drop 1422
+drop 1542
+add 768655 R 256
+add 218358 R 1548
+drop 185
+add 960457 L 1380
+deleteR 551236
+drop 1006
+deleteR 756392
+add 4606 L 36
+deleteL 706085
+add 701462 R 920
+drop 38
+drop 353
+drop 1271
+drop 623
+add 663805 R 511
+add 218782 L 1455
+add 580088 R 741
+add 229526 L 1216
+deleteL 768655
+add 550979 L 1355
+deleteR 218358
+add 528896 L 38
+deleteL 680781
+add 259284 R 1819
+add 589461 L 1726
+add 369719 R 1819
+deleteL 374391
+deleteL 229526
+deleteR 218782
+deleteR 581822
+deleteR 686866
+add 932973 R 60
+deleteR 701462
+deleteL 528121
+drop 1112
+deleteR 453914
+add 259284 R 262
+add 509578 R 1660
+drop 1944
+add 329105 L 511
+deleteL 976927
+add 449650 L 139
+add 982735 L 1165
+add 19430 L 748
+deleteR 634381
+add 369719 R 1393
+add 4606 L 1919
+drop 721
+drop 1170
+add 783733 R 874
+deleteR 113991
+deleteL 718208
+add 17371 R 899
+add 273693 L 527
+add 896012 R 1616
+add 577515 L 478
+deleteR 366973
+add 405236 R 1315
+deleteL 509578
+drop 791
+add 642596 R 619
+deleteR 560994
+add 642596 R 879
+deleteL 508135
+add 789030 R 667
+add 562038 R 7
+deleteL 459903
+add 659970 R 1743
+add 880249 L 626
+add 897058 R 38
+add 740137 R 20
+deleteL 465630
+deleteR 528896
+add 39009 L 52
+deleteL 320593
+add 535379 R 1311
+add 73291 L 1958
+add 17371 L 1998
+deleteL 577515
+add 373570 L 1085
+deleteR 397700
+add 17371 R 708
+deleteL 461135
+deleteL 263252
+deleteL 946098
+drop 334
+add 685500 R 1127
+add 645277 L 1122
+deleteL 982735
+add 369719 L 176
+drop 881
+add 827130 R 719
+add 792554 R 1527
+add 885498 L 1930
+drop 1329
+add 273693 L 259
+drop 566
+drop 1526
+drop 789
+add 960457 R 1117
+drop 303
+deleteR 550979
+add 86252 R 1654
+deleteL 690154
+add 751062 R 1016
+add 642596 R 96
+deleteR 483333
+add 848755 R 596
+deleteL 171778
+add 373570 R 968
+add 609682 R 1869
+deleteL 749942
+add 259284 L 1983
+add 749586 L 221
+deleteR 241366
+add 378660 R 735
+add 609559 R 1924
+drop 267
+add 943063 R 1696
+add 932973 R 1796
+deleteR 663805
+add 896012 R 616
+drop 644
+drop 1104
+deleteL 609559
+deleteR 609682
+add 932973 L 1076
+deleteR 685500
+add 226324 L 1054
+add 863501 R 1653
+add 671750 L 802
+deleteL 876438
+drop 1976
+add 751062 R 1888
+add 373835 L 1883
+drop 1363
+deleteR 885498
+drop 381
+deleteL 687791
+deleteL 804399
+deleteL 527190
+add 938300 R 646
+add 382645 R 330
+add 714540 L 1623
+add 567275 L 1561
+add 317983 R 687
+add 770667 R 488
+add 676308 R 1110
+drop 1479
+add 697664 R 1496
+add 908912 R 814
+add 783733 L 1899
+drop 1855
+add 561278 L 989
+add 121563 R 1311
+add 42770 L 1982
+add 642596 R 842
+add 479745 R 392
+add 903977 R 1735
+add 329105 L 42
+deleteR 882275
+drop 1028
+drop 1664
+add 368890 L 749
+deleteR 4606
+add 876001 R 1302
+add 313237 R 694
+drop 1003
+deleteL 960927
+deleteR 559094
+deleteR 181211
+deleteL 938300
+add 31845 L 1502
+drop 1115
+deleteL 903977
+drop 393
+deleteL 333161
+deleteL 714540
+deleteR 283955
+add 891343 R 363
+drop 1623
+drop 1828
+add 142241 L 1212
+drop 1266
+deleteL 561278
+add 419944 R 687
+add 818077 R 1062
+add 779326 R 1376
+add 364531 L 111
+deleteL 449650
+deleteL 692985
+deleteL 19430
+drop 1240
+add 259717 L 590
+drop 559
+add 960457 R 912
+deleteL 697664
+deleteR 786299
+add 837812 R 947
+deleteR 419944
+add 101968 L 1706
+add 438623 R 1373
+deleteL 909118
+add 989954 R 1767
+deleteL 897058
+add 106897 R 1532
+add 194805 L 1151
+add 787124 L 716
+add 232856 R 1902
+drop 552
+deleteR 789030
+deleteL 39009
+drop 695
+add 958548 R 941
+deleteL 908912
+deleteL 226324
+deleteL 329105
+add 939307 R 323
+deleteR 898424
+deleteL 580088
+deleteR 989871
+drop 1038
+drop 511
+add 837812 R 1467
+deleteR 837812
+deleteR 567275
+deleteL 479745
+drop 1172
+add 779232 L 557
+add 345043 R 311
+deleteL 121563
+deleteR 896012
+drop 163
+add 982840 R 1515
+add 459678 L 73
+drop 323
+add 671750 R 1586
+drop 1269
+deleteL 749586
+add 17371 L 1222
+drop 1172
+deleteL 779326
+deleteR 642596
+drop 1706
+add 810945 L 1831
+add 290248 R 413
+add 876001 L 1053
+add 502587 L 743
+drop 1750
+add 659970 L 448
+add 524062 R 169
+deleteL 876001
+add 487990 R 918
+add 26421 L 99
+add 728777 R 1343
+deleteR 705599
+add 241521 R 1740
+drop 395
+add 378660 L 1216
+add 679739 R 179
+deleteR 273693
+deleteR 783733
+deleteR 676308
+add 119677 L 1622
+add 729317 R 640
+deleteR 364531
+deleteR 922000
+add 35130 L 1007
+deleteL 86252
+add 317332 L 29
+add 779232 R 1683
+add 635262 R 612
+add 103103 L 487
+deleteL 405236
+drop 1831
+drop 819
+deleteL 779232
+drop 386
+deleteR 150589
+add 932973 L 1215
+add 740137 R 1763
+deleteR 360508
+add 440377 R 381
+drop 1611
+deleteL 728777
+deleteL 317983
+add 680254 L 1811
+add 297092 L 1300
+add 814945 L 1574
+add 232856 L 998
+add 827130 L 238
+drop 561
+deleteL 751062
+drop 1957
+add 321131 L 1427
+add 340339 L 1143
+add 382645 L 1963
+add 256064 R 139
+add 193566 L 1132
+deleteL 119677
+add 765677 L 1819
+add 228232 L 1884
+add 888868 L 480
+add 31845 L 329
+drop 1323
+deleteL 378660
+drop 194
+deleteR 671750
+add 241521 R 1275
+drop 1733
+add 524062 L 1919
+drop 352
+add 932973 L 1044
+add 151602 R 483
+drop 1049
+deleteR 679739
+deleteR 932973
+add 196007 R 34
+deleteL 369719
+deleteL 17371
+add 888868 L 1054
+add 534092 L 713
+deleteR 640821
+add 658819 L 1868
+add 597035 R 532
+drop 1517
+drop 872
+drop 1283
+drop 909
+drop 489
+deleteR 847604
+add 411393 R 1071
+add 248212 R 1164
+add 787124 R 1310
+add 958217 R 1283
+add 863501 L 172
+deleteR 670975
+add 487990 L 275
+deleteR 101968
+add 502587 L 1677
+deleteR 704682
+drop 489
+deleteL 958217
+deleteR 827130
+deleteL 151602
+add 622175 R 1844
+add 703589 R 1274
+add 40181 L 806
+deleteR 880249
+add 198232 L 1844
+deleteL 321514
+deleteR 502587
+deleteL 916623
+drop 17
+drop 1592
+add 630419 R 1685
+drop 507
+drop 406
+deleteL 382645
+deleteR 818077
+add 404985 R 1598
+drop 450
+add 232856 L 630
+drop 168
+add 325807 R 1315
+drop 210
+add 625547 R 198
+add 187926 R 1114
+add 535379 R 716
+drop 273
+add 35130 R 249
+add 597035 L 177
+deleteR 235550
+deleteL 792554
+drop 1840
+drop 1545
+drop 1689
+add 809028 R 1028
+drop 1295
+deleteR 351638
+drop 1922
+add 373835 L 56
+add 728063 L 1831
+drop 1999
+deleteL 979150
+add 989954 L 1280
+drop 344
+add 16944 L 620
+deleteL 193566
+add 339278 L 143
+drop 715
+deleteL 368890
+add 940258 L 232
+add 711715 L 789
+add 562038 L 247
+deleteR 345043
+deleteL 56729
+add 580704 L 930
+add 932349 L 1325
+add 291467 R 896
+add 853885 R 465
+add 26421 L 818
+drop 1466
+add 961224 L 251
+deleteR 580704
+deleteL 646561
+add 725707 R 828
+drop 1733
+deleteL 622175
+add 343508 R 1230
+drop 190
+deleteL 635262
+drop 1964
+add 796056 L 365
+deleteR 284741
+drop 115
+deleteR 787124
+deleteL 379799
+deleteR 259284
+drop 821
+add 562038 R 1700
+drop 315
+drop 1046
+deleteL 317332
+deleteL 982840
+add 524062 L 1071
+add 770667 R 1227
+add 939307 R 897
+deleteR 297092
+deleteR 814945
+add 166907 R 1397
+add 680254 R 1144
+drop 660
+add 281840 L 128
+drop 221
+deleteR 291587
+add 373835 L 1432
+add 40181 L 1349
+add 103103 L 603
+drop 458
+deleteR 613879
+deleteL 809028
+drop 1658
+deleteL 658819
+add 151304 L 941
+add 524062 L 858
+deleteR 31845
+deleteL 166907
+deleteL 35130
+deleteL 433398
+add 667753 L 1873
+drop 856
+add 373570 R 889
+add 658244 R 1305
+deleteR 459678
+add 122994 L 746
+drop 1317
+add 701691 L 1241
+drop 1062
+drop 136
+add 971527 R 161
+add 711715 R 83
+deleteL 458454
+deleteL 535379
+add 713871 L 750
+deleteR 74328
+deleteL 523923
+drop 646
+drop 1383
+drop 1383
+deleteL 343508
+drop 1863
+deleteL 713871
+deleteR 122994
+add 981142 R 1488
+deleteL 241521
+deleteR 784549
+add 562994 R 1489
+add 534092 L 1840
+add 447596 L 8
+drop 1174
+add 721954 L 539
+drop 206
+add 481206 R 267
+drop 449
+deleteL 960457
+add 447596 R 1686
+add 703589 L 1140
+deleteR 971527
+add 210908 L 1817
+add 270271 R 1011
+drop 1141
+deleteR 534092
+add 924049 R 549
+drop 653
+add 640071 L 562
+add 837756 L 1166
+deleteL 863501
+deleteL 711715
+deleteR 897639
+add 630419 L 1692
+deleteL 305151
+add 421616 L 606
+add 351988 L 315
+add 196007 L 592
+deleteL 562038
+deleteL 151304
+drop 1756
+add 658244 R 1694
+add 471357 R 356
+drop 1496
+add 524062 R 1808
+add 823290 L 1492
+add 893774 L 520
+drop 1480
+add 680254 R 619
+drop 86
+add 103103 L 258
+add 770081 R 1482
+deleteL 932349
+drop 1190
+deleteL 340339
+add 842736 L 1765
+add 656896 L 740
+drop 990
+deleteR 961224
+add 801947 R 900
+add 566226 R 181
+drop 1151
+drop 102
+deleteL 228232
+add 888313 R 1447
+drop 1943
+add 290248 L 763
+add 117951 L 218
+deleteR 728063
+deleteR 891343
+add 978951 L 405
+deleteL 816085
+add 860015 L 1904
+deleteL 196007
+drop 310
+deleteL 625547
+deleteL 95525
+deleteL 645277
+add 848755 R 233
+drop 1615
+add 653497 R 255
+drop 415
+deleteL 595708
+add 562994 L 462
+add 524062 R 1571
+deleteL 440377
+add 513893 R 340
+add 640120 L 1201
+deleteL 888313
+deleteL 411393
+drop 942
+add 897100 R 109
+add 958548 L 1038
+add 198232 R 1651
+add 248218 R 352
+add 924049 L 170
+add 897100 L 1131
+add 848755 L 1706
+deleteR 569285
+add 198232 L 548
+add 729317 L 1713
+add 210203 R 1494
+deleteL 630419
+deleteL 842736
+deleteL 246309
+add 779026 L 1031
+drop 1475
+deleteR 725707
+drop 740
+add 194805 R 724
+deleteL 958548
+deleteR 793178
+add 365280 L 1007
+drop 1272
+deleteR 939307
+deleteL 658244
+add 809776 L 705
+drop 411
+drop 900
+drop 251
+deleteL 471357
+add 672642 R 1365
+deleteL 796056
+drop 992
+drop 1493
+add 68395 R 459
+deleteL 339278
+add 550662 L 323
+deleteR 487990
+deleteR 290248
+add 775171 L 498
+deleteR 281840
+add 195061 L 269
+drop 1770
+deleteR 142241
+add 373570 R 1385
+deleteL 16944
+add 461103 L 697
+drop 524
+add 438623 L 753
+add 779026 R 46
+add 905941 L 119
+add 481206 R 1781
+add 566226 R 1445
+deleteR 770081
+add 157108 R 1378
+add 879882 R 328
+drop 1449
+drop 1483
+add 454438 L 423
+deleteL 481206
+add 744292 L 71
+deleteL 256064
+deleteR 779026
+deleteL 476539
+deleteR 461103
+add 680254 R 1254
+deleteL 765677
+drop 1973
+add 888868 L 1408
+drop 327
+drop 197
+add 513893 R 1819
+drop 1280
+add 823290 R 447
+deleteR 940258
+deleteL 897100
+deleteL 740137
+add 672642 L 768
+deleteR 589461
+add 968061 R 866
+deleteR 860015
+deleteR 837756
+add 198232 L 726
+drop 736
+add 410708 R 1506
+deleteL 42770
+add 885455 R 271
+add 270271 R 1318
+deleteR 885455
+add 358784 R 266
+add 725496 R 1194
+deleteL 52166
+deleteR 744292
+deleteR 206306
+drop 1603
+add 548929 R 873
+add 656896 R 1972
+deleteL 978951
+drop 1907
+add 664938 L 808
+add 280841 R 76
+deleteL 989954
+deleteR 703589
+drop 1464
+add 241132 R 1492
+add 103103 L 1843
+add 365280 R 80
+deleteR 725496
+add 358784 R 1392
+deleteL 40181
+add 449279 R 1979
+add 259717 R 625
+deleteR 757939
+deleteR 770667
+deleteR 241132
+drop 1806
+deleteR 313237
+add 446765 L 810
+deleteL 680254
+deleteL 524062
+deleteL 968061
+add 659970 L 397
+deleteR 667753
+drop 426
+add 512780 L 589
+deleteR 117951
+drop 143
+drop 55
+deleteR 810945
+add 262652 R 1606
+deleteR 437126
+add 447596 L 512
+drop 1422
+deleteL 924049
+deleteR 73291
+add 666899 L 1527
+drop 1907
+add 966751 R 1397
+add 270271 L 1897
+deleteL 597035
+add 663952 R 365
+deleteL 822345
+deleteL 512780
+deleteR 659970
+drop 1866
+add 548929 L 1163
+add 68395 L 1882
+add 981142 L 807
+add 259717 L 1416
+deleteL 74397
+deleteR 853885
+add 764650 L 1779
+drop 434
+add 14205 R 1215
+deleteR 888868
+deleteL 103103
+add 270271 R 1828
+add 171165 R 884
+add 809776 L 345
+add 68395 R 1304
+add 653497 L 372
+add 210203 L 361
+add 342355 R 1931
+drop 96
+deleteL 848755
+add 299108 L 364
+add 234636 L 598
+add 844716 L 1367
+add 653497 R 1288
+add 65331 R 1408
+add 280841 L 494
+add 234636 L 1502
+drop 1427
+drop 611
+deleteL 905941
+deleteL 262652
+add 234636 R 138
+deleteR 37470
+deleteL 764650
+add 373570 R 1277
+add 365280 L 847
+drop 1159
+add 570653 L 823
+deleteL 570653
+drop 774
+add 325807 R 1289
+add 373835 R 1701
+add 471156 L 175
+add 438623 L 353
+drop 1271
+drop 1217
+deleteR 299108
+add 84515 R 1934
+add 71896 R 1939
+add 274305 R 1355
+add 657018 R 162
+add 41851 R 178
+deleteR 358784
+add 497436 R 1260
+drop 1094
+drop 1529
+drop 1556
+add 449279 L 1733
+deleteL 351988
+add 721954 L 747
+deleteR 530787
+deleteL 248218
+add 405188 L 268
+deleteL 701691
+deleteR 657018
+deleteL 274183
+add 342355 R 1241
+deleteL 721954
+drop 1082
+deleteR 966751
+deleteL 801947
+deleteL 210203
+deleteL 26421
+drop 229
+add 943063 R 1752
+deleteR 454438
+add 194805 L 1421
+drop 1704
+drop 1120
+deleteR 446765
+add 923899 R 1510
+add 619125 R 1795
+add 65331 L 708
+deleteL 775171
+add 89197 L 1949
+drop 1762
+add 47321 R 145
+add 405188 R 1050
+drop 1062
+add 548929 R 380
+add 640071 L 1274
+add 34179 L 723
+deleteR 404985
+add 30528 R 1814
+drop 546
+drop 1370
+deleteL 616299
+deleteL 666899
+deleteL 160067
+add 923899 R 997
+deleteL 458793
+deleteR 893774
+drop 1236
+deleteL 171165
+drop 541
+add 709005 R 1195
+deleteL 619125
+deleteR 259717
+deleteR 157108
+add 232856 L 1951
+deleteR 919317
+deleteR 248212
+deleteR 527851
+deleteL 232856
+add 430406 L 434
+add 797882 R 1759
+add 658562 R 1363
+add 241002 L 1118
+deleteL 362981
+add 753803 R 697
+deleteL 923899
+add 658562 R 1260
+deleteR 879882
+deleteL 342355
+drop 341
+deleteR 65331
+deleteL 550662
+add 690998 L 1581
+deleteR 513893
+deleteL 106897
+deleteR 548654
+add 447596 L 1876
+deleteR 447596
+drop 388
+deleteR 14205
+add 29720 R 993
+add 746013 L 1858
+add 241002 L 480
+deleteR 234636
+add 187926 R 998
+add 729317 R 178
+add 530461 R 622
+add 690998 L 65
+deleteR 497436
+add 449279 R 1534
+add 794391 R 316
+add 410708 R 614
+drop 1563
+deleteR 653497
+add 444226 L 564
+deleteL 640071
+drop 811
+deleteL 194805
+deleteR 911626
+deleteL 438623
+add 664252 R 1341
+deleteL 461913
+deleteR 29720
+deleteR 530461
+deleteR 943063
+add 380960 R 993
+add 568204 L 1061
+add 451975 R 498
+drop 617
+deleteR 568204
+deleteR 451975
+add 753803 R 1118
+add 753803 L 1007
+drop 1965
+add 68395 L 150
+add 664938 L 994
+drop 715
+add 187926 L 759
+drop 531
+add 259118 R 1970
+drop 569
+add 779513 R 826
+deleteL 259118
+deleteR 467025
+add 664252 L 1430
+add 41851 R 1927
+add 380960 L 711
+drop 388
+add 494246 L 1198
+deleteL 41851
+deleteR 241002
+drop 1426
+deleteR 325807
+add 380960 L 437
+add 432096 R 460
+deleteL 548929
+deleteR 444226
+add 50425 R 774
+deleteL 658562
+deleteR 187926
+deleteL 734078
+drop 357
+drop 31
+add 405188 L 386
+drop 60
+drop 256
+deleteL 664252
+add 373570 L 230
+deleteL 640120
+add 780848 R 537
+add 20107 R 1135
+deleteL 84866
+add 746013 L 1624
+deleteL 531189
+deleteL 291467
+drop 832
+deleteR 20107
+add 746320 L 142
+deleteL 794391
+add 729317 L 1600
+deleteL 47321
+deleteL 432096
+add 690998 L 839
+add 40828 R 1157
+deleteR 690998
+add 359739 R 274
+add 976666 L 8
+add 371063 R 1225
+add 899226 L 1205
+deleteL 365280
+add 268964 L 292
+add 480076 L 1263
+deleteL 210908
+add 30528 R 767
+drop 521
+add 729317 R 1081
+deleteR 30528
+add 850881 L 1710
+drop 283
+drop 936
+deleteR 656896
+add 408133 R 1932
+add 976666 L 1115
+add 711615 R 192
+deleteL 280841
+add 192129 L 251
+add 198232 R 59
+add 786527 L 716
+add 494246 L 482
+add 442254 L 900
+add 981177 L 1733
+add 274305 L 1469
+drop 437
+deleteL 421616
+deleteL 746013
+add 530127 R 1260
+deleteL 622720
+drop 308
+deleteL 195061
+add 709439 L 165
+drop 1104
+deleteL 797882
+deleteR 380960
+add 376925 R 18
+drop 23
+drop 489
+add 274305 L 1090
+deleteR 480076
+add 664389 L 841
+deleteL 981177
+drop 393
+add 858630 R 34
+add 519975 R 366
+add 823290 L 708
+add 892037 R 464
+add 68395 R 102
+add 34039 R 1480
+add 184553 R 1477
+add 836817 R 739
+add 130780 L 1885
+drop 1744
+add 402961 L 1894
+drop 1042
+add 125103 L 808
+deleteL 270271
+add 823290 R 1406
+drop 514
+add 184553 R 1063
+add 446212 R 1397
+add 608928 R 100
+deleteR 663885
+deleteR 50425
+add 71896 L 414
+add 869657 R 1330
+deleteR 34179
+add 709005 L 1360
+add 664938 L 642
+add 442254 L 125
+add 519975 L 67
+drop 429
+deleteL 268964
+drop 437
+add 858630 R 982
+add 874425 L 346
+add 408133 L 1857
+deleteR 858630
+add 815771 L 735
+add 960282 R 1942
+deleteR 449279
+add 844716 R 666
+add 84585 R 586
+add 342656 L 567
+add 850881 L 695
+deleteL 84585
+add 872486 L 1318
+add 311610 L 1767
+deleteR 569266
+drop 376
+add 570071 R 1633
+add 561651 R 543
+deleteR 408133
+add 590510 L 633
+drop 679
+deleteR 664389
+add 968233 R 963
+deleteR 311610
+add 376925 R 466
+add 560876 L 1458
+drop 703
+add 158388 L 1662
+add 560876 R 834
+drop 1570
+drop 902
+add 237500 R 1027
+deleteR 609644
+deleteR 823290
+add 89197 R 210
+add 446212 R 928
+add 163089 R 1719
+drop 688
+drop 1113
+add 192129 L 1786
+add 464118 R 763
+deleteL 354246
+deleteR 423704
+deleteR 373835
+add 679286 L 935
+deleteR 869657
+deleteL 753803
+drop 732
+deleteR 899226
+add 430406 L 537
+deleteR 158388
+add 559970 L 943
+add 244949 L 411
+drop 1851
+drop 1086
+drop 1809
+drop 1738
+deleteR 876573
+add 608928 R 1993
+deleteR 679286
+add 659085 R 180
+add 51171 R 754
+add 559859 L 285
+drop 1405
+add 404003 R 1163
+add 663952 L 165
+deleteR 373570
+add 6904 L 950
+add 729196 R 1992
+add 815771 R 256
+drop 475
+add 815771 R 1059
+deleteL 530127
+deleteL 34039
+add 782070 L 1291
+add 321131 R 1691
+deleteL 184553
+drop 1914
+add 519975 L 444
+drop 95
+drop 713
+deleteR 672642
+add 695712 L 225
+add 274305 L 1588
+add 51171 R 20
+add 709439 L 1724
+add 786527 R 310
+add 402961 R 623
+add 321047 L 1808
+add 301420 L 1650
+drop 184
+deleteL 562994
+add 836817 R 1263
+drop 1856
+add 560876 R 1885
+deleteL 729317
+add 779513 R 648
+add 928409 L 686
+add 936340 R 1567
+add 110462 R 1597
+drop 150
+drop 1850
+add 288402 R 1725
+deleteL 89197
+deleteL 956135
+deleteR 404003
+add 981142 L 1278
+deleteL 471156
+deleteL 960282
+add 263495 R 327
+add 844716 L 984
+deleteR 342656
+add 968233 L 1934
+add 836817 L 360
+drop 930
+add 244949 L 222
+add 166492 R 68
+add 281187 R 768
+add 977892 L 97
+add 320941 L 230
+deleteR 237500
+drop 1772
+add 850881 R 1217
+add 809776 L 537
+add 430406 L 1907
+drop 613
+drop 1396
+add 376925 L 1186
+add 616315 L 116
+deleteL 663952
+drop 688
+drop 278
+add 371063 L 385
+drop 2
+drop 559
+add 681115 R 1
+add 51171 L 1350
+deleteL 954765
+add 446212 L 1165
+add 995586 L 469
+add 371063 R 642
+add 682319 R 567
+add 844716 R 1214
+add 107810 R 277
+add 525352 R 425
+add 856238 R 1190
+deleteL 616315
+deleteL 51171
+deleteR 320941
+add 740085 L 679
+add 295279 R 564
+deleteL 36054
+add 968233 R 563
+add 699950 R 739
+add 659085 R 357
+add 904706 L 1479
+add 430406 R 1982
+add 850881 R 1265
+deleteR 321047
+deleteL 709439
+deleteL 809776
+drop 526
+add 192129 R 1140
+drop 633
+add 872486 R 1396
+drop 727
+drop 566
+drop 1007
+add 110462 L 1766
+drop 1762
+add 101767 L 1928
+add 294029 R 581
+deleteL 166492
+deleteL 681115
+deleteL 288402
+drop 608
+add 40828 R 670
+add 376925 L 646
+add 482406 R 1510
+add 40828 L 1908
+drop 1589
+drop 36
+add 91210 R 524
+add 134956 L 1525
+add 702201 R 1249
+deleteL 321131
+drop 710
+deleteR 110462
+drop 1822
+drop 1093
+add 314789 L 1307
+add 747454 L 885
+add 424865 L 1162
+add 321597 R 613
+add 482406 R 1958
+deleteL 559859
+add 359739 L 802
+add 107810 L 61
+add 590510 R 1860
+add 195899 R 1565
+add 965508 L 1935
+add 73821 R 788
+add 935358 R 304
+drop 875
+add 654820 R 234
+deleteR 195899
+drop 951
+add 985732 L 1872
+deleteR 957927
+add 519975 R 1611
+deleteR 519975
+deleteL 244949
+drop 1784
+add 874425 L 488
+add 305162 R 1630
+deleteR 73821
+deleteL 570071
+deleteR 136302
+add 203453 R 516
+deleteL 856238
+add 985732 L 287
+deleteR 68395
+add 221310 R 1011
+add 314789 R 586
+add 412137 L 335
+add 486083 R 1631
+add 651997 L 1299
+add 212320 L 1480
+add 976666 L 242
+add 421044 L 165
+drop 158
+deleteL 412137
+add 509774 R 1616
+add 263495 L 30
+add 464118 R 963
+add 671947 R 966
+deleteR 699950
+add 223271 R 79
+add 664938 R 818
+deleteR 844716
+add 464118 R 1618
+drop 369
+add 691078 L 1889
+deleteL 843777
+deleteL 301420
+add 910570 R 1003
+add 522041 L 686
+deleteL 305162
+deleteL 711615
+add 109890 R 1331
+add 667676 L 1702
+drop 1187
+add 134956 R 1277
+add 179724 L 880
+deleteL 522041
+deleteR 936340
+add 995586 R 1287
+add 50679 L 1143
+add 328637 L 909
+deleteR 295279
+drop 693
+deleteR 40828
+drop 1583
+deleteL 608928
+add 657641 R 619
+add 740085 R 324
+add 476973 R 1053
+add 560876 R 725
+add 942293 R 1623
+add 446212 L 844
+add 712593 L 957
+add 783947 L 1739
+drop 374
+add 376925 L 1829
+deleteL 935358
+deleteR 405188
+deleteL 109890
+deleteL 566226
+deleteR 274305
+deleteL 904706
+add 651997 L 246
+add 215320 L 845
+deleteL 179724
+add 834080 R 732
+add 218169 R 949
+deleteR 981142
+deleteR 654820
+drop 1422
+deleteL 134083
+deleteR 491410
+add 780848 L 1734
+add 207858 L 1399
+add 121172 R 1808
+add 25741 L 702
+add 779513 L 19
+deleteL 35573
+add 180182 L 538
+drop 1996
+add 835399 R 1894
+deleteR 125103
+add 215320 L 1962
+add 574764 R 542
+deleteL 746320
+add 464118 R 1109
+deleteL 786527
+add 225617 R 183
+deleteR 464118
+drop 108
+add 659085 R 706
+deleteL 71896
+add 657641 L 1315
+add 271861 L 75
+add 429708 L 1039
+add 843533 R 495
+deleteL 539980
+add 976416 R 616
+drop 1591
+add 91022 L 933
+add 686283 L 1810
+add 782568 L 1499
+deleteR 780848
+drop 1537
+deleteR 121172
+add 130780 R 1427
+drop 455
+add 659085 L 276
+drop 593
+add 146550 R 207
+add 429708 L 136
+drop 106
+drop 1335
+deleteL 659085
+deleteL 223271
+deleteL 424865
+drop 302
+add 184530 L 1858
+add 579841 L 208
+drop 546
+deleteR 328637
+drop 768
+drop 580
+deleteL 180182
+add 650671 L 476
+add 691078 L 1951
+deleteL 207858
+add 913948 L 1682
+add 472774 R 168
+drop 962
+deleteL 307084
+add 125880 L 954
+add 972665 L 1813
+deleteR 968952
+drop 599
+add 830841 R 446
+add 125880 L 660
+drop 1883
+deleteL 729196
+add 662586 L 1623
+add 512813 L 1406
+add 408478 R 45
+drop 598
+add 976666 L 1047
+drop 1683
+add 817599 R 682
+add 815771 R 1119
+drop 741
+deleteL 91022
+deleteL 657641
+add 691225 R 891
+add 51686 R 1695
+add 281187 R 646
+deleteL 281187
+deleteL 184530
+add 713583 L 4
+drop 1951
+add 561651 L 169
+deleteR 610458
+deleteL 703081
+add 125880 R 925
+add 453642 L 823
+drop 695
+add 387982 L 1158
+add 455387 R 404
+add 759393 R 291
+add 525352 R 1117
+deleteR 559970
+deleteL 691225
+add 370212 L 800
+deleteL 371063
+add 709005 R 484
+drop 214
+drop 489
+add 779513 L 1200
+drop 1550
+drop 1807
+add 164289 L 1146
+drop 491
+deleteL 408478
+deleteR 656701
+add 843533 L 1740
+add 228648 R 535
+add 965508 R 1598
+drop 473
+deleteR 387982
+add 50679 L 619
+add 73795 R 387
+add 512813 R 1500
+deleteL 125880
+add 811659 R 55
+deleteR 84515
+deleteR 471240
+add 740085 L 418
+add 124055 L 1081
+add 830916 L 65
+drop 1924
+add 852795 R 1506
+add 555892 R 1223
+deleteL 231912
+add 942293 L 282
+deleteL 50679
+deleteL 913948
+add 246102 L 1698
+drop 1593
+add 964970 R 554
+deleteL 6904
+add 927600 L 1139
+add 271357 R 816
+add 429708 R 168
+deleteL 91210
+deleteR 852795
+add 472774 R 334
+add 348941 R 1640
+drop 1516
+add 535394 L 1998
+add 472546 R 1333
+drop 1409
+deleteR 747454
+add 691078 R 1305
+deleteL 198232
+deleteL 695712
+drop 1831
+drop 462
+drop 755
+add 664938 R 640
+add 693356 L 486
+add 972665 R 1656
+add 830916 R 904
+add 830916 R 244
+add 740079 R 354
+deleteL 783947
+drop 1353
+drop 702
+add 344241 R 1204
+add 864370 L 1268
+drop 268
+drop 242
+drop 1660
+deleteR 253340
+deleteL 850881
+add 904500 R 279
+add 546205 R 1957
+add 691078 L 717
+deleteR 778120
+deleteR 671947
+deleteL 590510
+drop 1886
+add 782568 L 1961
+deleteL 130780
+deleteR 717661
+deleteR 977892
+deleteR 430406
+add 942921 R 672
+deleteL 163089
+add 357709 L 995
+drop 467
+deleteL 271357
+deleteL 709005
+add 485192 L 1147
+drop 1535
+add 355298 L 1786
+add 248084 L 1480
+deleteR 910570
+add 919274 R 1880
+deleteL 321597
+drop 590
+add 512813 R 1588
+add 284052 L 1790
+deleteL 525352
+add 942293 R 751
+deleteR 686283
+add 517505 R 1916
+drop 1234
+drop 1740
+deleteL 965508
+deleteR 942293
+deleteR 985732
+drop 1836
+drop 1204
+add 472546 L 155
+deleteL 211203
+deleteL 192129
+deleteR 485192
+deleteR 667676
+add 784158 R 161
+deleteL 101767
+add 872486 R 254
+drop 496
+add 455061 L 1256
+drop 687
+deleteR 830841
+add 574419 L 1353
+add 370212 L 74
+add 472546 L 1124
+deleteR 28169
+deleteL 874425
+deleteL 864370
+deleteL 453642
+deleteR 263495
+add 519100 L 734
+drop 607
+deleteR 314789
+add 836817 R 810
+deleteL 84265
+drop 1122
+add 230562 R 708
+deleteL 135322
+deleteL 348941
+add 370212 L 700
+drop 350
+deleteR 574764
+drop 1410
+add 940157 L 1200
+add 461997 L 319
+add 998347 R 1064
+add 184923 R 787
+add 890017 L 509
+deleteR 734213
+deleteR 460403
+add 370212 R 965
+add 124055 R 1533
+add 942921 L 1442
+add 203453 L 250
+add 472546 L 702
+deleteR 179645
+deleteR 25741
+deleteL 230562
+drop 1709
+add 784158 L 1428
+deleteR 124055
+drop 679
+add 919274 R 238
+drop 1650
+deleteR 650671
+deleteL 429708
+deleteR 376925
+add 476278 L 816
+drop 1609
+add 811659 R 1240
+add 740085 R 813
+deleteR 284052
+deleteR 759393
+add 495908 R 1623
+drop 1935
+add 134956 L 1808
+add 228648 R 1168
+add 733697 L 1109
+drop 1111
+add 455387 R 1750
+deleteL 579841
+drop 89
+add 51686 R 894
+drop 1353
+add 988055 L 493
+add 184923 R 911
+add 91880 R 1675
+add 94769 R 1235
+add 432184 R 934
+add 651390 R 1203
+drop 1280
+add 446212 L 1464
+deleteL 91880
+add 890017 R 106
+add 662586 R 1933
+drop 1451
+deleteL 946703
+add 442254 L 802
+add 588743 R 1568
+deleteL 892037
+add 472546 R 679
+add 471690 L 1295
+add 273663 L 1324
+add 662586 R 1140
+deleteR 560876
+add 432184 R 1513
+add 455387 L 1465
+drop 757
+deleteL 446212
+deleteR 215320
+drop 1806
+deleteL 494363
+deleteL 357709
+add 546205 L 815
+add 127469 R 827
+add 830916 L 255
+add 542571 R 1574
+add 236788 L 1400
+drop 426
+add 778889 L 257
+deleteL 733697
+deleteR 784158
+add 888631 R 1507
+drop 83
+add 526511 L 642
+add 491785 L 1148
+add 761370 R 1971
+add 134956 L 758
+drop 1396
+drop 1475
+add 164341 L 273
+add 203453 R 357
+add 111054 R 944
+add 500405 R 27
+deleteR 225617
+deleteL 904500
+add 739897 R 1068
+add 600945 R 550
+add 603473 R 1993
+drop 326
+deleteL 343050
+deleteL 919274
+add 204402 R 903
+drop 1551
+deleteR 603473
+deleteL 228648
+add 782070 R 1735
+deleteL 998347
+add 915365 R 629
+drop 1611
+drop 644
+drop 622
+add 200573 L 107
+add 21782 R 432
+drop 562
+deleteL 248084
+add 985911 R 1728
+deleteL 314949
+add 400723 L 267
+drop 896
+drop 709
+drop 56
+add 196813 R 672
+drop 1052
+deleteR 940157
+add 471690 R 1871
+add 442254 R 1105
+add 2417 L 1640
+drop 650
+add 421044 R 804
+add 996516 R 1449
+deleteR 207215
+drop 1952
+add 761370 R 1020
+add 518188 R 1622
+deleteR 359739
+deleteR 474630
+drop 256
+add 392212 L 1117
+add 38611 R 129
+deleteL 38611
+add 439631 R 1921
+drop 524
+deleteR 73795
+drop 1228
+add 363528 L 1824
+add 403826 L 1134
+add 114772 L 1855
+deleteL 888631
+deleteL 94769
+drop 490
+add 876718 R 1675
+deleteR 355298
+add 995900 R 173
+add 52256 R 501
+deleteL 221310
+deleteL 600945
+add 992423 R 1802
+deleteL 421044
+deleteR 273663
+add 413334 R 1455
+drop 1759
+add 928409 L 1227
+deleteL 542571
+add 419952 L 1169
+deleteR 455387
+add 920698 R 348
+add 875 L 1464
+drop 319
+drop 1040
+deleteR 461997
+deleteL 212320
+add 271861 L 1167
+add 586176 R 1300
+deleteR 702201
+add 815771 R 517
+drop 1418
+add 185118 L 1905
+drop 889
+drop 1376
+add 471700 R 759
+deleteL 146550
+deleteR 811659
+deleteR 739431
+drop 768
+add 193441 L 222
+drop 376
+deleteL 535394
+add 740079 R 812
+add 504595 R 852
+add 876718 R 1041
+add 835399 R 1379
+drop 1545
+add 425229 L 1603
+deleteL 703286
+deleteL 236788
+deleteR 875
+drop 1661
+add 779513 R 602
+add 793202 L 1326
+add 7032 R 635
+deleteL 51686
+add 942921 L 819
+add 972665 L 1448
+deleteR 658749
+add 930600 L 947
+deleteR 4068
+drop 140
+add 601655 L 120
+add 222290 L 1264
+drop 270
+add 158099 L 585
+deleteL 519220
+drop 1502
+deleteR 7032
+drop 25
+add 428387 R 1128
+deleteL 890017
+add 484293 R 1412
+add 611871 R 1158
+add 430035 R 187
+add 740079 R 1535
+deleteL 740079
+drop 1720
+add 283928 L 468
+drop 785
+drop 1281
+drop 543
+deleteR 392212
+deleteL 203453
+drop 1489
+add 710164 R 1785
+add 138124 R 504
+add 934610 R 1817
+deleteL 739499
+drop 1796
+drop 1767
+deleteR 297731
+deleteR 184923
+add 995586 R 1282
+drop 1553
+add 905962 R 1955
+deleteL 616390
+add 164341 R 64
+add 872486 R 1927
+deleteL 523654
+drop 428
+deleteR 519100
+add 410708 L 1799
+deleteL 471690
+drop 252
+add 563351 L 619
+add 400723 R 144
+add 651390 R 452
+deleteR 455061
+deleteR 976416
+add 129359 R 415
+deleteR 509774
+deleteR 476973
+add 724558 R 813
+deleteR 710164
+add 21782 L 1220
+deleteL 52256
+deleteL 71988
+add 995900 L 1545
+add 919387 R 1978
+deleteL 471700
+add 250557 R 1829
+drop 1632
+add 561651 L 1701
+add 402961 L 1280
+add 995900 L 1610
+add 968233 R 1013
+deleteL 995900
+add 782070 L 1516
+deleteR 651997
+add 993152 L 1473
+add 77819 R 199
+deleteR 486083
+deleteR 793202
+deleteL 836817
+deleteR 689243
+add 752866 L 1166
+drop 804
+drop 1166
+add 643089 L 106
+deleteL 518188
+add 654421 R 348
+drop 951
+add 292055 L 1388
+deleteR 295401
+add 591100 L 485
+deleteR 378736
+deleteR 495548
+add 928409 L 433
+add 388817 R 709
+deleteL 993152
+add 370212 L 1142
+drop 556
+drop 444
+add 107810 L 663
+deleteL 977951
+add 972665 L 458
+drop 845
+deleteL 660550
+deleteL 283928
+drop 1448
+add 241562 R 1506
+deleteL 928409
+add 50703 R 1006
+deleteR 724558
+drop 222
+add 246102 L 1263
+drop 1001
+add 952725 L 1471
+deleteR 611871
+deleteR 297308
+drop 62
+deleteL 526511
+deleteL 972665
+drop 723
+drop 1108
+add 796122 R 1389
+add 561915 R 1307
+deleteL 241562
+add 872486 R 97
+drop 364
+add 218169 R 646
+deleteL 905962
+drop 1843
+add 200573 R 1715
+add 784404 L 1888
+drop 1642
+drop 621
+add 855591 L 1104
+add 855591 R 991
+drop 94
+add 311220 R 942
+deleteL 111054
+deleteL 713583
+drop 158
+add 109908 R 71
+drop 1400
+deleteR 574419
+add 661588 L 949
+drop 796
+drop 323
+drop 643
+deleteR 136000
+deleteL 968233
+deleteR 185118
+add 504595 R 780
+drop 369
+deleteL 134956
+deleteL 969162
+deleteL 977644
+add 995586 L 1954
+deleteL 419952
+drop 179
+deleteR 927600
+add 50703 R 166
+add 651742 R 1124
+deleteR 428387
+deleteL 196813
+deleteL 193441
+add 425229 L 1968
+add 581407 R 349
+deleteL 293504
+add 591100 L 262
+drop 762
+add 300849 R 929
+add 478215 L 1257
+drop 1726
+add 432184 L 1150
+deleteL 439631
+add 292055 L 1212
+deleteL 246102
+add 495908 L 569
+add 271861 L 1639
+add 675106 R 1161
+drop 561
+add 37059 L 1068
+drop 1632
+add 807481 L 1911
+drop 558
+deleteL 561651
+add 491785 L 1682
+drop 727
+deleteR 416932
+add 405435 L 960
+add 697764 R 929
+drop 1500
+drop 494
+deleteL 504595
+add 18242 L 1609
+add 608477 R 1312
+drop 640
+drop 1607
+add 494246 R 1277
+add 202795 R 270
+deleteL 512813
+drop 231
+add 452710 L 1228
+drop 649
+deleteL 964970
+add 782070 R 1747
+add 428160 L 1199
+deleteR 107810
+add 400723 L 1490
+deleteR 344241
+drop 169
+deleteR 271861
+drop 606
+drop 1014
+deleteL 491785
+add 778889 L 948
+add 697764 L 546
+deleteL 996516
+add 698106 L 1858
+drop 761
+deleteR 784404
+deleteR 976666
+drop 1241
+drop 117
+deleteL 428160
+deleteR 737313
+deleteL 934610
+add 166689 R 426
+add 5220 R 250
+add 833125 R 1176
+add 512609 L 228
+add 432184 L 676
+drop 1724
+drop 464
+deleteR 425229
+deleteL 300849
+drop 1994
+add 184640 R 1024
+add 477024 R 1496
+drop 715
+add 218169 L 205
+add 5220 L 1667
+add 250557 L 561
+deleteL 77819
+drop 877
+deleteL 539274
+add 653487 L 1201
+add 243005 L 249
+add 217174 R 8
+add 37059 R 483
+deleteL 517505
+add 581407 L 1167
+drop 1301
+deleteR 833125
+add 834080 R 1831
+deleteR 2417
+add 472774 L 501
+drop 1562
+add 278440 L 497
+add 878975 R 145
+add 190141 L 276
+deleteL 782070
+deleteR 857578
+add 773875 R 1955
+deleteL 992423
+drop 767
+deleteL 691078
+add 222290 R 1879
+add 863413 L 1288
+deleteR 370212
+add 834080 L 426
+add 651742 L 526
+deleteL 919387
+deleteL 555892
+deleteL 442254
+add 876718 L 285
+drop 1980
+deleteL 651742
+add 417109 L 1876
+add 64603 R 785
+deleteL 920698
+drop 397
+deleteR 217174
+deleteR 109908
+deleteR 876718
+add 311220 R 1190
+drop 1584
+add 706935 R 1480
+add 786667 L 590
+deleteL 643089
+drop 651
+drop 1984
+deleteL 21782
+deleteL 402961
+add 930600 L 1042
+deleteR 413334
+add 942921 L 778
+add 773586 L 1301
+add 834080 R 492
+add 519963 L 81
+add 739897 L 791
+add 708519 L 1649
+deleteR 546205
+drop 1211
+drop 19
+add 114772 R 1585
+deleteR 693356
+add 462405 L 397
+add 231611 L 1644
+drop 1973
+deleteL 664938
+add 736808 R 1408
+add 41078 L 250
+add 452710 R 472
+deleteL 581407
+deleteR 106632
+add 516373 R 1885
+add 288989 R 821
+add 608477 L 174
+add 930894 L 1722
+add 166689 R 1030
+drop 540
+deleteR 708519
+deleteL 484293
+drop 1783
+deleteL 11510
+deleteL 662586
+drop 1279
+add 675106 L 748
+drop 868
+add 815771 L 472
+add 320921 R 1951
+deleteR 752866
+add 496991 R 965
+add 127469 L 1823
+drop 630
+add 770796 L 1920
+add 41078 L 342
+add 41078 R 698
+deleteL 708955
+add 447427 R 68
+add 676469 L 712
+add 268666 R 1159
+add 561915 L 240
+drop 1070
