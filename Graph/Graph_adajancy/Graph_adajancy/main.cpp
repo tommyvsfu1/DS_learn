@@ -610,10 +610,11 @@ int main(int argc, const char * argv[]) {
         int nn2 = std::atoi(str.substr(n1+1,n2).c_str());
         int nn3 = std::atoi(str.substr(n2+1).c_str());
         checkNode = nn1;
-       // std::cout << nn1 << " " << nn2 << " " <<  nn3 << std::endl;
+        std::cout << nn1 << " " << nn2 << " " <<  nn3 << std::endl;
         g.graphAddEdge(&g, nn1, nn2, nn3);
     }
     //std::cout << "#" << std::endl;
+   // g.graphAddEdge(&g, 100000000, 2, 3);
     for (int k = 1; k < nodenumber+1; ++k) {
         if (g.NegativeCycle(k)) {
             fout << "Negative cycle\n";
